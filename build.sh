@@ -1,3 +1,4 @@
+rm -fr compiled
 git add .
 git commit -m "update blog source"
 git push -u origin master
