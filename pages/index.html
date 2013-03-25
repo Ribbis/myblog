@@ -1,0 +1,35 @@
+---
+layout: default
+title: 路上，在行走...
+description: 这是博客的首页
+---
+{{# posts.paginator }}
+<!-- <section id="post-2945" class="post-2945 post type-post status-publish format-standard hentry category-themes tag-ilost tag-themes tag-wordpress">
+ -->
+<section>
+  <div class="title">
+    <h2>
+      <a href="{{url}}" title="something" rel="bookmark">{{title}}</a>
+    </h2>
+    <small>
+      {{ date }} {{time}} / 
+      {{# categories }}
+      <a href="{{ url }}" title="{{ name }}" rel="category tag">{{ name }}</a>
+      {{/ categories }}
+    </small>
+  </div>
+  <div class="entry">
+    {{{ summary }}}
+    <a href="{{url}}" class="more-link">Read more</a>
+  </div>
+  <div class="post-meta">
+    Tags: 
+    {{# tags }}
+    <a href="{{ url }}" rel="tag">{{ name }}</a> | 
+    {{/ tags }}
+    <div class="clear"></div>
+  </div>
+</section>
+{{/ posts.paginator }}
+{{> page_navigation}}
+        

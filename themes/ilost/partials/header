@@ -1,0 +1,31 @@
+<header>
+  <form role="search" method="get" id="searchform" action="http://google.com/search" >
+   <div>
+    <label class="screen-reader-text" for="q">搜索：</label>
+    <input type="text" value="" name="q" id="s" />
+    <input type="hidden" name="q" value="site:xcoder.im">
+    <input type="submit" id="searchsubmit" value="搜索" />
+   </div>
+  </form>
+
+  <div class="caption">
+    <a class="logo" href="{{urls.base_path}}" title="{{data.tagline}}"></a>
+    <a class="feedrss" target="_blank" href="http://feed.feedsky.com/ecchanger">Feed Rss</a>
+  </div>
+  <nav id="navs" class="menu-xu-nav-container">
+    <ul id="menu-xu-nav" class="menu">
+      {{# data.navigation?to_pages }}
+      {{#is_active_page}}
+      <li class="current_page_item">
+        <a href="{{url}}">{{title}}</a>
+      </li>
+      {{/is_active_page}}
+      {{^is_active_page}}
+      <li>
+        <a href="{{url}}">{{title}}</a>
+      </li>
+      {{/is_active_page}}
+      {{/ data.navigation?to_pages }}          
+   </ul>
+  </nav>
+</header>

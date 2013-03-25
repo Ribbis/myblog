@@ -1,0 +1,19 @@
+---
+description:
+---
+<section>
+	<div id="archives" class="entry">
+		{{# posts.collated }}
+			<h3 id="{{name}}-ref">☞&nbsp;{{year}}</h3>
+		  {{#months}}
+		  <ul class="ulpost">
+		  	<!-- <div style="font-weight: bold;">[{{month}}]</div> -->
+
+		  {{# posts?to_posts }}
+		    <li><a href="{{url}}">{{title}}</a>{{date}}</li>
+		  {{/ posts?to_posts }}
+			</ul>
+			{{/months}}
+		{{/ posts.collated }}
+	</div>
+</section>

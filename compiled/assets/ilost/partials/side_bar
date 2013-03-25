@@ -1,0 +1,94 @@
+<aside id="aside">
+    <ul class="clear">
+<!--
+      <li id="ilost_sidebar_recentposts" class="widget">
+        <h3 class="widgettitle">Next Day</h3>
+        <ul class="random">
+          <li style="margin-top: 10px;"><img src="{{urls.media}}/nextday.jpg" style="width:220px;height:auto;"/></li>
+        </ul>
+      </li>
+ -->
+
+      <li id="ilost_sidebar_about" class="widget">
+        <h3 class="widgettitle">About</h3>
+        <div class="reavatar">
+          <a href="{{urls.base_path}}" title="ecchanger@gmail.com">
+            <span class="avatar-warp">
+              <img alt='' src='{{urls.media}}/author.jpg' class='avatar avatar-64 photo' height='64' width='64' />
+            </span>
+          </a>
+          <p>爱爬山，爱暴走，爱骑车..我是&nbsp;<strong>谢吉宝</strong>&nbsp;，花名&nbsp;<strong>唐三</strong>&nbsp;，XY染色体，80年代产物，互联网从业人员，目前就职于&nbsp;<a target="_blank" href="http://rdc.taobao.com/team/jm">淘宝中间件团队</a>&nbsp;，主要从事性能优化方面的工作，关注新技术动态，关注互联网...本博客主要记录自己的工作、学习、生活...<br />
+<!--
+           <strong>本博客主要关注以下领域：</strong>
+          <ul>
+            <li>☞ Java</li>
+            <li>☞ Performance</li>
+            <li>☞ JVM</li>
+            <li>☞ *UNIX</li>
+            <li>☞ Life</li>
+          </ul>
+-->
+          </p>
+        </div>
+      </li>
+
+      <li id="ilost_sidebar_categories" class="widget">
+        <h3 class="widgettitle">Categories</h3>
+        <ul>
+          {{# posts.categories.all }}
+            <li class="cat-item cat-item-1">
+              <a href="{{ url }}" title="{{ name }}">{{ name }}&nbsp;({{ count }})</a>
+            </li>
+          {{/ posts.categories.all }}
+        </ul>
+      </li>
+
+      <li id="ilost_sidebar_recentposts" class="widget">
+        <h3 class="widgettitle">Articles</h3>
+        <ul class="random">
+          {{# posts.latest }}
+          <li><a href="{{url}}" title="{{title}}">{{title}}</a></li>
+          {{/ posts.latest }}
+        </ul>
+      </li>
+      
+      <li id="ilost_sidebar_tags" class="widget widget_categories" style="margin-bottom: 50px;">
+        <h3 class="widgettitle">Tags</h3>
+          <section class="panel panel-tags" style="margin-left: 12px;">
+          {{# posts.tags.all }}
+          <!-- <a href='{{ url }}' class='tag-link-18' title='{{ name }}' style='font-size: 12px;'>{{ name }}&nbsp;({{ count }})</a> -->
+          <a href='{{ url }}' class='tag-link-18' title='{{ name }}' style='font-size: 12px;'>{{ name }}</a>
+          <!-- <span style="vertical-align: super;font-size: 0.6em;">{{count}}</span> -->
+          {{/ posts.tags.all }}
+          </section>
+      </li>
+<!--
+      <li id="ilost_rcommentswidget-2" class="widget ilost_RCommentsWidget">
+        <h3 class="widgettitle">最近评论</h3>
+        <ul class="comment">
+          <li>
+            <span class="avatar-warp">
+              <img alt='' src='{{urls.stylesheets}}/images/guest.png' class='avatar avatar-64 photo' height='64' width='64' />
+            </span>
+            <a href="http://xuui.net/themes/ilost-full-1-7-updata.html#comment-11479" title="On iLost Full 1.7 更新">zyzzyq.c@gmail.com</a>: 请问一下，iStudio网站大标题是宋体，这个在哪里改啊？在css的啥位置。。谢谢！
+          </li>
+        </ul>
+      </li>
+ -->
+
+<!--
+      <li id="meta-4" class="widget widget_meta">
+        <h3 class="widgettitle">功能</h3>
+        <ul>
+          <li><a href="http://xuui.net/wp-login.php?action=register">注册</a></li>
+          <li><a href="http://xuui.net/wp-login.php">登录</a></li>
+          <li><a href="http://xuui.net/feed" title="使用 RSS 2.0 订阅本站点内容">文章 <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+          <li><a href="http://xuui.net/comments/feed" title="使用 RSS 订阅本站点的所有文章的近期评论">评论 <abbr title="Really Simple Syndication">RSS</abbr></a>
+          </li>
+          <li><a href="http://cn.wordpress.org/" title="基于 WordPress，一个优美、先进的个人信息发布平台。">WordPress.org</a>
+          </li>
+        </ul>
+      </li>
+ -->
+    </ul>
+  </aside>

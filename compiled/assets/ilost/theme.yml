@@ -1,0 +1,29 @@
+{
+  "stylesheets" : {
+    "default" : [
+      # "moon.css",
+      "prettify.css",
+      "style.css",
+      "shortstyle.css"
+    ],
+   
+    "widgets" : {
+      "google_prettify" : "moon.css"
+    }
+    
+  },
+
+  "javascripts" : {
+    "default" : [
+    "jquery.js",
+    "load.js",
+    "rotation.js",
+    "scripts.js"
+    ]
+  },
+  
+  "manifest" : {
+    "author" : "ecchanger",
+    "website" : "http://xcoder.im"
+  }
+}

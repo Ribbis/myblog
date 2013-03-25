@@ -1,0 +1,18 @@
+title : On the Road...
+tagline: A goal is a dream with a deadline...
+author :
+  name : ecchanger
+  email : ecchanger@gmail.com
+  github : ecchanger@gmail.com
+  twitter : ecchanger@gmail.com
+  feedburner : feedname
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  #- pages.html
+  #- love.md
+  - douban.html
+  #- about.md
+  

@@ -1,0 +1,27 @@
+---
+description:
+---
+<section>
+	<ul id="linkpage">
+		<li id="linkcat-2" class="linkcat">
+			<h2>Tags</h2>
+			<ul class='xoxo blogroll'>
+				{{# posts.tags.all }}
+				<li><a href="{{url}}">{{name}}&nbsp;({{count}})</a></li>
+				{{/ posts.tags.all }}
+			</ul>
+		</li>
+	</ul>
+
+	<div id="archives" class="entry">
+		{{# posts.tags.all }}
+		  <h3 id="{{name}}-ref">☞&nbsp;{{name}}</h3>
+		  <ul class="ulpost">
+			  {{# posts?to_posts }}
+			    <li><a href="{{url}}">{{title}}</a>{{date}}</li>
+			  {{/ posts?to_posts }}
+			</ul>
+		{{/ posts.tags.all }} 
+	</div>
+</section>
+

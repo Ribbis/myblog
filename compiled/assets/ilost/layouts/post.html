@@ -1,0 +1,64 @@
+---
+layout : default
+---
+<!-- <section id="post-2945" class="post-2945 post type-post status-publish format-standard hentry category-themes tag-ilost tag-themes tag-wordpress"> -->
+<section>
+  <div class="title">
+    <h2>{{title}}</h2>
+    <small>
+      {{ date }} {{ time }}/ 
+      [{{# page.categories }}
+      <a href="{{ url }}" title="{{ name }}" rel="category tag">{{ name }}</a>
+      {{/ page.categories }}]
+      <!-- 284 views. -->
+    </small>
+  </div>
+  {{> share_bar}}
+  <div class="entry">
+    {{{ page.content }}}
+  </div>
+<!-- 
+  <div id="authorbox">
+    <div class="avatar-warp">
+      <span></span>
+      <img alt='' src='{{urls.media}}/author.jpg' class='avatar avatar-96 photo' height='96' width='96' />
+    </div>    
+    <p>作者:  <span class="author"><a href="{{urls.base_path}}" title="由 唐三 发布" rel="author">ecchanger</a></span>
+    </p>
+      <p>简介: 互联网从业人员，JavaDevelper@Taobao.com。</p>
+    <div class="clear"></div>
+  </div>
+-->  
+<!-- 
+  <div class="related">
+    <h3>相关文章：</h3>
+    <ul>
+      <li><a href="#" rel="bookmark" title="{{ title }}">{{ title }}</a></li>
+    </ul>
+  </div>
+-->
+
+  <div class="post-meta">
+    标签: 
+    {{# page.tags }}
+    <a href="{{ url }}" rel="tag">{{ name }}</a> | 
+    {{/ page.tags }}
+    <div class="clear"></div>
+  </div>
+  
+  <nav class="post-nav">
+    {{# page.previous }}
+    <span class="previous">
+      <a href="{{ url }}" rel="prev">{{ title }}</a>
+    </span>
+    {{/ page.previous }}
+    {{# page.next }}
+    <span class="next">
+      <a href="{{ url }}" rel="next">{{ title }}</a>
+    </span>
+    {{/ page.next }}
+    <div class="clear"></div>
+  </nav>
+</section>
+{{> google_plus}}
+{{{ widgets.comments }}}

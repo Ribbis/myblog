@@ -1,0 +1,36 @@
+---
+layout : default
+---
+
+{{# posts.paginator }}
+<!-- <section id="post-2945" class="post-2945 post type-post status-publish format-standard hentry category-themes tag-ilost tag-themes tag-wordpress"> -->
+<section>
+  <div class="title">
+    <h2>
+      <a href="{{url}}" title="something" rel="bookmark">{{title}}</a>
+    </h2>
+    <small>
+      published 
+      <!-- <a href="#comments" rel="nofollow"  title="something">8 条评论</a>,  -->
+      by <a href="{{urls.base_path}}" title="由 唐三 发布" rel="author">ecchanger</a>,
+      at {{ date }} {{time}},
+      in {{# categories }}
+      <a href="{{ url }}" title="{{ name }}" rel="category tag">{{ name }}</a>
+      {{/ categories }} category.
+      <!-- 284 views. -->
+    </small>
+  </div>
+  <div class="entry">
+    {{{ summary }}}
+    <a href="{{url}}" class="more-link">了解更多</a>
+  </div>
+  <div class="post-meta">
+    标签: 
+    {{# tags }}
+    <a href="{{ url }}" rel="tag">{{ name }}</a> | 
+    {{/ tags }}
+    <div class="clear"></div>
+  </div>
+</section>
+{{/ posts.paginator }}
+{{> page_navigation}}

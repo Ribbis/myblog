@@ -1,0 +1,16 @@
+<nav class="navigation">
+  <div class="ilost-pagenav">
+    <!-- <span class="pages">Page 2 of 102</span> -->
+    <!-- <a href="{{urls.base_path}}" class="last">« First</a> -->
+    {{#posts.paginator_navigation}}
+      {{#is_active_page}}
+      <span class="current">{{name}}</span>
+      {{/is_active_page}}
+      {{^is_active_page}}
+      <a href="{{url}}" class="page">{{name}}</a>
+      {{/is_active_page}}
+    {{/posts.paginator_navigation}}
+    <!-- <span class="extend">...</span> -->
+    <!-- <a href="http://localhost:9292/posts/102" class="last">Last »</a> -->
+  </div>
+</nav>

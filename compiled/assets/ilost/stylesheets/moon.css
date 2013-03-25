@@ -1,0 +1,136 @@
+pre {
+	display: block;
+	background-color: #221f26;
+	border-radius: 4px;
+	border: 1px solid #ccc;
+	display: block;
+	padding: 8.5px;
+	margin: 0 0 9px;
+	line-height: 18px;
+	border: 1px solid #ccc;
+	border: 1px solid rgba(0, 0, 0, 0.15);
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	white-space: pre;
+	white-space: pre-wrap;
+	word-break: break-all;
+	word-wrap: break-word;
+	text-shadow: none;
+}
+pre .nocode {
+	background-color: none;
+	color: #000
+}
+pre .str {
+	color: #ffa0a0
+}
+pre .kwd {
+	color: #f0e68c;
+	font-weight: bold
+}
+pre .com {
+	color: #87ceeb
+}
+pre .typ {
+	color: #98fb98
+}
+pre .lit {
+	color: #cd5c5c
+}
+pre .pun {
+	color: #fff
+}
+pre .pln {
+	color: #fff;
+	margin-left: 5px;
+}
+pre .tag {
+	color: #f0e68c;
+	font-weight: bold
+}
+pre .atn {
+	color: #bdb76b;
+	font-weight: bold
+}
+pre .atv {
+	color: #ffa0a0
+}
+pre .dec {
+	color: #98fb98
+}
+ol.linenums {
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #AEAEAE
+}
+
+.prettyprint {
+	padding: 8px;
+	border: 1px solid #e1e1e8;
+}
+.prettyprint.linenums {
+	-webkit-box-shadow: inset 40px 0 0 #373737;
+	-moz-box-shadow: inset 40px 0 0 #373737;
+	box-shadow: inset 40px 0 0 #373737;
+	text-shadow: none;
+	/*font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;//monospace;//,"Source Code Pro","Courier New";*/
+	font: 12px/18px Helvetica，Consolas, "Andale Mono", Courier, "Courier New", monospace;
+	/*font-size: 12px;*/
+	font-weight: bold;
+}
+ol.linenums {
+	margin: 0 0 0 33px;
+}
+@media print {
+	pre {
+	background-color: none
+}
+pre .str,code .str {
+	color: #060
+}
+pre .kwd,code .kwd {
+	color: #006;
+	font-weight: bold
+}
+pre .com,code .com {
+	color: #600;
+	font-style: italic
+}
+pre .typ,code .typ {
+	color: #404;
+	font-weight: bold
+}
+pre .lit,code .lit {
+	color: #044
+}
+pre .pun,code .pun {
+	color: #440
+}
+pre .pln,code .pln {
+	color: #000
+}
+pre .tag,code .tag {
+	color: #006;
+	font-weight: bold
+}
+pre .atn,code .atn {
+	color: #404
+}
+pre .atv,code .atv {
+	color: #060
+}
+
+pre code {
+padding: 0;
+color: inherit;
+background-color: transparent;
+border: 0;
+}
+
+p code {
+padding: 2px 4px;
+color: #d14;
+background-color: #f7f7f9;
+border: 1px solid #e1e1e8;
+}

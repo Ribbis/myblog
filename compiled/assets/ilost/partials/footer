@@ -1,0 +1,82 @@
+<footer>
+  <div id="gotop">
+    <a href="javascript:;" onClick="ilosts.goTop();return false;" title="返回顶部">返回顶部</a>
+  </div>
+<!--  
+  <aside>
+    <h3>Xu Design Archives</h3>
+    <ul>
+      <li id="ilost_catlistswidget-1" class="widget ilost_catlistsWidget">
+        <h3>License</h3>
+        <ul>
+          如非特别声明，本 Blog 的文章由 <a href="{{urls.base_path}}/about">唐三 </a>创作，采用<a style="white-space:pre-wrap;" target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">知识共享署名-非商业性使用-相同方式共享 3.0 Unported 许可协议</a>进行许可。
+        </ul>
+      </li>
+      <li id="ilost_catlistswidget-2" class="widget ilost_catlistsWidget">
+        <h3>Librarys</h3>
+        <ul>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+        </ul>
+      </li>
+
+      <li id="ilost_catlistswidget-3" class="widget ilost_catlistsWidget">
+        <h3>Themes</h3>
+        <ul>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+        </ul>
+      </li>
+
+      <li id="ilost_catlistswidget-4" class="widget ilost_catlistsWidget">
+        <h3>UI Design</h3>
+        <ul>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+        </ul>
+      </li>
+
+      <li id="ilost_catlistswidget-5" class="widget ilost_catlistsWidget">
+        <h3>WordPress</h3>
+        <ul>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+          <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+        </ul>
+      </li>
+      
+    </ul>
+    <div class="clearer"></div>
+  </aside>
+-->
+  <div>
+    <p class="line">
+      <span class="alignright">
+        <a href="{{urls.base_path}}">HOME</a>
+      </span>
+      本博部分图片来自网上，请如侵权请联系本人进行删除！&brvbar; 
+      <a href="http://creativecommons.org/licenses/by-nc-sa/3.0">Creative Commons BY-NC-SA</a> &brvbar; This is a premium theme &brvbar; Designed by <a href="http://xuui.net/">Xu.hel</a> in ChengDu.
+    </p>
+    
+    <p>
+      <span class="alignright">
+        <a target="_blank" href="http://github.com/ecchanger" title="Hosted by Github">The website is hosted by Github</a>
+      </span>Copyright &copy; 2004-2013 <a href="{{urls.base_path}}" title="On the Road" rel="home">On The Road</a> &brvbar; Powered by <a href="http://ruhoh.com/">Ruhoh</a>.    
+    </p>
+  </div>
+</footer>

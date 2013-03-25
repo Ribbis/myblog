@@ -1,0 +1,4 @@
+<div class="breadcrumb" itemprop="breadcrumb">
+    <a href="{{urls.base_path}}">On The Road</a> &gt; 
+    <h2>Blog</h2>
+  </div>
