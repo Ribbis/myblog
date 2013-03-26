@@ -1,7 +1,7 @@
 {
   "stylesheets" : {
     "default" : [
-      # "moon.css",
+      #"moon.css",
       "prettify.css",
       "style.css",
       "shortstyle.css"
