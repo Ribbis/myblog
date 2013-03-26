@@ -73,7 +73,7 @@ tags:
 　　Google Guava 是 Google 为 Java 1.6 编写的核心库。它仍然不是一个很成熟的库，在未来几个月还将不断的变化。Google Collections 将在 1.0 版本发布时将成为 Guava 的一部分。Guava (和 Google Collections) 已经率先被很多 Google 开发者使用。支持该项目的开发者有 Kevin Bourrillion, Jared Levy, Crazy Bob Lee, Josh Bloch(!) (Google 的 Java 首席架构师) 和 limpbizkit (我们找不到这家伙的真实姓名). Google Collections 在 2007 年就已经有了，但 Guava 是在 2009年9月推出的。  
 　　作为这个系列的博客，我将向你介绍 Google Collections 并告诉你使用 Guava 和 Google Collections 能为你带来什么好处。包括代码量的减少以及新的更快的数据结构。在第二部分我们将深入探讨 Guava 和 Collections 的一些高级特性。  
 
-####Google Collections一览
+###Google Collections一览
 
 　　显然一篇博文不能深入地覆盖Google Collections的方方面面，所以我决定把时间放在我日常编码中使用到的基础且不失强大的特性上，首先，不要这么做：
 
@@ -95,7 +95,7 @@ tags:
 
 还有更多！ 自己去看看吧！[http://code.google.com/p/google-collections/]
 
-####操作lists和maps
+###操作lists和maps
 
 当你在写单元测试时，经常会构造一些测试数据，可能是list、map、set等，对于一些像我一样草率的人来说，测试代码中会经常看到类似下面的语句：
 
@@ -128,7 +128,7 @@ Map也一样
 　　两种方式都可以，选择权在你手上，很明显，这种较之前面的方式更灵活优雅一些，你说呢？
 除去可以使用方便干净的方式来创建并填充集合类，我们也提供了很多额外的工具方法，比如过滤，对set取交集和并集，排序等等一些更优雅的方法，我将会在第二部分中讲解它们。
 
-####静态导入和Eclipse模板
+###静态导入和Eclipse模板
 
 　　在这之前，我想先告诉你我在写代码时，是如果借用Eclipse的Code模板功能更高效的使用集合类的。（我假设你了解在IDEA或者其他IDE中也存在类似的功能，你可以根据这部分叙述做出相应的扩展或变通）    
 
@@ -146,7 +146,7 @@ Map也一样
 
 以上就是创建快捷补全的全部步骤了，现在去为你常用到的所有方法添加模板吧！
 
-####Guava走马观花
+###Guava走马观花
 
 　　最后，但并非不重要，我将向你展示一下如果使用Guava来处理本文开头留下来的两个问题：
 

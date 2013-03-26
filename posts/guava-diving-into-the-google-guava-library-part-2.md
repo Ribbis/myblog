@@ -18,7 +18,7 @@ tags:
 　　我们将深入挖掘Guava库，并了解一下优雅的CharMatcher类、Joiner以及Splitter类，以及在处理Java基本类型时Guava给我们带来的别的工具类。  
 </p>
 
-####The Guava CharMatcher
+###The Guava CharMatcher
 　　CharMatcher 可以非常方便地添加到你的java工具箱中。有些人形容它：“像打了兴奋剂的StringUtils”:p
 你可以使用预先设定好的常量，比如CharMatcher.WHITESPACE, CharMatcher.JAVA_DIGIT 或者CharMatcher.ASCII,此外你还有很多简便的工厂方法如CharMatcher.is(‘aaa’), CharMatcher.isNot(‘bbb’), CharMatcher.oneOf(‘abcd’).negate()，甚至更复杂一些比如：  
 
@@ -42,7 +42,7 @@ tags:
 除了indexIn, lastIndexIn and countIn这些方法，还有很多trimming, replacing and collapsing相关的方法。
 更多信息查看[Java doc](http://guava-libraries.googlecode.com/svn/trunk/javadoc/com/google/common/base/CharMatcher.html).
 
-####Joiner and Splitter
+###Joiner and Splitter
 　　目前Joiner还是Collections 的一部分，Splitter 已经加入了Guava (不过一旦Collections 发布1.0版本，那么它们会一起加入到Guava)。  
 可以这么使用Joiner：
 
@@ -86,7 +86,7 @@ tags:
 
 Joiner和Splitter都是可配置的，甚至你可以把Joiner使用在map中。
 
-####Working with primitives cont’d
+###Working with primitives cont’d
 　　在博客的第一部分，我简单提到了基本型的用法。Guava已经提供了诸如Ints.compare(a, b)和Ints.toArray(list)。  
 　　让我介绍Guava 关于基本型提供的更多的一些用法吧。  
 

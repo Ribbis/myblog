@@ -14,7 +14,7 @@ tags:
 
 　　在本系列博客的第一、二部分，我介绍了非常优秀的Google Collections和Guava包。本篇博客中我们来看看如何使用Google Collections来做到过滤和排序功能。此外，我会带你看看Google Collections是如何使Java有一点点“functional（方法化）”的进步了。  
 
-####Functions, Functions, Functions!!
+###Functions, Functions, Functions!!
 
 　　Google Collections给我们带来了一对非常优雅的东东，叫做:Functions and Predicates! 和你使用的scala一样有神奇的地方，现在你可以使用在no-functional 的java身上了。你可以在com.google.common.base包里找到这些（更多）。  
 
@@ -40,7 +40,7 @@ tags:
 和这个类似的，我们也可以使用Functions来把一个对象转换成一个完全不同的对象，比如将一个整形转换为字符串。  
 我们稍后再深入Functions类，首先我们浏览一下Multimap集合以及我们如果使用一点function来转换一个集合。  
 
-####使用条件过滤集合
+###使用条件过滤集合
 
 我在Integrasco做数据工作时遇到的最常见的任务是过滤数据和对大集合进行排序。 简单起见，我们假设你有一个姓名列表想要过滤（看起来有点幼稚）：　　
 
@@ -74,7 +74,7 @@ tags:
 
 关注一下[Stephan](http://codemonkeyism.com/)的博文[fluent interfaces for Google Collections](http://codemonkeyism.com/creating-a-fluent-interface-for-google-collections/) --写的相当优雅~！
 
-####对集合排序
+###对集合排序
 
 多亏有了java Collections类，我们可以这么排序：
 
@@ -104,7 +104,7 @@ tags:
 
     List<Person> sortedCopy = orderByLastName.compound(orderByFirstName).reverse().sortedCopy(persons);
 
-####继续过滤和排序
+###继续过滤和排序
 
 在这个系列的第一部分，Steve提到了在Scala中，你可以这么做：
 

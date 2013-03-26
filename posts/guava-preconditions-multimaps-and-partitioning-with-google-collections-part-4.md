@@ -14,7 +14,7 @@ tags:
 
 　　在本系列博客的前三章，我们大概介绍了Google的Guava类库和Collections类库，作为一名Java开发人员，相信你会从使用这些类库，进而来减少在你项目中使用样板文件的数量而获益。在本系列博客的最后一篇中，我将带大家来了解一个会让你完全爱上并沉浸于其中的的集合工具类-Multimap。我们将带大家了解下如何使用Google Collections的Preconditions来做校验，但是在此之前，先让我们来了解下如何对Set和Map进行交集、并集和差集的运算。  
 
-####Set的交集，并集和map的相关操作
+###Set的交集，并集和map的相关操作
 
 　　有时，当我们需要去对两个Set的取交集、并集和差集的时候，那是一件相关麻烦的事情，而且代码看起来很凌乱。经常情况，你会以一遍又一遍的循环来结束这种做法。但是如果我们使用Google Collections提供的Sets类就可以轻而易举的完成这些操作，并且是完全免费的！  
 
@@ -54,7 +54,7 @@ From the [Public Object blog](http://publicobject.com/2008/08/coding-in-small-wi
 
 Thank you, Google Collections！
 
-####用Preconditions进行校验
+###用Preconditions进行校验
 
 　　早在初夏的时候，一个叫刚刚加入我们的同事Bent André向我介绍了用Preconditions进行校验的想法，但是,直到最近我才发现Google Collections实际上已经包含了相应的实现（我们自己也已经有了相似的实现）。  
 
@@ -108,7 +108,7 @@ From the excellent [blog series on Google Collections](http://publicobject.com/2
 很简洁，不是么?  
 稍后我们会发表一篇关于异常和校验的更详细的文章，敬请关注!  
 
-####一个集合统治一切 – Multimap
+###一个集合统治一切 – Multimap
 
 　　我已经数不清我有多少次需要在一个Map中实现一个key对应多个value的需求，最终不得不以`Map<K, List<V>>`这种结构来实现的经历了。
 并且用这种方式实现一键多值的需求还存在很大的争议，如下所示:
@@ -138,7 +138,7 @@ Whoop, whoop!
 
 　　Multimaps同样提供了很多有用的方法，详细内容可以参考Multimap 和 Multimaps的API文档！很激动是么？那就继续往下看吧...
 
-####分片集合
+###分片集合
 
 　　我管这节叫分片，相信很多人会觉得叫我们在之前文章叫提到的“过滤集合”更准确。但是当我们把把Multimap的概念和功能相结合的时候，你就会意识到他到底有多强大了，而不仅仅是过滤那么简单！  
 
