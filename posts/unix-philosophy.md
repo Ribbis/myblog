@@ -1,5 +1,6 @@
 ---
-title: 「转」UNIX哲学
+title: unix philosophy
+subject: UNIX哲学
 date: '2010-03-19'
 time: '13:57'
 comments : true

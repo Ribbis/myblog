@@ -1,5 +1,6 @@
 ---
-title: 博客迁移到octopress了
+title: blog tooctopress
+subject: 博客迁移到octopress了
 date: '2012-02-12'
 time: '17:57'
 description:

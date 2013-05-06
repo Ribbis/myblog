@@ -1,5 +1,6 @@
 ---
 title: Today is a new day
+subject: Today is a new day
 date: '2009-12-15'
 time: '12:05'
 categories: ["Reading", "Living"]

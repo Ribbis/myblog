@@ -1,5 +1,6 @@
 ---
-title: 回首2011，展望2012
+title: review 2011,look into 2012
+subject: 回首2011，展望2012
 date: '2012-01-25'
 time: '03:14'
 categories: ["Living", "Thinking"]

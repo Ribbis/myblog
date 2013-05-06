@@ -1,5 +1,6 @@
 ---
-title: 「转」Guava 教程3-Java 的函数式编程，通过 Google Collections 过滤和调用
+title: guava-3
+subject: Guava 教程3-Java 的函数式编程，通过 Google Collections 过滤和调用
 date: '2013-02-20'
 time: '22:26'
 categories: ["Coding","Studying"]

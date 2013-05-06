@@ -1,5 +1,6 @@
 ---
-title: 「转」Guava 教程1-使用 Google Collections,Guava,static imports 编写漂亮代码
+title: guava-1
+subject: Guava 教程1-使用 Google Collections,Guava,static imports 编写漂亮代码
 date: '2013-02-18'
 time: '22:06'
 categories: ["Coding","Studying"]

@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "两头毛驴游丽江"
+title: lijiang travel
+subject: "两头毛驴游丽江"
 date: '2012-09-15'
 time: '21:15'
 categories: ["Living"]

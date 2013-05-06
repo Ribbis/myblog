@@ -1,5 +1,6 @@
 ---
-title: "没有情人的情人劫——帮派系统被攻击手记"
+title: work deal with group attacked record
+subject: "没有情人的情人劫——帮派系统被攻击手记"
 date: '2012-02-14'
 time: '19:41'
 categories: ["Coding", "Working"]

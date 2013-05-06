@@ -1,5 +1,6 @@
 ---
-title: "详解著名的awk Oneliner，第二部分：文本替换"
+title: awk-oneliner-2
+subject: "详解著名的awk Oneliner，第二部分：文本替换"
 date: '2012-04-06'
 time: '00:37'
 categories: ["Coding","Studying"]

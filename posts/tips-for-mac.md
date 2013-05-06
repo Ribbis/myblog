@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Mac上的一些小记录，持续更新..."
+title: tips for mac
+subject: "Mac上的一些小记录，持续更新..."
 date: '2012-08-22'
 time: '15:06'
 categories: ["Studying"]

@@ -1,5 +1,6 @@
 ---
-title: 博客迁移到ruhoh了
+title: blog to ruhoh
+subject: 博客迁移到ruhoh了
 date: '2012-08-20'
 time: '17:57'
 description:

@@ -1,5 +1,6 @@
 ---
-title: 随雨飘落的意识流.log
+title: the falling stream of consciousness with the rain
+subject: 随雨飘落的意识流.log
 date: '2009-05-17'
 time: '02:16'
 categories: ["Living", "Thinking"]

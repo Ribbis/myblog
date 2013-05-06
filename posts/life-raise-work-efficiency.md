@@ -1,5 +1,6 @@
 ---
-title: 2013，提升工作效率...
+title: raise work efficency
+subject: 2013，提升工作效率...
 date: '2013-03-05'
 time: '20:26'
 categories: ["Working", "Thinking"]

@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Mac下修改hosts文件重启后被还原的问题解决"
+title: hosts file rollback when reboot on mac
+subject: "Mac下修改hosts文件重启后被还原的问题解决"
 date: '2012-10-24'
 time: '19:50'
 categories: ["Studying"]

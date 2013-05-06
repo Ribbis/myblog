@@ -1,5 +1,6 @@
 ---
-title: 「转」徽杭古道游
+title: huihang road trip
+subject: 徽杭古道游
 date: '2011-08-15'
 time: '22:11'
 categories: ["Living"]

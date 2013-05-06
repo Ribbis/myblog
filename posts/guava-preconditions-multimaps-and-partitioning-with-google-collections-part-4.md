@@ -1,5 +1,6 @@
 ---
-title: 「转」Guava 教程4-条件，多重映射和分片
+title: guava-4
+subject: Guava 教程4-条件，多重映射和分片
 date: '2013-02-20'
 time: '22:36'
 categories: ["Coding","Studying"]

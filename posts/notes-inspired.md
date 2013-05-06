@@ -1,5 +1,6 @@
 ---
-title: "《启示录》读书笔记"
+title: inspired
+subject: "《启示录》读书笔记"
 date: '2011-12-15'
 time: '00:05'
 categories: ["Reading"]

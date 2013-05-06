@@ -1,5 +1,6 @@
 ---
-title: 《相约星期二》书评
+title: tuesdays with morrie
+subject: 《相约星期二》书评
 date: '2011-07-31'
 time: '00:27'
 categories: ["Reading", "Thinking"]

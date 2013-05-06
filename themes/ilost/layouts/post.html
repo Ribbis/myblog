@@ -4,7 +4,7 @@ layout : default
 <!-- <section id="post-2945" class="post-2945 post type-post status-publish format-standard hentry category-themes tag-ilost tag-themes tag-wordpress"> -->
 <section>
   <div class="title">
-    <h2>{{title}}</h2>
+    <h2>{{subject}}</h2>
     <small>
       {{ date }} {{ time }}/ 
       [{{# page.categories }}
@@ -49,12 +49,12 @@ layout : default
   <nav class="post-nav">
     {{# page.previous }}
     <span class="previous">
-      <a href="{{ url }}" rel="prev">{{ title }}</a>
+      <a href="{{ url }}" rel="prev">{{ subject }}</a>
     </span>
     {{/ page.previous }}
     {{# page.next }}
     <span class="next">
-      <a href="{{ url }}" rel="next">{{ title }}</a>
+      <a href="{{ url }}" rel="next">{{ subject }}</a>
     </span>
     {{/ page.next }}
     <div class="clear"></div>

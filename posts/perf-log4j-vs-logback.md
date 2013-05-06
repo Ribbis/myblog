@@ -1,5 +1,6 @@
 ---
-title: "Log4j vs Logback 性能测试及原理分析"
+title: log4j vs logback
+subject: "Log4j vs Logback 性能测试及原理分析"
 date: '2013-01-16'
 time: '16:27'
 description:

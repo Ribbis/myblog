@@ -1,5 +1,6 @@
 ---
-title: 项目实施心得
+title: project implementation experience
+subject: 项目实施心得
 date: '2009-08-06'
 time: '00:23'
 categories: ["Working", "Thinking"]

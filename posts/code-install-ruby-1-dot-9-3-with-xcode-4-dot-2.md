@@ -1,5 +1,6 @@
 ---
-title: rvm 安装 Ruby 1.9.3时错误： compiler cannot create executables
+title: install ruby 1.9.3
+subject: rvm 安装 Ruby 1.9.3时错误： compiler cannot create executables
 date: '2012-01-17'
 time: '14:32'
 categories: ["Coding", "Studying"]

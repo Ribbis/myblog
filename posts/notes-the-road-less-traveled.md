@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "《少有人走的路》经典语录"
+title: the road less traveled
+subject: "《少有人走的路》经典语录"
 date: '2012-05-28'
 time: '20:02'
 comments: true

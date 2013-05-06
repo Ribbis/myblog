@@ -1,5 +1,6 @@
 ---
-title: 「转」Guava 教程2-深入探索 Google Guava 库
+title: guava-2
+subject: Guava 教程2-深入探索 Google Guava 库
 date: '2013-02-19'
 time: '22:16'
 categories: ["Coding","Studying"]

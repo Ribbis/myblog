@@ -1,5 +1,6 @@
 ---
-title: 转岗了...
+title: leave from quanzi team
+subject: 转岗了...
 date: '2012-10-29'
 time: '00:00'
 comments : true

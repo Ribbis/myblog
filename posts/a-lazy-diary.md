@@ -1,5 +1,6 @@
 ---
-title: 懒人日记
+title: lazy-diary
+subject: 懒人日记
 date: '2010-06-19'
 time: '00:58'
 categories: ["Living", "Thinking"]

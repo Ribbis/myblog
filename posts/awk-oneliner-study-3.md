@@ -1,5 +1,6 @@
 ---
-title: "详解著名的awk Oneliner，第三部分：选择性输出特定行"
+title: awk-oneliner-3
+subject: "详解著名的awk Oneliner，第三部分：选择性输出特定行"
 date: '2012-04-08'
 time: '00:37'
 categories: ["Coding","Studying"]

@@ -1,5 +1,6 @@
 ---
-title: 非比寻常的一年，盘点我的2008
+title: review my 2008
+subject: 非比寻常的一年，盘点我的2008
 date: '2009-01-01'
 time: '11:29'
 comments : true

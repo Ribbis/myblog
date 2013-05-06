@@ -1,5 +1,6 @@
 ---
-title: "详解著名的awk Oneliner，第四部分：定义字符串和数组"
+title: awk-oneliner-4
+subject: "详解著名的awk Oneliner，第四部分：定义字符串和数组"
 date: '2012-04-12'
 time: '00:37'
 categories: ["Coding","Studying"]

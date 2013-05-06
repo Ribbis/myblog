@@ -1,5 +1,6 @@
 ---
-title: "详解著名的awk Oneliner，第一部分：空行、行号和计算"
+title: awk-oneliner-1
+subject: "详解著名的awk Oneliner，第一部分：空行、行号和计算"
 date: '2012-04-05'
 time: '00:36'
 categories: ["Coding","Studying"]

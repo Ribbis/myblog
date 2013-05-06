@@ -1,6 +1,6 @@
 ---
-id: 111
-title: 该回顾2012，展望2013了...
+title: review 2012,look into 2013
+subject: 该回顾2012，展望2013了...
 date: '2013-02-26'
 time: '20:13'
 categories: ["Living", "Thinking"]
