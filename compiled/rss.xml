@@ -3,10 +3,10 @@
   <channel>
     <title>On the Road...</title>
     <link>http://sample.com</link>
-    <pubDate>2013-03-25 17:32:58 +0800</pubDate>
+    <pubDate>2013-09-12 10:22:57 +0800</pubDate>
     <item>
-      <title>2013&#xFF0C;&#x63D0;&#x5347;&#x5DE5;&#x4F5C;&#x6548;&#x7387;...</title>
-      <link>http://sample.com/working/2013-%E6%8F%90%E5%8D%87%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87</link>
+      <title>raise work efficency</title>
+      <link>http://sample.com/working/raise-work-efficency</link>
       <pubDate>2013-03-05</pubDate>
       <description>&lt;p&gt;&lt;img src="/assets/media/img/life-raise-work-efficiency/title.jpg"/&gt;&lt;/p&gt;
 
@@ -21,8 +21,8 @@
 </description>
     </item>
     <item>
-      <title>&#x8BE5;&#x56DE;&#x987E;2012&#xFF0C;&#x5C55;&#x671B;2013&#x4E86;...</title>
-      <link>http://sample.com/living/%E8%AF%A5%E5%9B%9E%E9%A1%BE2012-%E5%B1%95%E6%9C%9B2013%E4%BA%86</link>
+      <title>review 2012,look into 2013</title>
+      <link>http://sample.com/living/review-2012-look-into-2013</link>
       <pubDate>2013-02-26</pubDate>
       <description>&lt;p&gt;&lt;img src="/assets/media/img/life-2012-2013/title.jpg"/&gt;
 &#x3000;&#x3000;&#x672C;&#x6765;&#x8FD9;&#x79CD;&#x5E74;&#x7EC8;&#x603B;&#x7ED3;&#x5C31;&#x5E94;&#x8BE5;&#x5728;&#x5143;&#x65E6;&#x6625;&#x8282;&#x653E;&#x5047;&#x65F6;&#x5199;&#xFF0C;&#x53EF;&#x662F;&#x603B;&#x662F;&#x56E0;&#x4E3A;&#x8FD9;&#x4E8B;&#x90A3;&#x4E8B;&#x4E00;&#x76F4;&#x6401;&#x7F6E;&#x5230;&#x73B0;&#x5728;&#x624D;&#x60F3;&#x5199;&#x5B8C;&#xFF0C;&#x5C31;&#x5F53;&#x662F;&#x516C;&#x53F8;&#x8D22;&#x5E74;&#x53D8;&#x52A8;&#xFF0C;&#x6211;&#x7684;&#x603B;&#x7ED3;&#x4E5F;&#x8DDF;&#x7740;&#x53D8;&#x52A8;&#x5427;&#x2026;&lt;br&gt;
@@ -76,147 +76,8 @@
 </description>
     </item>
     <item>
-      <title>&#x300C;&#x8F6C;&#x300D;Guava &#x6559;&#x7A0B;3-Java &#x7684;&#x51FD;&#x6570;&#x5F0F;&#x7F16;&#x7A0B;&#xFF0C;&#x901A;&#x8FC7; Google Collections &#x8FC7;&#x6EE4;&#x548C;&#x8C03;&#x7528;</title>
-      <link>http://sample.com/coding/%E8%BD%AC-guava-%E6%95%99%E7%A8%8B3-java-%E7%9A%84%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-%E9%80%9A%E8%BF%87-google-collections-%E8%BF%87%E6%BB%A4%E5%92%8C%E8%B0%83%E7%94%A8</link>
-      <pubDate>2013-02-20</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&#x672C;&#x6587;&#x8F6C;&#x81EA;&#x7F51;&#x7EDC;&#xFF0C;&#x5982;&#x6709;&#x4FB5;&#x6743;&#xFF0C;&#x8BF7;&#x8054;&#x7CFB;&#x672C;&#x4EBA;&#x5220;&#x9664;&#xFF01;
-&lt;a href="http://codemunchies.com/2009/11/functional-java-filtering-and-ordering-with-google-collections-part-3/"&gt;&#x539F;&#x6587;&lt;/a&gt;
-&lt;a href="http://www.oschina.net/translate/functional-java-filtering-and-ordering-with-google-collections-part-3"&gt;&#x8BD1;&#x6587;&lt;/a&gt;  &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&#x3000;&#x3000;&#x5728;&#x672C;&#x7CFB;&#x5217;&#x535A;&#x5BA2;&#x7684;&#x7B2C;&#x4E00;&#x3001;&#x4E8C;&#x90E8;&#x5206;&#xFF0C;&#x6211;&#x4ECB;&#x7ECD;&#x4E86;&#x975E;&#x5E38;&#x4F18;&#x79C0;&#x7684;Google Collections&#x548C;Guava&#x5305;&#x3002;&#x672C;&#x7BC7;&#x535A;&#x5BA2;&#x4E2D;&#x6211;&#x4EEC;&#x6765;&#x770B;&#x770B;&#x5982;&#x4F55;&#x4F7F;&#x7528;Google Collections&#x6765;&#x505A;&#x5230;&#x8FC7;&#x6EE4;&#x548C;&#x6392;&#x5E8F;&#x529F;&#x80FD;&#x3002;&#x6B64;&#x5916;&#xFF0C;&#x6211;&#x4F1A;&#x5E26;&#x4F60;&#x770B;&#x770B;Google Collections&#x662F;&#x5982;&#x4F55;&#x4F7F;Java&#x6709;&#x4E00;&#x70B9;&#x70B9;&#x201C;functional&#xFF08;&#x65B9;&#x6CD5;&#x5316;&#xFF09;&#x201D;&#x7684;&#x8FDB;&#x6B65;&#x4E86;&#x3002;  &lt;/p&gt;
-
-&lt;h4 id="toc_0"&gt;Functions, Functions, Functions!!&lt;/h4&gt;
-
-&lt;p&gt;&#x3000;&#x3000;Google Collections&#x7ED9;&#x6211;&#x4EEC;&#x5E26;&#x6765;&#x4E86;&#x4E00;&#x5BF9;&#x975E;&#x5E38;&#x4F18;&#x96C5;&#x7684;&#x4E1C;&#x4E1C;&#xFF0C;&#x53EB;&#x505A;:Functions and Predicates! &#x548C;&#x4F60;&#x4F7F;&#x7528;&#x7684;scala&#x4E00;&#x6837;&#x6709;&#x795E;&#x5947;&#x7684;&#x5730;&#x65B9;&#xFF0C;&#x73B0;&#x5728;&#x4F60;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;&#x5728;no-functional &#x7684;java&#x8EAB;&#x4E0A;&#x4E86;&#x3002;&#x4F60;&#x53EF;&#x4EE5;&#x5728;com.google.common.base&#x5305;&#x91CC;&#x627E;&#x5230;&#x8FD9;&#x4E9B;&#xFF08;&#x66F4;&#x591A;&#xFF09;&#x3002;  &lt;/p&gt;
-
-&lt;p&gt;&#x3000;&#x3000;&#x6211;&#x4EEC;&#x5C06;&#x5728;&#x4E0B;&#x4E00;&#x90E8;&#x5206;&#x8FC7;&#x6EE4;&#x96C6;&#x5408;&#x7684;&#x65F6;&#x5019;&#x8C08;&#x5230;Predicates&#x7C7B;&#xFF0C;&#x9996;&#x5148;&#x6211;&#x4EEC;&#x5148;&#x770B;&#x4E00;&#x4E0B;Function&#x7684;&#x7528;&#x6CD5;&#xFF01;&lt;br&gt;
-&#x3000;&#x3000;Google collections&#x63D0;&#x4F9B;&#x4E86;Function&lt;F,T&gt;&#x63A5;&#x53E3;&#xFF0C;&#x5B9E;&#x9645;&#x4E0A;&#xFF0C;&#x4E00;&#x4E2A;function&#x5C31;&#x662F;&#x4ECE;&#x4E00;&#x4E2A;&#x5BF9;&#x8C61;&#x5230;&#x53E6;&#x5916;&#x4E00;&#x4E2A;&#x5BF9;&#x8C61;&#x7684;&#x8F6C;&#x6362;&#x53D8;&#x5F62;&#x3002;  &lt;/p&gt;
-
-&lt;p&gt;&#x50CF;Lists&#x548C;Maps&#x8FD9;&#x7C7B;&#x7684;Collection&#x5DE5;&#x5177;&#x7C7B;&#x7ED9;&#x6211;&#x4EEC;&#x63D0;&#x4F9B;&#x4E86;&#x8F6C;&#x6362;&#x7684;&#x65B9;&#x6CD5;&#xFF1A;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;topMap = Maps.transformValues(fromMap, function);
-toList = Lists.transform(fromList, function);
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x4E3E;&#x4E2A;&#x4F8B;&#x5B50;&#x6765;&#x8BF4;&#xFF0C;&#x5047;&#x8BBE;&#x4F60;&#x6709;&#x4E00;&#x4E2A;Map&#xFF0C;key&#x662F;&#x7269;&#x54C1;&#xFF0C;value&#x662F;&#x5BF9;&#x5E94;&#x7684;&#x4EF7;&#x683C;&#xFF0C;&#x5355;&#x4F4D;&#x662F;&#x6B27;&#x5143;&#x3002;&#x90A3;&#x4E48;&#xFF0C;&#x4F60;&#x6709;&#x4E2A;&#x9700;&#x6C42;&#x662F;&#x5C06;&#x91CC;&#x9762;&#x7684;&#x4EF7;&#x683C;&#x90FD;&#x8F6C;&#x6362;&#x4E3A;&#x7F8E;&#x5143;&#xFF0C;&#x4F20;&#x7EDF;&#x7684;&#x505A;&#x6CD5;&#x662F;&#x904D;&#x5386;&#x6574;&#x4E2A;Map&#xFF0C;&#x7136;&#x540E;&#x66F4;&#x65B0;&#x6BCF;&#x4E2A;value&#x503C;&#xFF0C;&#x5C06;&#x4EF7;&#x683C;&#x8F6C;&#x6362;&#x4E3A;&#x7F8E;&#x5143;&#x4EF7;&#x683C;&#xFF0C;&#x597D;&#x9EBB;&#x70E6;...&lt;br&gt;
-&#x6709;&#x4E86;Functions&#xFF0C;&#x4E16;&#x754C;&#x4E00;&#x4E0B;&#x5B50;&#x53D8;&#x6E05;&#x51C0;&#x4E86;...  &lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Map usdPriceMap = Maps.transformValues(eurPriceMap, new Function() {
-    double eurToUsd = 1.4888;
-    public Double apply(final Double from) {
-        return from * eurToUsd;
-    }
-});
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x597D;&#x5427;&#xFF0C;&#x4F60;&#x53EF;&#x80FD;&#x8BF4;&#x533F;&#x540D;&#x5185;&#x90E8;&#x7C7B;&#x641E;&#x7684;&#x6709;&#x70B9;&#x7CDF;&#xFF0C;&#x56E0;&#x4E3A; &#x4F60;&#x53EF;&#x80FD;&#x60F3;&#x91CD;&#x7528;&#x8FD9;&#x4E2A;function---&#x8FD9;&#x91CC;&#x53EA;&#x662F;&#x6F14;&#x793A;&#x51FD;&#x6570;&#x5F0F;&#x7684;&#x4E00;&#x4E9B;&#x7279;&#x70B9;&#x800C;&#x5DF2;&#x3002;&lt;br&gt;
-&#x548C;&#x8FD9;&#x4E2A;&#x7C7B;&#x4F3C;&#x7684;&#xFF0C;&#x6211;&#x4EEC;&#x4E5F;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;Functions&#x6765;&#x628A;&#x4E00;&#x4E2A;&#x5BF9;&#x8C61;&#x8F6C;&#x6362;&#x6210;&#x4E00;&#x4E2A;&#x5B8C;&#x5168;&#x4E0D;&#x540C;&#x7684;&#x5BF9;&#x8C61;&#xFF0C;&#x6BD4;&#x5982;&#x5C06;&#x4E00;&#x4E2A;&#x6574;&#x5F62;&#x8F6C;&#x6362;&#x4E3A;&#x5B57;&#x7B26;&#x4E32;&#x3002;&lt;br&gt;
-&#x6211;&#x4EEC;&#x7A0D;&#x540E;&#x518D;&#x6DF1;&#x5165;Functions&#x7C7B;&#xFF0C;&#x9996;&#x5148;&#x6211;&#x4EEC;&#x6D4F;&#x89C8;&#x4E00;&#x4E0B;Multimap&#x96C6;&#x5408;&#x4EE5;&#x53CA;&#x6211;&#x4EEC;&#x5982;&#x679C;&#x4F7F;&#x7528;&#x4E00;&#x70B9;function&#x6765;&#x8F6C;&#x6362;&#x4E00;&#x4E2A;&#x96C6;&#x5408;&#x3002;  &lt;/p&gt;
-
-&lt;h4 id="toc_1"&gt;&#x4F7F;&#x7528;&#x6761;&#x4EF6;&#x8FC7;&#x6EE4;&#x96C6;&#x5408;&lt;/h4&gt;
-
-&lt;p&gt;&#x6211;&#x5728;Integrasco&#x505A;&#x6570;&#x636E;&#x5DE5;&#x4F5C;&#x65F6;&#x9047;&#x5230;&#x7684;&#x6700;&#x5E38;&#x89C1;&#x7684;&#x4EFB;&#x52A1;&#x662F;&#x8FC7;&#x6EE4;&#x6570;&#x636E;&#x548C;&#x5BF9;&#x5927;&#x96C6;&#x5408;&#x8FDB;&#x884C;&#x6392;&#x5E8F;&#x3002; &#x7B80;&#x5355;&#x8D77;&#x89C1;&#xFF0C;&#x6211;&#x4EEC;&#x5047;&#x8BBE;&#x4F60;&#x6709;&#x4E00;&#x4E2A;&#x59D3;&#x540D;&#x5217;&#x8868;&#x60F3;&#x8981;&#x8FC7;&#x6EE4;&#xFF08;&#x770B;&#x8D77;&#x6765;&#x6709;&#x70B9;&#x5E7C;&#x7A1A;&#xFF09;&#xFF1A;&#x3000;&#x3000;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;List&amp;lt;String&amp;gt; names = listOf(&amp;quot;Aleksander&amp;quot;, &amp;quot;Jaran&amp;quot;, &amp;quot;Integrasco&amp;quot;, &amp;quot;Guava&amp;quot;, &amp;quot;Java&amp;quot;);
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x6211;&#x4EEC;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;com.google.common.collect.Iterables&#x548C;com.google.common.base.Predicates&#x7C7B;&#x6765;&#x8FC7;&#x6EE4;&#x4F8B;&#x5B50;&#x4E2D;&#x7684;&#x5217;&#x8868;&#xFF0C;&#x4F7F;&#x8FC7;&#x6EE4;&#x540E;&#x7684;&#x5217;&#x8868;&#x4E2D;&#x53EA;&#x5305;&#x542B;Aleksander&#x6216;&#x8005;Jaran&#xFF1A;  &lt;/p&gt;
-
-&lt;p&gt;&#x73B0;&#x5728;&#x6211;&#x77E5;&#x9053;&#x8FD9;&#x542C;&#x8D77;&#x6765;&#x6709;&#x70B9;&#x50BB;&#x5E3D;&#xFF0C;&#x4F46;&#x662F;&#x4F60;&#x4ECD;&#x7136;&#x53EF;&#x4EE5;&#x5B9E;&#x73B0;&#x81EA;&#x5DF1;&#x7684;Predicates&#x6761;&#x4EF6;&#x7C7B;&#xFF0C;&#x6BD4;&#x5982;&#x8FD4;&#x56DE;&#x540D;&#x5B57;&#x957F;&#x5EA6;&#x5C0F;&#x4E8E;5&#x7684;&#x5217;&#x8868;&#xFF08;&#x6211;&#x4ECE;codemonkeyism.com&#x5077;&#x5230;&#x4E86;&#x4E0B;&#x9762;&#x8FD9;&#x4E2A;&#x4F8B;&#x5B50;&#xFF09;&#xFF1A;  &lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Iterable&amp;lt;String&amp;gt; filtered = filter(names, or(or(equalTo(&amp;quot;Aleksander&amp;quot;),equalTo(&amp;quot;Jaran&amp;quot;)), lengthLessThan(5)));
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x3000;&#x3000;&#x8FD9;&#x4E2A;&#x4F8B;&#x5B50;&#x8FD4;&#x56DE;&#x7684;&#x662F;Aleksander&#xFF0C;Jaran&#x4EE5;&#x53CA;Java&#xFF08;&#x56E0;&#x4E3A;Java&#x7684;&#x957F;&#x5EA6;&#x5C0F;&#x4E8E;5&#xFF09;&#x3002;or&#x6761;&#x4EF6;&#x7684;&#x90E8;&#x5206;&#x8BFB;&#x8D77;&#x6765;&#x6709;&#x70B9;&#x7ED5;&#xFF0C;&#x4F46;&#x6211;&#x8FD8;&#x53EF;&#x4EE5;&#x5FCD;&#x53D7;&#x3002;equalTo&#x4EE5;&#x53CA;or&#x6761;&#x4EF6;&#x90FD;&#x662F;Predicates&#x81EA;&#x5E26;&#x7684;&#x65B9;&#x6CD5;&#xFF0C;&#x7528;&#x8D77;&#x6765;&#x5F88;&#x65B9;&#x4FBF;&#x3002;  &lt;/p&gt;
-
-&lt;p&gt;&#x73B0;&#x5728;&#x6211;&#x4EEC;&#x6765;&#x5B9E;&#x73B0;&#x4E00;&#x4E2A;lengthLessThan&#x7684;&#x6761;&#x4EF6;&#xFF0C;&#x6211;&#x4EEC;&#x53EA;&#x9700;&#x8981;&#x8FD9;&#x4E48;&#x505A;&#xFF1A;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;private static class LengthLessThanPredicate implements Predicate&amp;lt;String&amp;gt; {
-    private final int length;
-    private LengthLessThanPredicate(final int length) {
-        this.length = length;
-    }
-    public boolean apply(final String s) {
-        return s.length() &amp;lt; length;
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x628A;&#x8FD9;&#x4E2A;&#x5B9E;&#x73B0;&#x5728;&#x4F60;&#x7684;&#x5DE5;&#x5177;&#x7C7B;&#x91CC;&#x5305;&#x88C5;&#x4E00;&#x4E0B;&#x5C31;&#x50CF;&#x8FD9;&#x6837;&#xFF1A;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;public static Predicate&amp;lt;String&amp;gt; lengthLessThan(final int length) {
-    return new LengthLessThanPredicate(length);
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x5173;&#x6CE8;&#x4E00;&#x4E0B;&lt;a href="http://codemonkeyism.com/"&gt;Stephan&lt;/a&gt;&#x7684;&#x535A;&#x6587;&lt;a href="http://codemonkeyism.com/creating-a-fluent-interface-for-google-collections/"&gt;fluent interfaces for Google Collections&lt;/a&gt; --&#x5199;&#x7684;&#x76F8;&#x5F53;&#x4F18;&#x96C5;~&#xFF01;&lt;/p&gt;
-
-&lt;h4 id="toc_2"&gt;&#x5BF9;&#x96C6;&#x5408;&#x6392;&#x5E8F;&lt;/h4&gt;
-
-&lt;p&gt;&#x591A;&#x4E8F;&#x6709;&#x4E86;java Collections&#x7C7B;&#xFF0C;&#x6211;&#x4EEC;&#x53EF;&#x4EE5;&#x8FD9;&#x4E48;&#x6392;&#x5E8F;&#xFF1A;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Collections.sort(List&amp;lt;T&amp;gt;, Comparator&amp;lt;? super T&amp;gt;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x3000;&#x3000;&#x4F46;&#x6709;&#x65F6;&#x5019;&#x6211;&#x4EEC;&#x60F3;&#x505A;&#x66F4;&#x590D;&#x6742;&#x4E00;&#x4E9B;&#x7684;&#x4E8B;&#x60C5;&#xFF0C;&#x6BD4;&#x5982;&#x5408;&#x5E76;&#x591A;&#x4E2A;Comparator&#x6216;&#x8005;&#x6211;&#x4EEC;&#x53EF;&#x80FD;&#x53EA;&#x662F;&#x60F3;&#x8981;&#x6392;&#x5E8F;&#x8FC7;&#x7684;&#x96C6;&#x5408;&#x7684;&#x4E00;&#x4E2A;&#x89C6;&#x56FE;&#xFF0C;&#x800C;&#x4E0D;&#x6539;&#x53D8;&#x539F;&#x6765;&#x96C6;&#x5408;&#x7684;&#x987A;&#x5E8F;&#x3002;&lt;br&gt;
-&#x3000;&#x3000;Google Collections&#x7ED9;&#x6211;&#x4EEC;&#x63D0;&#x4F9B;&#x4E86;Ordering&#xFF0C;&#x8BA9;&#x6211;&#x4EEC;&#x66F4;&#x597D;&#x5730;&#x638C;&#x63A7;&#x6392;&#x5E8F;&#x3002;&#x5047;&#x5982;&#x6211;&#x4EEC;&#x6709;&#x4E24;&#x4E2A;&#x5BF9;Person&#x7C7B;&#x6392;&#x5E8F;&#x7684;comparator&#xFF0C;&#x4E00;&#x4E2A;&#x662F;&#x6839;&#x636E;lastName&#x6392;&#x5E8F;&#xFF0C;&#x4E00;&#x4E2A;&#x662F;&#x6839;&#x636E;firstName&#x6392;&#x5E8F;&#xFF1A; &lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Comparator&amp;lt;Person&amp;gt; byLastName = new Comparator&amp;lt;Person&amp;gt;() {
-    public int compare(final Person p1, final Person p2) {
-        return p1.getLastName().compareTo(p2.getLastName());
-    }
-}
-
-
-Comparator&amp;lt;Person&amp;gt; byFirstName = new Comparator&amp;lt;Person&amp;gt;() {
-    public int compare(final Person p1, final Person p2) {
-        return p1.getFirstName().compareTo(p2.getFirstName());
-    }
-}; 
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x90A3;&#x4E48;&#xFF0C;&#x5047;&#x5982;&#x6211;&#x4EEC;&#x73B0;&#x5728;&#x60F3;&#x73B0;&#x6839;&#x636E;last name&#x6392;&#x5E8F;&#xFF0C;&#x518D;&#x6839;&#x636E;first name&#x6392;&#x5E8F;&#xFF0C;&#x7136;&#x540E;&#x5BF9;&#x6392;&#x5E8F;&#x7ED3;&#x679C;&#x53CD;&#x5E8F;&#xFF0C;&#x90A3;&#x6211;&#x4EEC;&#x6211;&#x4EEC;&#x9700;&#x8981;&#x505A;&#x7684;&#x662F;&#xFF1A;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;List&amp;lt;Person&amp;gt; sortedCopy = Ordering.from(byLastName).compound(byFirstName).reverse().sortedCopy(persons);
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x800C;&#x4E14;&#xFF0C;&#x4F60;&#x751A;&#x81F3;&#x65E0;&#x9700;&#x521B;&#x5EFA;Comparator&#x6BD4;&#x8F83;&#x5668;&#xFF0C;&#x4F60;&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x6269;&#x5C55;Ordering&#x7C7B;&#xFF01;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;List&amp;lt;Person&amp;gt; sortedCopy = orderByLastName.compound(orderByFirstName).reverse().sortedCopy(persons);
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h4 id="toc_3"&gt;&#x7EE7;&#x7EED;&#x8FC7;&#x6EE4;&#x548C;&#x6392;&#x5E8F;&lt;/h4&gt;
-
-&lt;p&gt;&#x5728;&#x8FD9;&#x4E2A;&#x7CFB;&#x5217;&#x7684;&#x7B2C;&#x4E00;&#x90E8;&#x5206;&#xFF0C;Steve&#x63D0;&#x5230;&#x4E86;&#x5728;Scala&#x4E2D;&#xFF0C;&#x4F60;&#x53EF;&#x4EE5;&#x8FD9;&#x4E48;&#x505A;&#xFF1A;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;people.filter(_.firstName == &amp;quot;Steve&amp;quot;).sort(_.lastName &amp;lt; _.lastName) 
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x3000;&#x3000;&#x529F;&#x80FD;&#x662F;&#x8BF4;&#x4ECE;people&#x8FD9;&#x4E2A;&#x96C6;&#x5408;&#x4E2D;&#x7B5B;&#x9009;&#x51FA;firstName&#x4E3A;&#x201C;Steve&#x201D;&#x7684;&#xFF0C;&#x5E76;&#x4E14;&#x6309;&#x4ED6;&#x4EEC;&#x7684;lastName&#x5C5E;&#x6027;&#x6392;&#x5E8F;&#x3002;  &lt;/p&gt;
-
-&lt;p&gt;&#x3000;&#x3000;&#x4ECE;&#x8BED;&#x6CD5;&#x4E0A;&#x6765;&#x770B;&#xFF0C;&#x8FD9;&#x884C;&#x4EE3;&#x7801;&#x975E;&#x5E38;&#x4F18;&#x96C5;&#xFF01;&#x90A3;&#x4E48;&#x6211;&#x4EEC;&#x4E5F;&#x6765;&#x770B;&#x4E00;&#x4E0B;&#x4F7F;&#x7528;Google Collections&#x65F6;&#x5E94;&#x8BE5;&#x600E;&#x4E48;&#x505A;&#x3002;Google Collections&#x7ED9;&#x6211;&#x4EEC;&#x63D0;&#x4F9B;&#x4E86;&#x524D;&#x9762;&#x63D0;&#x5230;&#x7684;Iterables&#x7C7B;&#xFF0C;&#x6211;&#x4EEC;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;Iterables&#x7C7B;&#x6765;&#x5B9E;&#x73B0;&#x8FC7;&#x6EE4;&#x548C;&#x8F6C;&#x6362;&#xFF08;&#x4F60;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;Google Collections&#x91CC;&#x7684;Collections2&#x6765;&#x5B9E;&#x73B0;&#x540C;&#x6837;&#x7684;&#x529F;&#x80FD;&#xFF09;&#x3002;  &lt;/p&gt;
-
-&lt;p&gt;&#x3000;&#x3000;&#x90A3;&#x73B0;&#x5728;&#x6211;&#x4EEC;&#x5C31;&#x6765;&#x770B;&#x4E00;&#x4E0B;&#x5982;&#x4F55;&#x5B9E;&#x73B0;&#x548C;Steve&#x7684;&#x90A3;&#x884C;Scala&#x4EE3;&#x7801;&#x4E00;&#x6837;&#x7684;&#x529F;&#x80FD;&#xFF0C;&#x867D;&#x7136;&#x770B;&#x8D77;&#x6765;&#x6CA1;&#x6709;Scala&#x5B9E;&#x73B0;&#x7684;&#x90A3;&#x4E48;&#x4F18;&#x96C5;&#xFF0C;&#x4F46;&#x5374;&#x662F;&#x4F7F;&#x7528;Predicates&#x548C;Ordering&#x7C7B;&#x6765;&#x5B9E;&#x73B0;&#x4E0A;&#x9762;&#x529F;&#x80FD;&#x7684;&#x4E00;&#x79CD;&#x65B9;&#x5F0F;&#x3002;  &lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Ordering.from(byLastName).sortedCopy(filter(persons, withFirstName(&amp;quot;Steve&amp;quot;)));
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x3000;&#x3000;&#x867D;&#x7136;&#x8DDF;Scala&#x63D0;&#x4F9B;&#x7684;&#x8BED;&#x6CD5;&#x7CD6;&#x6709;&#x70B9;&#x5DEE;&#x8DDD;&#xFF08;&#x5F88;&#x660E;&#x663E;&#x6211;&#x4EEC;&#x8FD8;&#x662F;&#x9700;&#x8981;&#x6211;&#x4EEC;&#x7684;&#x201C;withFirstName&#x201D;&#x6761;&#x4EF6;&#x8C13;&#x8BCD;&#x4EE5;&#x53CA;&#x201C;byLastName&#x201D;&#x6BD4;&#x8F83;&#x5668;&#xFF09;&#xFF0C;&#x4F46;&#x81F3;&#x5C11;&#x8FD9;&#x6BD4;&#x6211;&#x4EEC;&#x4E0D;&#x4F7F;&#x7528;Google Collections&#x63A5;&#x8FD1;&#x591A;&#x4E86;&#xFF01;&#xFF08;&#x5982;&#x679C;&#x91C7;&#x7528;Stephen&#x7684;&#x6D41;&#x5F0F;&#x63A5;&#x53E3;&#x7684;&#x8BDD;&#xFF0C;&#x4EE3;&#x7801;&#x4F1A;&#x66F4;&#x6613;&#x8BFB;&#xFF09;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x3000;&#x3000;Kevin Bourrillion&#x5728;&#x53E6;&#x4E00;&#x7BC7;&#x5173;&#x4E8E;&#x4F7F;&#x7528;&lt;a href="http://blogs.warwick.ac.uk/chrismay/entry/writing_functional_java/"&gt;Google Collections&#x7F16;&#x5199;&#x51FD;&#x6570;&#x5F0F;&#x7684;Java&lt;/a&gt;&#x7684;&#x6587;&#x7AE0;&#x4E2D;&#x63D0;&#x5230;&#xFF1A;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&#x8BED;&#x6CD5;&#x5F88;&#x70C2;&#x3002;&#x800C;&#x4E14;&#x540C;&#x65F6;&#x8FD9;&#x5728;&#x8BED;&#x8A00;&#x672C;&#x8EAB;&#x6539;&#x53D8;&#x4E4B;&#x524D;&#x53EA;&#x662F;&#x6743;&#x5B9C;&#x4E4B;&#x8BA1;&#xFF0C;&#x5230;&#x90A3;&#x65F6;&#x6211;&#x4EEC;&#x624D;&#x771F;&#x6B63;&#x7684;&#x9009;&#x62E9;&#x6700;&#x4F73;&#x7684;&#x8BED;&#x6CD5;&#x5E76;&#x5F00;&#x59CB;&#x771F;&#x6B63;&#x7684;&#x51FD;&#x6570;&#x5F0F;&#x7F16;&#x7A0B;&#x3002;&#x6240;&#x4EE5;&#x6211;&#x8FD8;&#x6CA1;&#x51B3;&#x5B9A;&#x6211;&#x4F1A;&#x6295;&#x5165;&#x591A;&#x5927;&#x7684;&#x52AA;&#x529B;&#x5230;Function/Predicate&#x4E2D;&#x53BB;&#xFF08;&#x8FD9;&#x6BB5;&#x771F;&#x7684;&#x5F88;&#x96BE;&#x7FFB;&#x8BD1;..&#x6211;&#x53BB;..&#xFF09;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&#x3000;&#x3000;&#x5728;&#x4E0B;&#x7BC7;&#x4E5F;&#x662F;&#x6700;&#x540E;&#x4E00;&#x7BC7;&#x5173;&#x4E8E;Google Collections&#x548C;Guava&#x7684;&#x535A;&#x6587;&#x4E2D;&#xFF0C;&#x6211;&#x4EEC;&#x5C06;&#x770B;&#x5230;&#x5982;&#x679C;&#x4F7F;&#x7528;Google Collections&#x64CD;&#x4F5C;Set&#x548C;Map&#xFF0C;&#x4EE5;&#x53CA;&#x4F7F;&#x7528;Preconditiones&#x6765;&#x505A;&#x9A8C;&#x8BC1;&#xFF0C;&#x800C;&#x4E14;&#x6211;&#x4EEC;&#x5E26;&#x4F60;&#x4F53;&#x9A8C;&#x4E00;&#x4E0B;&#x5947;&#x5999;&#x7684;Multimap&#x96C6;&#x5408;&#x7C7B;&#x4EE5;&#x53CA;&#x5982;&#x4F55;&#x8FDB;&#x884C;&#x5207;&#x5206;&#xFF01;&#x62ED;&#x76EE;&#x4EE5;&#x5F85;&#x5427;&#xFF01;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>&#x300C;&#x8F6C;&#x300D;Guava &#x6559;&#x7A0B;4-&#x6761;&#x4EF6;&#xFF0C;&#x591A;&#x91CD;&#x6620;&#x5C04;&#x548C;&#x5206;&#x7247;</title>
-      <link>http://sample.com/coding/%E8%BD%AC-guava-%E6%95%99%E7%A8%8B4-%E6%9D%A1%E4%BB%B6-%E5%A4%9A%E9%87%8D%E6%98%A0%E5%B0%84%E5%92%8C%E5%88%86%E7%89%87</link>
+      <title>guava-4</title>
+      <link>http://sample.com/coding/guava-4</link>
       <pubDate>2013-02-20</pubDate>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&#x672C;&#x6587;&#x8F6C;&#x81EA;&#x7F51;&#x7EDC;&#xFF0C;&#x5982;&#x6709;&#x4FB5;&#x6743;&#xFF0C;&#x8BF7;&#x8054;&#x7CFB;&#x672C;&#x4EBA;&#x5220;&#x9664;&#xFF01;
@@ -226,7 +87,7 @@ Comparator&amp;lt;Person&amp;gt; byFirstName = new Comparator&amp;lt;Person&amp;
 
 &lt;p&gt;&#x3000;&#x3000;&#x5728;&#x672C;&#x7CFB;&#x5217;&#x535A;&#x5BA2;&#x7684;&#x524D;&#x4E09;&#x7AE0;&#xFF0C;&#x6211;&#x4EEC;&#x5927;&#x6982;&#x4ECB;&#x7ECD;&#x4E86;Google&#x7684;Guava&#x7C7B;&#x5E93;&#x548C;Collections&#x7C7B;&#x5E93;&#xFF0C;&#x4F5C;&#x4E3A;&#x4E00;&#x540D;Java&#x5F00;&#x53D1;&#x4EBA;&#x5458;&#xFF0C;&#x76F8;&#x4FE1;&#x4F60;&#x4F1A;&#x4ECE;&#x4F7F;&#x7528;&#x8FD9;&#x4E9B;&#x7C7B;&#x5E93;&#xFF0C;&#x8FDB;&#x800C;&#x6765;&#x51CF;&#x5C11;&#x5728;&#x4F60;&#x9879;&#x76EE;&#x4E2D;&#x4F7F;&#x7528;&#x6837;&#x677F;&#x6587;&#x4EF6;&#x7684;&#x6570;&#x91CF;&#x800C;&#x83B7;&#x76CA;&#x3002;&#x5728;&#x672C;&#x7CFB;&#x5217;&#x535A;&#x5BA2;&#x7684;&#x6700;&#x540E;&#x4E00;&#x7BC7;&#x4E2D;&#xFF0C;&#x6211;&#x5C06;&#x5E26;&#x5927;&#x5BB6;&#x6765;&#x4E86;&#x89E3;&#x4E00;&#x4E2A;&#x4F1A;&#x8BA9;&#x4F60;&#x5B8C;&#x5168;&#x7231;&#x4E0A;&#x5E76;&#x6C89;&#x6D78;&#x4E8E;&#x5176;&#x4E2D;&#x7684;&#x7684;&#x96C6;&#x5408;&#x5DE5;&#x5177;&#x7C7B;-Multimap&#x3002;&#x6211;&#x4EEC;&#x5C06;&#x5E26;&#x5927;&#x5BB6;&#x4E86;&#x89E3;&#x4E0B;&#x5982;&#x4F55;&#x4F7F;&#x7528;Google Collections&#x7684;Preconditions&#x6765;&#x505A;&#x6821;&#x9A8C;&#xFF0C;&#x4F46;&#x662F;&#x5728;&#x6B64;&#x4E4B;&#x524D;&#xFF0C;&#x5148;&#x8BA9;&#x6211;&#x4EEC;&#x6765;&#x4E86;&#x89E3;&#x4E0B;&#x5982;&#x4F55;&#x5BF9;Set&#x548C;Map&#x8FDB;&#x884C;&#x4EA4;&#x96C6;&#x3001;&#x5E76;&#x96C6;&#x548C;&#x5DEE;&#x96C6;&#x7684;&#x8FD0;&#x7B97;&#x3002;  &lt;/p&gt;
 
-&lt;h4 id="toc_0"&gt;Set&#x7684;&#x4EA4;&#x96C6;&#xFF0C;&#x5E76;&#x96C6;&#x548C;map&#x7684;&#x76F8;&#x5173;&#x64CD;&#x4F5C;&lt;/h4&gt;
+&lt;h3 id="toc_0"&gt;Set&#x7684;&#x4EA4;&#x96C6;&#xFF0C;&#x5E76;&#x96C6;&#x548C;map&#x7684;&#x76F8;&#x5173;&#x64CD;&#x4F5C;&lt;/h3&gt;
 
 &lt;p&gt;&#x3000;&#x3000;&#x6709;&#x65F6;&#xFF0C;&#x5F53;&#x6211;&#x4EEC;&#x9700;&#x8981;&#x53BB;&#x5BF9;&#x4E24;&#x4E2A;Set&#x7684;&#x53D6;&#x4EA4;&#x96C6;&#x3001;&#x5E76;&#x96C6;&#x548C;&#x5DEE;&#x96C6;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x90A3;&#x662F;&#x4E00;&#x4EF6;&#x76F8;&#x5173;&#x9EBB;&#x70E6;&#x7684;&#x4E8B;&#x60C5;&#xFF0C;&#x800C;&#x4E14;&#x4EE3;&#x7801;&#x770B;&#x8D77;&#x6765;&#x5F88;&#x51CC;&#x4E71;&#x3002;&#x7ECF;&#x5E38;&#x60C5;&#x51B5;&#xFF0C;&#x4F60;&#x4F1A;&#x4EE5;&#x4E00;&#x904D;&#x53C8;&#x4E00;&#x904D;&#x7684;&#x5FAA;&#x73AF;&#x6765;&#x7ED3;&#x675F;&#x8FD9;&#x79CD;&#x505A;&#x6CD5;&#x3002;&#x4F46;&#x662F;&#x5982;&#x679C;&#x6211;&#x4EEC;&#x4F7F;&#x7528;Google Collections&#x63D0;&#x4F9B;&#x7684;Sets&#x7C7B;&#x5C31;&#x53EF;&#x4EE5;&#x8F7B;&#x800C;&#x6613;&#x4E3E;&#x7684;&#x5B8C;&#x6210;&#x8FD9;&#x4E9B;&#x64CD;&#x4F5C;&#xFF0C;&#x5E76;&#x4E14;&#x662F;&#x5B8C;&#x5168;&#x514D;&#x8D39;&#x7684;&#xFF01;  &lt;/p&gt;
 
@@ -271,7 +132,7 @@ Map entriesInCommon = differenceMap.entriesInCommon();
 
 &lt;p&gt;Thank you, Google Collections&#xFF01;&lt;/p&gt;
 
-&lt;h4 id="toc_1"&gt;&#x7528;Preconditions&#x8FDB;&#x884C;&#x6821;&#x9A8C;&lt;/h4&gt;
+&lt;h3 id="toc_1"&gt;&#x7528;Preconditions&#x8FDB;&#x884C;&#x6821;&#x9A8C;&lt;/h3&gt;
 
 &lt;p&gt;&#x3000;&#x3000;&#x65E9;&#x5728;&#x521D;&#x590F;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x4E00;&#x4E2A;&#x53EB;&#x521A;&#x521A;&#x52A0;&#x5165;&#x6211;&#x4EEC;&#x7684;&#x540C;&#x4E8B;Bent Andr&#xE9;&#x5411;&#x6211;&#x4ECB;&#x7ECD;&#x4E86;&#x7528;Preconditions&#x8FDB;&#x884C;&#x6821;&#x9A8C;&#x7684;&#x60F3;&#x6CD5;&#xFF0C;&#x4F46;&#x662F;,&#x76F4;&#x5230;&#x6700;&#x8FD1;&#x6211;&#x624D;&#x53D1;&#x73B0;Google Collections&#x5B9E;&#x9645;&#x4E0A;&#x5DF2;&#x7ECF;&#x5305;&#x542B;&#x4E86;&#x76F8;&#x5E94;&#x7684;&#x5B9E;&#x73B0;&#xFF08;&#x6211;&#x4EEC;&#x81EA;&#x5DF1;&#x4E5F;&#x5DF2;&#x7ECF;&#x6709;&#x4E86;&#x76F8;&#x4F3C;&#x7684;&#x5B9E;&#x73B0;&#xFF09;&#x3002;  &lt;/p&gt;
 
@@ -335,7 +196,7 @@ JavaDoc&#x4E2D;&#x662F;&#x8FD9;&#x6837;&#x89E3;&#x91CA;&#x7684;&#xFF1A;&lt;/p&gt
 &lt;p&gt;&#x5F88;&#x7B80;&#x6D01;&#xFF0C;&#x4E0D;&#x662F;&#x4E48;?&lt;br&gt;
 &#x7A0D;&#x540E;&#x6211;&#x4EEC;&#x4F1A;&#x53D1;&#x8868;&#x4E00;&#x7BC7;&#x5173;&#x4E8E;&#x5F02;&#x5E38;&#x548C;&#x6821;&#x9A8C;&#x7684;&#x66F4;&#x8BE6;&#x7EC6;&#x7684;&#x6587;&#x7AE0;&#xFF0C;&#x656C;&#x8BF7;&#x5173;&#x6CE8;!  &lt;/p&gt;
 
-&lt;h4 id="toc_2"&gt;&#x4E00;&#x4E2A;&#x96C6;&#x5408;&#x7EDF;&#x6CBB;&#x4E00;&#x5207; &#x2013; Multimap&lt;/h4&gt;
+&lt;h3 id="toc_2"&gt;&#x4E00;&#x4E2A;&#x96C6;&#x5408;&#x7EDF;&#x6CBB;&#x4E00;&#x5207; &#x2013; Multimap&lt;/h3&gt;
 
 &lt;p&gt;&#x3000;&#x3000;&#x6211;&#x5DF2;&#x7ECF;&#x6570;&#x4E0D;&#x6E05;&#x6211;&#x6709;&#x591A;&#x5C11;&#x6B21;&#x9700;&#x8981;&#x5728;&#x4E00;&#x4E2A;Map&#x4E2D;&#x5B9E;&#x73B0;&#x4E00;&#x4E2A;key&#x5BF9;&#x5E94;&#x591A;&#x4E2A;value&#x7684;&#x9700;&#x6C42;&#xFF0C;&#x6700;&#x7EC8;&#x4E0D;&#x5F97;&#x4E0D;&#x4EE5;&lt;code&gt;Map&amp;lt;K, List&amp;lt;V&amp;gt;&amp;gt;&lt;/code&gt;&#x8FD9;&#x79CD;&#x7ED3;&#x6784;&#x6765;&#x5B9E;&#x73B0;&#x7684;&#x7ECF;&#x5386;&#x4E86;&#x3002;
 &#x5E76;&#x4E14;&#x7528;&#x8FD9;&#x79CD;&#x65B9;&#x5F0F;&#x5B9E;&#x73B0;&#x4E00;&#x952E;&#x591A;&#x503C;&#x7684;&#x9700;&#x6C42;&#x8FD8;&#x5B58;&#x5728;&#x5F88;&#x5927;&#x7684;&#x4E89;&#x8BAE;&#xFF0C;&#x5982;&#x4E0B;&#x6240;&#x793A;:&lt;/p&gt;
@@ -367,7 +228,7 @@ public void addBlogPost(final Person author, final BlogPost blogPost) {
 
 &lt;p&gt;&#x3000;&#x3000;Multimaps&#x540C;&#x6837;&#x63D0;&#x4F9B;&#x4E86;&#x5F88;&#x591A;&#x6709;&#x7528;&#x7684;&#x65B9;&#x6CD5;&#xFF0C;&#x8BE6;&#x7EC6;&#x5185;&#x5BB9;&#x53EF;&#x4EE5;&#x53C2;&#x8003;Multimap &#x548C; Multimaps&#x7684;API&#x6587;&#x6863;&#xFF01;&#x5F88;&#x6FC0;&#x52A8;&#x662F;&#x4E48;&#xFF1F;&#x90A3;&#x5C31;&#x7EE7;&#x7EED;&#x5F80;&#x4E0B;&#x770B;&#x5427;...&lt;/p&gt;
 
-&lt;h4 id="toc_3"&gt;&#x5206;&#x7247;&#x96C6;&#x5408;&lt;/h4&gt;
+&lt;h3 id="toc_3"&gt;&#x5206;&#x7247;&#x96C6;&#x5408;&lt;/h3&gt;
 
 &lt;p&gt;&#x3000;&#x3000;&#x6211;&#x7BA1;&#x8FD9;&#x8282;&#x53EB;&#x5206;&#x7247;&#xFF0C;&#x76F8;&#x4FE1;&#x5F88;&#x591A;&#x4EBA;&#x4F1A;&#x89C9;&#x5F97;&#x53EB;&#x6211;&#x4EEC;&#x5728;&#x4E4B;&#x524D;&#x6587;&#x7AE0;&#x53EB;&#x63D0;&#x5230;&#x7684;&#x201C;&#x8FC7;&#x6EE4;&#x96C6;&#x5408;&#x201D;&#x66F4;&#x51C6;&#x786E;&#x3002;&#x4F46;&#x662F;&#x5F53;&#x6211;&#x4EEC;&#x628A;&#x628A;Multimap&#x7684;&#x6982;&#x5FF5;&#x548C;&#x529F;&#x80FD;&#x76F8;&#x7ED3;&#x5408;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x4F60;&#x5C31;&#x4F1A;&#x610F;&#x8BC6;&#x5230;&#x4ED6;&#x5230;&#x5E95;&#x6709;&#x591A;&#x5F3A;&#x5927;&#x4E86;&#xFF0C;&#x800C;&#x4E0D;&#x4EC5;&#x4EC5;&#x662F;&#x8FC7;&#x6EE4;&#x90A3;&#x4E48;&#x7B80;&#x5355;&#xFF01;  &lt;/p&gt;
 
@@ -405,8 +266,147 @@ public void addBlogPost(final Person author, final BlogPost blogPost) {
 </description>
     </item>
     <item>
-      <title>&#x300C;&#x8F6C;&#x300D;Guava &#x6559;&#x7A0B;2-&#x6DF1;&#x5165;&#x63A2;&#x7D22; Google Guava &#x5E93;</title>
-      <link>http://sample.com/coding/%E8%BD%AC-guava-%E6%95%99%E7%A8%8B2-%E6%B7%B1%E5%85%A5%E6%8E%A2%E7%B4%A2-google-guava-%E5%BA%93</link>
+      <title>guava-3</title>
+      <link>http://sample.com/coding/guava-3</link>
+      <pubDate>2013-02-20</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&#x672C;&#x6587;&#x8F6C;&#x81EA;&#x7F51;&#x7EDC;&#xFF0C;&#x5982;&#x6709;&#x4FB5;&#x6743;&#xFF0C;&#x8BF7;&#x8054;&#x7CFB;&#x672C;&#x4EBA;&#x5220;&#x9664;&#xFF01;
+&lt;a href="http://codemunchies.com/2009/11/functional-java-filtering-and-ordering-with-google-collections-part-3/"&gt;&#x539F;&#x6587;&lt;/a&gt;
+&lt;a href="http://www.oschina.net/translate/functional-java-filtering-and-ordering-with-google-collections-part-3"&gt;&#x8BD1;&#x6587;&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&#x3000;&#x3000;&#x5728;&#x672C;&#x7CFB;&#x5217;&#x535A;&#x5BA2;&#x7684;&#x7B2C;&#x4E00;&#x3001;&#x4E8C;&#x90E8;&#x5206;&#xFF0C;&#x6211;&#x4ECB;&#x7ECD;&#x4E86;&#x975E;&#x5E38;&#x4F18;&#x79C0;&#x7684;Google Collections&#x548C;Guava&#x5305;&#x3002;&#x672C;&#x7BC7;&#x535A;&#x5BA2;&#x4E2D;&#x6211;&#x4EEC;&#x6765;&#x770B;&#x770B;&#x5982;&#x4F55;&#x4F7F;&#x7528;Google Collections&#x6765;&#x505A;&#x5230;&#x8FC7;&#x6EE4;&#x548C;&#x6392;&#x5E8F;&#x529F;&#x80FD;&#x3002;&#x6B64;&#x5916;&#xFF0C;&#x6211;&#x4F1A;&#x5E26;&#x4F60;&#x770B;&#x770B;Google Collections&#x662F;&#x5982;&#x4F55;&#x4F7F;Java&#x6709;&#x4E00;&#x70B9;&#x70B9;&#x201C;functional&#xFF08;&#x65B9;&#x6CD5;&#x5316;&#xFF09;&#x201D;&#x7684;&#x8FDB;&#x6B65;&#x4E86;&#x3002;  &lt;/p&gt;
+
+&lt;h3 id="toc_0"&gt;Functions, Functions, Functions!!&lt;/h3&gt;
+
+&lt;p&gt;&#x3000;&#x3000;Google Collections&#x7ED9;&#x6211;&#x4EEC;&#x5E26;&#x6765;&#x4E86;&#x4E00;&#x5BF9;&#x975E;&#x5E38;&#x4F18;&#x96C5;&#x7684;&#x4E1C;&#x4E1C;&#xFF0C;&#x53EB;&#x505A;:Functions and Predicates! &#x548C;&#x4F60;&#x4F7F;&#x7528;&#x7684;scala&#x4E00;&#x6837;&#x6709;&#x795E;&#x5947;&#x7684;&#x5730;&#x65B9;&#xFF0C;&#x73B0;&#x5728;&#x4F60;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;&#x5728;no-functional &#x7684;java&#x8EAB;&#x4E0A;&#x4E86;&#x3002;&#x4F60;&#x53EF;&#x4EE5;&#x5728;com.google.common.base&#x5305;&#x91CC;&#x627E;&#x5230;&#x8FD9;&#x4E9B;&#xFF08;&#x66F4;&#x591A;&#xFF09;&#x3002;  &lt;/p&gt;
+
+&lt;p&gt;&#x3000;&#x3000;&#x6211;&#x4EEC;&#x5C06;&#x5728;&#x4E0B;&#x4E00;&#x90E8;&#x5206;&#x8FC7;&#x6EE4;&#x96C6;&#x5408;&#x7684;&#x65F6;&#x5019;&#x8C08;&#x5230;Predicates&#x7C7B;&#xFF0C;&#x9996;&#x5148;&#x6211;&#x4EEC;&#x5148;&#x770B;&#x4E00;&#x4E0B;Function&#x7684;&#x7528;&#x6CD5;&#xFF01;&lt;br&gt;
+&#x3000;&#x3000;Google collections&#x63D0;&#x4F9B;&#x4E86;Function&lt;F,T&gt;&#x63A5;&#x53E3;&#xFF0C;&#x5B9E;&#x9645;&#x4E0A;&#xFF0C;&#x4E00;&#x4E2A;function&#x5C31;&#x662F;&#x4ECE;&#x4E00;&#x4E2A;&#x5BF9;&#x8C61;&#x5230;&#x53E6;&#x5916;&#x4E00;&#x4E2A;&#x5BF9;&#x8C61;&#x7684;&#x8F6C;&#x6362;&#x53D8;&#x5F62;&#x3002;  &lt;/p&gt;
+
+&lt;p&gt;&#x50CF;Lists&#x548C;Maps&#x8FD9;&#x7C7B;&#x7684;Collection&#x5DE5;&#x5177;&#x7C7B;&#x7ED9;&#x6211;&#x4EEC;&#x63D0;&#x4F9B;&#x4E86;&#x8F6C;&#x6362;&#x7684;&#x65B9;&#x6CD5;&#xFF1A;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;topMap = Maps.transformValues(fromMap, function);
+toList = Lists.transform(fromList, function);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&#x4E3E;&#x4E2A;&#x4F8B;&#x5B50;&#x6765;&#x8BF4;&#xFF0C;&#x5047;&#x8BBE;&#x4F60;&#x6709;&#x4E00;&#x4E2A;Map&#xFF0C;key&#x662F;&#x7269;&#x54C1;&#xFF0C;value&#x662F;&#x5BF9;&#x5E94;&#x7684;&#x4EF7;&#x683C;&#xFF0C;&#x5355;&#x4F4D;&#x662F;&#x6B27;&#x5143;&#x3002;&#x90A3;&#x4E48;&#xFF0C;&#x4F60;&#x6709;&#x4E2A;&#x9700;&#x6C42;&#x662F;&#x5C06;&#x91CC;&#x9762;&#x7684;&#x4EF7;&#x683C;&#x90FD;&#x8F6C;&#x6362;&#x4E3A;&#x7F8E;&#x5143;&#xFF0C;&#x4F20;&#x7EDF;&#x7684;&#x505A;&#x6CD5;&#x662F;&#x904D;&#x5386;&#x6574;&#x4E2A;Map&#xFF0C;&#x7136;&#x540E;&#x66F4;&#x65B0;&#x6BCF;&#x4E2A;value&#x503C;&#xFF0C;&#x5C06;&#x4EF7;&#x683C;&#x8F6C;&#x6362;&#x4E3A;&#x7F8E;&#x5143;&#x4EF7;&#x683C;&#xFF0C;&#x597D;&#x9EBB;&#x70E6;...&lt;br&gt;
+&#x6709;&#x4E86;Functions&#xFF0C;&#x4E16;&#x754C;&#x4E00;&#x4E0B;&#x5B50;&#x53D8;&#x6E05;&#x51C0;&#x4E86;...  &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Map usdPriceMap = Maps.transformValues(eurPriceMap, new Function() {
+    double eurToUsd = 1.4888;
+    public Double apply(final Double from) {
+        return from * eurToUsd;
+    }
+});
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&#x597D;&#x5427;&#xFF0C;&#x4F60;&#x53EF;&#x80FD;&#x8BF4;&#x533F;&#x540D;&#x5185;&#x90E8;&#x7C7B;&#x641E;&#x7684;&#x6709;&#x70B9;&#x7CDF;&#xFF0C;&#x56E0;&#x4E3A; &#x4F60;&#x53EF;&#x80FD;&#x60F3;&#x91CD;&#x7528;&#x8FD9;&#x4E2A;function---&#x8FD9;&#x91CC;&#x53EA;&#x662F;&#x6F14;&#x793A;&#x51FD;&#x6570;&#x5F0F;&#x7684;&#x4E00;&#x4E9B;&#x7279;&#x70B9;&#x800C;&#x5DF2;&#x3002;&lt;br&gt;
+&#x548C;&#x8FD9;&#x4E2A;&#x7C7B;&#x4F3C;&#x7684;&#xFF0C;&#x6211;&#x4EEC;&#x4E5F;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;Functions&#x6765;&#x628A;&#x4E00;&#x4E2A;&#x5BF9;&#x8C61;&#x8F6C;&#x6362;&#x6210;&#x4E00;&#x4E2A;&#x5B8C;&#x5168;&#x4E0D;&#x540C;&#x7684;&#x5BF9;&#x8C61;&#xFF0C;&#x6BD4;&#x5982;&#x5C06;&#x4E00;&#x4E2A;&#x6574;&#x5F62;&#x8F6C;&#x6362;&#x4E3A;&#x5B57;&#x7B26;&#x4E32;&#x3002;&lt;br&gt;
+&#x6211;&#x4EEC;&#x7A0D;&#x540E;&#x518D;&#x6DF1;&#x5165;Functions&#x7C7B;&#xFF0C;&#x9996;&#x5148;&#x6211;&#x4EEC;&#x6D4F;&#x89C8;&#x4E00;&#x4E0B;Multimap&#x96C6;&#x5408;&#x4EE5;&#x53CA;&#x6211;&#x4EEC;&#x5982;&#x679C;&#x4F7F;&#x7528;&#x4E00;&#x70B9;function&#x6765;&#x8F6C;&#x6362;&#x4E00;&#x4E2A;&#x96C6;&#x5408;&#x3002;  &lt;/p&gt;
+
+&lt;h3 id="toc_1"&gt;&#x4F7F;&#x7528;&#x6761;&#x4EF6;&#x8FC7;&#x6EE4;&#x96C6;&#x5408;&lt;/h3&gt;
+
+&lt;p&gt;&#x6211;&#x5728;Integrasco&#x505A;&#x6570;&#x636E;&#x5DE5;&#x4F5C;&#x65F6;&#x9047;&#x5230;&#x7684;&#x6700;&#x5E38;&#x89C1;&#x7684;&#x4EFB;&#x52A1;&#x662F;&#x8FC7;&#x6EE4;&#x6570;&#x636E;&#x548C;&#x5BF9;&#x5927;&#x96C6;&#x5408;&#x8FDB;&#x884C;&#x6392;&#x5E8F;&#x3002; &#x7B80;&#x5355;&#x8D77;&#x89C1;&#xFF0C;&#x6211;&#x4EEC;&#x5047;&#x8BBE;&#x4F60;&#x6709;&#x4E00;&#x4E2A;&#x59D3;&#x540D;&#x5217;&#x8868;&#x60F3;&#x8981;&#x8FC7;&#x6EE4;&#xFF08;&#x770B;&#x8D77;&#x6765;&#x6709;&#x70B9;&#x5E7C;&#x7A1A;&#xFF09;&#xFF1A;&#x3000;&#x3000;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;List&amp;lt;String&amp;gt; names = listOf(&amp;quot;Aleksander&amp;quot;, &amp;quot;Jaran&amp;quot;, &amp;quot;Integrasco&amp;quot;, &amp;quot;Guava&amp;quot;, &amp;quot;Java&amp;quot;);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&#x6211;&#x4EEC;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;com.google.common.collect.Iterables&#x548C;com.google.common.base.Predicates&#x7C7B;&#x6765;&#x8FC7;&#x6EE4;&#x4F8B;&#x5B50;&#x4E2D;&#x7684;&#x5217;&#x8868;&#xFF0C;&#x4F7F;&#x8FC7;&#x6EE4;&#x540E;&#x7684;&#x5217;&#x8868;&#x4E2D;&#x53EA;&#x5305;&#x542B;Aleksander&#x6216;&#x8005;Jaran&#xFF1A;  &lt;/p&gt;
+
+&lt;p&gt;&#x73B0;&#x5728;&#x6211;&#x77E5;&#x9053;&#x8FD9;&#x542C;&#x8D77;&#x6765;&#x6709;&#x70B9;&#x50BB;&#x5E3D;&#xFF0C;&#x4F46;&#x662F;&#x4F60;&#x4ECD;&#x7136;&#x53EF;&#x4EE5;&#x5B9E;&#x73B0;&#x81EA;&#x5DF1;&#x7684;Predicates&#x6761;&#x4EF6;&#x7C7B;&#xFF0C;&#x6BD4;&#x5982;&#x8FD4;&#x56DE;&#x540D;&#x5B57;&#x957F;&#x5EA6;&#x5C0F;&#x4E8E;5&#x7684;&#x5217;&#x8868;&#xFF08;&#x6211;&#x4ECE;codemonkeyism.com&#x5077;&#x5230;&#x4E86;&#x4E0B;&#x9762;&#x8FD9;&#x4E2A;&#x4F8B;&#x5B50;&#xFF09;&#xFF1A;  &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Iterable&amp;lt;String&amp;gt; filtered = filter(names, or(or(equalTo(&amp;quot;Aleksander&amp;quot;),equalTo(&amp;quot;Jaran&amp;quot;)), lengthLessThan(5)));
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&#x3000;&#x3000;&#x8FD9;&#x4E2A;&#x4F8B;&#x5B50;&#x8FD4;&#x56DE;&#x7684;&#x662F;Aleksander&#xFF0C;Jaran&#x4EE5;&#x53CA;Java&#xFF08;&#x56E0;&#x4E3A;Java&#x7684;&#x957F;&#x5EA6;&#x5C0F;&#x4E8E;5&#xFF09;&#x3002;or&#x6761;&#x4EF6;&#x7684;&#x90E8;&#x5206;&#x8BFB;&#x8D77;&#x6765;&#x6709;&#x70B9;&#x7ED5;&#xFF0C;&#x4F46;&#x6211;&#x8FD8;&#x53EF;&#x4EE5;&#x5FCD;&#x53D7;&#x3002;equalTo&#x4EE5;&#x53CA;or&#x6761;&#x4EF6;&#x90FD;&#x662F;Predicates&#x81EA;&#x5E26;&#x7684;&#x65B9;&#x6CD5;&#xFF0C;&#x7528;&#x8D77;&#x6765;&#x5F88;&#x65B9;&#x4FBF;&#x3002;  &lt;/p&gt;
+
+&lt;p&gt;&#x73B0;&#x5728;&#x6211;&#x4EEC;&#x6765;&#x5B9E;&#x73B0;&#x4E00;&#x4E2A;lengthLessThan&#x7684;&#x6761;&#x4EF6;&#xFF0C;&#x6211;&#x4EEC;&#x53EA;&#x9700;&#x8981;&#x8FD9;&#x4E48;&#x505A;&#xFF1A;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;private static class LengthLessThanPredicate implements Predicate&amp;lt;String&amp;gt; {
+    private final int length;
+    private LengthLessThanPredicate(final int length) {
+        this.length = length;
+    }
+    public boolean apply(final String s) {
+        return s.length() &amp;lt; length;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&#x628A;&#x8FD9;&#x4E2A;&#x5B9E;&#x73B0;&#x5728;&#x4F60;&#x7684;&#x5DE5;&#x5177;&#x7C7B;&#x91CC;&#x5305;&#x88C5;&#x4E00;&#x4E0B;&#x5C31;&#x50CF;&#x8FD9;&#x6837;&#xFF1A;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;public static Predicate&amp;lt;String&amp;gt; lengthLessThan(final int length) {
+    return new LengthLessThanPredicate(length);
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&#x5173;&#x6CE8;&#x4E00;&#x4E0B;&lt;a href="http://codemonkeyism.com/"&gt;Stephan&lt;/a&gt;&#x7684;&#x535A;&#x6587;&lt;a href="http://codemonkeyism.com/creating-a-fluent-interface-for-google-collections/"&gt;fluent interfaces for Google Collections&lt;/a&gt; --&#x5199;&#x7684;&#x76F8;&#x5F53;&#x4F18;&#x96C5;~&#xFF01;&lt;/p&gt;
+
+&lt;h3 id="toc_2"&gt;&#x5BF9;&#x96C6;&#x5408;&#x6392;&#x5E8F;&lt;/h3&gt;
+
+&lt;p&gt;&#x591A;&#x4E8F;&#x6709;&#x4E86;java Collections&#x7C7B;&#xFF0C;&#x6211;&#x4EEC;&#x53EF;&#x4EE5;&#x8FD9;&#x4E48;&#x6392;&#x5E8F;&#xFF1A;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Collections.sort(List&amp;lt;T&amp;gt;, Comparator&amp;lt;? super T&amp;gt;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&#x3000;&#x3000;&#x4F46;&#x6709;&#x65F6;&#x5019;&#x6211;&#x4EEC;&#x60F3;&#x505A;&#x66F4;&#x590D;&#x6742;&#x4E00;&#x4E9B;&#x7684;&#x4E8B;&#x60C5;&#xFF0C;&#x6BD4;&#x5982;&#x5408;&#x5E76;&#x591A;&#x4E2A;Comparator&#x6216;&#x8005;&#x6211;&#x4EEC;&#x53EF;&#x80FD;&#x53EA;&#x662F;&#x60F3;&#x8981;&#x6392;&#x5E8F;&#x8FC7;&#x7684;&#x96C6;&#x5408;&#x7684;&#x4E00;&#x4E2A;&#x89C6;&#x56FE;&#xFF0C;&#x800C;&#x4E0D;&#x6539;&#x53D8;&#x539F;&#x6765;&#x96C6;&#x5408;&#x7684;&#x987A;&#x5E8F;&#x3002;&lt;br&gt;
+&#x3000;&#x3000;Google Collections&#x7ED9;&#x6211;&#x4EEC;&#x63D0;&#x4F9B;&#x4E86;Ordering&#xFF0C;&#x8BA9;&#x6211;&#x4EEC;&#x66F4;&#x597D;&#x5730;&#x638C;&#x63A7;&#x6392;&#x5E8F;&#x3002;&#x5047;&#x5982;&#x6211;&#x4EEC;&#x6709;&#x4E24;&#x4E2A;&#x5BF9;Person&#x7C7B;&#x6392;&#x5E8F;&#x7684;comparator&#xFF0C;&#x4E00;&#x4E2A;&#x662F;&#x6839;&#x636E;lastName&#x6392;&#x5E8F;&#xFF0C;&#x4E00;&#x4E2A;&#x662F;&#x6839;&#x636E;firstName&#x6392;&#x5E8F;&#xFF1A; &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Comparator&amp;lt;Person&amp;gt; byLastName = new Comparator&amp;lt;Person&amp;gt;() {
+    public int compare(final Person p1, final Person p2) {
+        return p1.getLastName().compareTo(p2.getLastName());
+    }
+}
+
+
+Comparator&amp;lt;Person&amp;gt; byFirstName = new Comparator&amp;lt;Person&amp;gt;() {
+    public int compare(final Person p1, final Person p2) {
+        return p1.getFirstName().compareTo(p2.getFirstName());
+    }
+}; 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&#x90A3;&#x4E48;&#xFF0C;&#x5047;&#x5982;&#x6211;&#x4EEC;&#x73B0;&#x5728;&#x60F3;&#x73B0;&#x6839;&#x636E;last name&#x6392;&#x5E8F;&#xFF0C;&#x518D;&#x6839;&#x636E;first name&#x6392;&#x5E8F;&#xFF0C;&#x7136;&#x540E;&#x5BF9;&#x6392;&#x5E8F;&#x7ED3;&#x679C;&#x53CD;&#x5E8F;&#xFF0C;&#x90A3;&#x6211;&#x4EEC;&#x6211;&#x4EEC;&#x9700;&#x8981;&#x505A;&#x7684;&#x662F;&#xFF1A;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;List&amp;lt;Person&amp;gt; sortedCopy = Ordering.from(byLastName).compound(byFirstName).reverse().sortedCopy(persons);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&#x800C;&#x4E14;&#xFF0C;&#x4F60;&#x751A;&#x81F3;&#x65E0;&#x9700;&#x521B;&#x5EFA;Comparator&#x6BD4;&#x8F83;&#x5668;&#xFF0C;&#x4F60;&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x6269;&#x5C55;Ordering&#x7C7B;&#xFF01;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;List&amp;lt;Person&amp;gt; sortedCopy = orderByLastName.compound(orderByFirstName).reverse().sortedCopy(persons);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id="toc_3"&gt;&#x7EE7;&#x7EED;&#x8FC7;&#x6EE4;&#x548C;&#x6392;&#x5E8F;&lt;/h3&gt;
+
+&lt;p&gt;&#x5728;&#x8FD9;&#x4E2A;&#x7CFB;&#x5217;&#x7684;&#x7B2C;&#x4E00;&#x90E8;&#x5206;&#xFF0C;Steve&#x63D0;&#x5230;&#x4E86;&#x5728;Scala&#x4E2D;&#xFF0C;&#x4F60;&#x53EF;&#x4EE5;&#x8FD9;&#x4E48;&#x505A;&#xFF1A;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;people.filter(_.firstName == &amp;quot;Steve&amp;quot;).sort(_.lastName &amp;lt; _.lastName) 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&#x3000;&#x3000;&#x529F;&#x80FD;&#x662F;&#x8BF4;&#x4ECE;people&#x8FD9;&#x4E2A;&#x96C6;&#x5408;&#x4E2D;&#x7B5B;&#x9009;&#x51FA;firstName&#x4E3A;&#x201C;Steve&#x201D;&#x7684;&#xFF0C;&#x5E76;&#x4E14;&#x6309;&#x4ED6;&#x4EEC;&#x7684;lastName&#x5C5E;&#x6027;&#x6392;&#x5E8F;&#x3002;  &lt;/p&gt;
+
+&lt;p&gt;&#x3000;&#x3000;&#x4ECE;&#x8BED;&#x6CD5;&#x4E0A;&#x6765;&#x770B;&#xFF0C;&#x8FD9;&#x884C;&#x4EE3;&#x7801;&#x975E;&#x5E38;&#x4F18;&#x96C5;&#xFF01;&#x90A3;&#x4E48;&#x6211;&#x4EEC;&#x4E5F;&#x6765;&#x770B;&#x4E00;&#x4E0B;&#x4F7F;&#x7528;Google Collections&#x65F6;&#x5E94;&#x8BE5;&#x600E;&#x4E48;&#x505A;&#x3002;Google Collections&#x7ED9;&#x6211;&#x4EEC;&#x63D0;&#x4F9B;&#x4E86;&#x524D;&#x9762;&#x63D0;&#x5230;&#x7684;Iterables&#x7C7B;&#xFF0C;&#x6211;&#x4EEC;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;Iterables&#x7C7B;&#x6765;&#x5B9E;&#x73B0;&#x8FC7;&#x6EE4;&#x548C;&#x8F6C;&#x6362;&#xFF08;&#x4F60;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;Google Collections&#x91CC;&#x7684;Collections2&#x6765;&#x5B9E;&#x73B0;&#x540C;&#x6837;&#x7684;&#x529F;&#x80FD;&#xFF09;&#x3002;  &lt;/p&gt;
+
+&lt;p&gt;&#x3000;&#x3000;&#x90A3;&#x73B0;&#x5728;&#x6211;&#x4EEC;&#x5C31;&#x6765;&#x770B;&#x4E00;&#x4E0B;&#x5982;&#x4F55;&#x5B9E;&#x73B0;&#x548C;Steve&#x7684;&#x90A3;&#x884C;Scala&#x4EE3;&#x7801;&#x4E00;&#x6837;&#x7684;&#x529F;&#x80FD;&#xFF0C;&#x867D;&#x7136;&#x770B;&#x8D77;&#x6765;&#x6CA1;&#x6709;Scala&#x5B9E;&#x73B0;&#x7684;&#x90A3;&#x4E48;&#x4F18;&#x96C5;&#xFF0C;&#x4F46;&#x5374;&#x662F;&#x4F7F;&#x7528;Predicates&#x548C;Ordering&#x7C7B;&#x6765;&#x5B9E;&#x73B0;&#x4E0A;&#x9762;&#x529F;&#x80FD;&#x7684;&#x4E00;&#x79CD;&#x65B9;&#x5F0F;&#x3002;  &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Ordering.from(byLastName).sortedCopy(filter(persons, withFirstName(&amp;quot;Steve&amp;quot;)));
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&#x3000;&#x3000;&#x867D;&#x7136;&#x8DDF;Scala&#x63D0;&#x4F9B;&#x7684;&#x8BED;&#x6CD5;&#x7CD6;&#x6709;&#x70B9;&#x5DEE;&#x8DDD;&#xFF08;&#x5F88;&#x660E;&#x663E;&#x6211;&#x4EEC;&#x8FD8;&#x662F;&#x9700;&#x8981;&#x6211;&#x4EEC;&#x7684;&#x201C;withFirstName&#x201D;&#x6761;&#x4EF6;&#x8C13;&#x8BCD;&#x4EE5;&#x53CA;&#x201C;byLastName&#x201D;&#x6BD4;&#x8F83;&#x5668;&#xFF09;&#xFF0C;&#x4F46;&#x81F3;&#x5C11;&#x8FD9;&#x6BD4;&#x6211;&#x4EEC;&#x4E0D;&#x4F7F;&#x7528;Google Collections&#x63A5;&#x8FD1;&#x591A;&#x4E86;&#xFF01;&#xFF08;&#x5982;&#x679C;&#x91C7;&#x7528;Stephen&#x7684;&#x6D41;&#x5F0F;&#x63A5;&#x53E3;&#x7684;&#x8BDD;&#xFF0C;&#x4EE3;&#x7801;&#x4F1A;&#x66F4;&#x6613;&#x8BFB;&#xFF09;&#x3002;&lt;/p&gt;
+
+&lt;p&gt;&#x3000;&#x3000;Kevin Bourrillion&#x5728;&#x53E6;&#x4E00;&#x7BC7;&#x5173;&#x4E8E;&#x4F7F;&#x7528;&lt;a href="http://blogs.warwick.ac.uk/chrismay/entry/writing_functional_java/"&gt;Google Collections&#x7F16;&#x5199;&#x51FD;&#x6570;&#x5F0F;&#x7684;Java&lt;/a&gt;&#x7684;&#x6587;&#x7AE0;&#x4E2D;&#x63D0;&#x5230;&#xFF1A;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&#x8BED;&#x6CD5;&#x5F88;&#x70C2;&#x3002;&#x800C;&#x4E14;&#x540C;&#x65F6;&#x8FD9;&#x5728;&#x8BED;&#x8A00;&#x672C;&#x8EAB;&#x6539;&#x53D8;&#x4E4B;&#x524D;&#x53EA;&#x662F;&#x6743;&#x5B9C;&#x4E4B;&#x8BA1;&#xFF0C;&#x5230;&#x90A3;&#x65F6;&#x6211;&#x4EEC;&#x624D;&#x771F;&#x6B63;&#x7684;&#x9009;&#x62E9;&#x6700;&#x4F73;&#x7684;&#x8BED;&#x6CD5;&#x5E76;&#x5F00;&#x59CB;&#x771F;&#x6B63;&#x7684;&#x51FD;&#x6570;&#x5F0F;&#x7F16;&#x7A0B;&#x3002;&#x6240;&#x4EE5;&#x6211;&#x8FD8;&#x6CA1;&#x51B3;&#x5B9A;&#x6211;&#x4F1A;&#x6295;&#x5165;&#x591A;&#x5927;&#x7684;&#x52AA;&#x529B;&#x5230;Function/Predicate&#x4E2D;&#x53BB;&#xFF08;&#x8FD9;&#x6BB5;&#x771F;&#x7684;&#x5F88;&#x96BE;&#x7FFB;&#x8BD1;..&#x6211;&#x53BB;..&#xFF09;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&#x3000;&#x3000;&#x5728;&#x4E0B;&#x7BC7;&#x4E5F;&#x662F;&#x6700;&#x540E;&#x4E00;&#x7BC7;&#x5173;&#x4E8E;Google Collections&#x548C;Guava&#x7684;&#x535A;&#x6587;&#x4E2D;&#xFF0C;&#x6211;&#x4EEC;&#x5C06;&#x770B;&#x5230;&#x5982;&#x679C;&#x4F7F;&#x7528;Google Collections&#x64CD;&#x4F5C;Set&#x548C;Map&#xFF0C;&#x4EE5;&#x53CA;&#x4F7F;&#x7528;Preconditiones&#x6765;&#x505A;&#x9A8C;&#x8BC1;&#xFF0C;&#x800C;&#x4E14;&#x6211;&#x4EEC;&#x5E26;&#x4F60;&#x4F53;&#x9A8C;&#x4E00;&#x4E0B;&#x5947;&#x5999;&#x7684;Multimap&#x96C6;&#x5408;&#x7C7B;&#x4EE5;&#x53CA;&#x5982;&#x4F55;&#x8FDB;&#x884C;&#x5207;&#x5206;&#xFF01;&#x62ED;&#x76EE;&#x4EE5;&#x5F85;&#x5427;&#xFF01;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>guava-2</title>
+      <link>http://sample.com/coding/guava-2</link>
       <pubDate>2013-02-19</pubDate>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&#x672C;&#x6587;&#x8F6C;&#x81EA;&#x7F51;&#x7EDC;&#xFF0C;&#x5982;&#x6709;&#x4FB5;&#x6743;&#xFF0C;&#x8BF7;&#x8054;&#x7CFB;&#x672C;&#x4EBA;&#x5220;&#x9664;&#xFF01;
@@ -420,7 +420,7 @@ public void addBlogPost(final Person author, final BlogPost blogPost) {
 &#x3000;&#x3000;&#x6211;&#x4EEC;&#x5C06;&#x6DF1;&#x5165;&#x6316;&#x6398;Guava&#x5E93;&#xFF0C;&#x5E76;&#x4E86;&#x89E3;&#x4E00;&#x4E0B;&#x4F18;&#x96C5;&#x7684;CharMatcher&#x7C7B;&#x3001;Joiner&#x4EE5;&#x53CA;Splitter&#x7C7B;&#xFF0C;&#x4EE5;&#x53CA;&#x5728;&#x5904;&#x7406;Java&#x57FA;&#x672C;&#x7C7B;&#x578B;&#x65F6;Guava&#x7ED9;&#x6211;&#x4EEC;&#x5E26;&#x6765;&#x7684;&#x522B;&#x7684;&#x5DE5;&#x5177;&#x7C7B;&#x3002;  
 &lt;/p&gt;
 
-&lt;h4 id="toc_0"&gt;The Guava CharMatcher&lt;/h4&gt;
+&lt;h3 id="toc_0"&gt;The Guava CharMatcher&lt;/h3&gt;
 
 &lt;p&gt;&#x3000;&#x3000;CharMatcher &#x53EF;&#x4EE5;&#x975E;&#x5E38;&#x65B9;&#x4FBF;&#x5730;&#x6DFB;&#x52A0;&#x5230;&#x4F60;&#x7684;java&#x5DE5;&#x5177;&#x7BB1;&#x4E2D;&#x3002;&#x6709;&#x4E9B;&#x4EBA;&#x5F62;&#x5BB9;&#x5B83;&#xFF1A;&#x201C;&#x50CF;&#x6253;&#x4E86;&#x5174;&#x594B;&#x5242;&#x7684;StringUtils&#x201D;:p
 &#x4F60;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;&#x9884;&#x5148;&#x8BBE;&#x5B9A;&#x597D;&#x7684;&#x5E38;&#x91CF;&#xFF0C;&#x6BD4;&#x5982;CharMatcher.WHITESPACE, CharMatcher.JAVA_DIGIT &#x6216;&#x8005;CharMatcher.ASCII,&#x6B64;&#x5916;&#x4F60;&#x8FD8;&#x6709;&#x5F88;&#x591A;&#x7B80;&#x4FBF;&#x7684;&#x5DE5;&#x5382;&#x65B9;&#x6CD5;&#x5982;CharMatcher.is(&#x2018;aaa&#x2019;), CharMatcher.isNot(&#x2018;bbb&#x2019;), CharMatcher.oneOf(&#x2018;abcd&#x2019;).negate()&#xFF0C;&#x751A;&#x81F3;&#x66F4;&#x590D;&#x6742;&#x4E00;&#x4E9B;&#x6BD4;&#x5982;&#xFF1A;  &lt;/p&gt;
@@ -450,7 +450,7 @@ matchesNoneOf(CharSequence)  &lt;/p&gt;
 &lt;p&gt;&#x9664;&#x4E86;indexIn, lastIndexIn and countIn&#x8FD9;&#x4E9B;&#x65B9;&#x6CD5;&#xFF0C;&#x8FD8;&#x6709;&#x5F88;&#x591A;trimming, replacing and collapsing&#x76F8;&#x5173;&#x7684;&#x65B9;&#x6CD5;&#x3002;
 &#x66F4;&#x591A;&#x4FE1;&#x606F;&#x67E5;&#x770B;&lt;a href="http://guava-libraries.googlecode.com/svn/trunk/javadoc/com/google/common/base/CharMatcher.html"&gt;Java doc&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h4 id="toc_1"&gt;Joiner and Splitter&lt;/h4&gt;
+&lt;h3 id="toc_1"&gt;Joiner and Splitter&lt;/h3&gt;
 
 &lt;p&gt;&#x3000;&#x3000;&#x76EE;&#x524D;Joiner&#x8FD8;&#x662F;Collections &#x7684;&#x4E00;&#x90E8;&#x5206;&#xFF0C;Splitter &#x5DF2;&#x7ECF;&#x52A0;&#x5165;&#x4E86;Guava (&#x4E0D;&#x8FC7;&#x4E00;&#x65E6;Collections &#x53D1;&#x5E03;1.0&#x7248;&#x672C;&#xFF0C;&#x90A3;&#x4E48;&#x5B83;&#x4EEC;&#x4F1A;&#x4E00;&#x8D77;&#x52A0;&#x5165;&#x5230;Guava)&#x3002;&lt;br&gt;
 &#x53EF;&#x4EE5;&#x8FD9;&#x4E48;&#x4F7F;&#x7528;Joiner&#xFF1A;&lt;/p&gt;
@@ -504,7 +504,7 @@ String numbersAsString = Joiner.on(&amp;quot;;&amp;quot;).join(Ints.asList(numbe
 
 &lt;p&gt;Joiner&#x548C;Splitter&#x90FD;&#x662F;&#x53EF;&#x914D;&#x7F6E;&#x7684;&#xFF0C;&#x751A;&#x81F3;&#x4F60;&#x53EF;&#x4EE5;&#x628A;Joiner&#x4F7F;&#x7528;&#x5728;map&#x4E2D;&#x3002;&lt;/p&gt;
 
-&lt;h4 id="toc_2"&gt;Working with primitives cont&#x2019;d&lt;/h4&gt;
+&lt;h3 id="toc_2"&gt;Working with primitives cont&#x2019;d&lt;/h3&gt;
 
 &lt;p&gt;&#x3000;&#x3000;&#x5728;&#x535A;&#x5BA2;&#x7684;&#x7B2C;&#x4E00;&#x90E8;&#x5206;&#xFF0C;&#x6211;&#x7B80;&#x5355;&#x63D0;&#x5230;&#x4E86;&#x57FA;&#x672C;&#x578B;&#x7684;&#x7528;&#x6CD5;&#x3002;Guava&#x5DF2;&#x7ECF;&#x63D0;&#x4F9B;&#x4E86;&#x8BF8;&#x5982;Ints.compare(a, b)&#x548C;Ints.toArray(list)&#x3002;&lt;br&gt;
 &#x3000;&#x3000;&#x8BA9;&#x6211;&#x4ECB;&#x7ECD;Guava &#x5173;&#x4E8E;&#x57FA;&#x672C;&#x578B;&#x63D0;&#x4F9B;&#x7684;&#x66F4;&#x591A;&#x7684;&#x4E00;&#x4E9B;&#x7528;&#x6CD5;&#x5427;&#x3002;  &lt;/p&gt;
@@ -538,8 +538,8 @@ int[] concat = Ints.concat(array, array2);
 </description>
     </item>
     <item>
-      <title>&#x300C;&#x8F6C;&#x300D;Guava &#x6559;&#x7A0B;1-&#x4F7F;&#x7528; Google Collections,Guava,static imports &#x7F16;&#x5199;&#x6F02;&#x4EAE;&#x4EE3;&#x7801;</title>
-      <link>http://sample.com/coding/%E8%BD%AC-guava-%E6%95%99%E7%A8%8B1-%E4%BD%BF%E7%94%A8-google-collections-guava-static-imports-%E7%BC%96%E5%86%99%E6%BC%82%E4%BA%AE%E4%BB%A3%E7%A0%81</link>
+      <title>guava-1</title>
+      <link>http://sample.com/coding/guava-1</link>
       <pubDate>2013-02-18</pubDate>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;&#x5199;&#x5728;&#x524D;&#x9762;&#xFF1A;&lt;/strong&gt;&lt;br&gt;
@@ -614,7 +614,7 @@ try {
 &lt;p&gt;&#x3000;&#x3000;Google Guava &#x662F; Google &#x4E3A; Java 1.6 &#x7F16;&#x5199;&#x7684;&#x6838;&#x5FC3;&#x5E93;&#x3002;&#x5B83;&#x4ECD;&#x7136;&#x4E0D;&#x662F;&#x4E00;&#x4E2A;&#x5F88;&#x6210;&#x719F;&#x7684;&#x5E93;&#xFF0C;&#x5728;&#x672A;&#x6765;&#x51E0;&#x4E2A;&#x6708;&#x8FD8;&#x5C06;&#x4E0D;&#x65AD;&#x7684;&#x53D8;&#x5316;&#x3002;Google Collections &#x5C06;&#x5728; 1.0 &#x7248;&#x672C;&#x53D1;&#x5E03;&#x65F6;&#x5C06;&#x6210;&#x4E3A; Guava &#x7684;&#x4E00;&#x90E8;&#x5206;&#x3002;Guava (&#x548C; Google Collections) &#x5DF2;&#x7ECF;&#x7387;&#x5148;&#x88AB;&#x5F88;&#x591A; Google &#x5F00;&#x53D1;&#x8005;&#x4F7F;&#x7528;&#x3002;&#x652F;&#x6301;&#x8BE5;&#x9879;&#x76EE;&#x7684;&#x5F00;&#x53D1;&#x8005;&#x6709; Kevin Bourrillion, Jared Levy, Crazy Bob Lee, Josh Bloch(!) (Google &#x7684; Java &#x9996;&#x5E2D;&#x67B6;&#x6784;&#x5E08;) &#x548C; limpbizkit (&#x6211;&#x4EEC;&#x627E;&#x4E0D;&#x5230;&#x8FD9;&#x5BB6;&#x4F19;&#x7684;&#x771F;&#x5B9E;&#x59D3;&#x540D;). Google Collections &#x5728; 2007 &#x5E74;&#x5C31;&#x5DF2;&#x7ECF;&#x6709;&#x4E86;&#xFF0C;&#x4F46; Guava &#x662F;&#x5728; 2009&#x5E74;9&#x6708;&#x63A8;&#x51FA;&#x7684;&#x3002;&lt;br&gt;
 &#x3000;&#x3000;&#x4F5C;&#x4E3A;&#x8FD9;&#x4E2A;&#x7CFB;&#x5217;&#x7684;&#x535A;&#x5BA2;&#xFF0C;&#x6211;&#x5C06;&#x5411;&#x4F60;&#x4ECB;&#x7ECD; Google Collections &#x5E76;&#x544A;&#x8BC9;&#x4F60;&#x4F7F;&#x7528; Guava &#x548C; Google Collections &#x80FD;&#x4E3A;&#x4F60;&#x5E26;&#x6765;&#x4EC0;&#x4E48;&#x597D;&#x5904;&#x3002;&#x5305;&#x62EC;&#x4EE3;&#x7801;&#x91CF;&#x7684;&#x51CF;&#x5C11;&#x4EE5;&#x53CA;&#x65B0;&#x7684;&#x66F4;&#x5FEB;&#x7684;&#x6570;&#x636E;&#x7ED3;&#x6784;&#x3002;&#x5728;&#x7B2C;&#x4E8C;&#x90E8;&#x5206;&#x6211;&#x4EEC;&#x5C06;&#x6DF1;&#x5165;&#x63A2;&#x8BA8; Guava &#x548C; Collections &#x7684;&#x4E00;&#x4E9B;&#x9AD8;&#x7EA7;&#x7279;&#x6027;&#x3002;  &lt;/p&gt;
 
-&lt;h4 id="toc_0"&gt;Google Collections&#x4E00;&#x89C8;&lt;/h4&gt;
+&lt;h3 id="toc_0"&gt;Google Collections&#x4E00;&#x89C8;&lt;/h3&gt;
 
 &lt;p&gt;&#x3000;&#x3000;&#x663E;&#x7136;&#x4E00;&#x7BC7;&#x535A;&#x6587;&#x4E0D;&#x80FD;&#x6DF1;&#x5165;&#x5730;&#x8986;&#x76D6;Google Collections&#x7684;&#x65B9;&#x65B9;&#x9762;&#x9762;&#xFF0C;&#x6240;&#x4EE5;&#x6211;&#x51B3;&#x5B9A;&#x628A;&#x65F6;&#x95F4;&#x653E;&#x5728;&#x6211;&#x65E5;&#x5E38;&#x7F16;&#x7801;&#x4E2D;&#x4F7F;&#x7528;&#x5230;&#x7684;&#x57FA;&#x7840;&#x4E14;&#x4E0D;&#x5931;&#x5F3A;&#x5927;&#x7684;&#x7279;&#x6027;&#x4E0A;&#xFF0C;&#x9996;&#x5148;&#xFF0C;&#x4E0D;&#x8981;&#x8FD9;&#x4E48;&#x505A;&#xFF1A;&lt;/p&gt;
 
@@ -640,7 +640,7 @@ Sets.newHashSet();
 
 &lt;p&gt;&#x8FD8;&#x6709;&#x66F4;&#x591A;&#xFF01; &#x81EA;&#x5DF1;&#x53BB;&#x770B;&#x770B;&#x5427;&#xFF01;[&lt;a href="http://code.google.com/p/google-collections/"&gt;http://code.google.com/p/google-collections/&lt;/a&gt;]&lt;/p&gt;
 
-&lt;h4 id="toc_1"&gt;&#x64CD;&#x4F5C;lists&#x548C;maps&lt;/h4&gt;
+&lt;h3 id="toc_1"&gt;&#x64CD;&#x4F5C;lists&#x548C;maps&lt;/h3&gt;
 
 &lt;p&gt;&#x5F53;&#x4F60;&#x5728;&#x5199;&#x5355;&#x5143;&#x6D4B;&#x8BD5;&#x65F6;&#xFF0C;&#x7ECF;&#x5E38;&#x4F1A;&#x6784;&#x9020;&#x4E00;&#x4E9B;&#x6D4B;&#x8BD5;&#x6570;&#x636E;&#xFF0C;&#x53EF;&#x80FD;&#x662F;list&#x3001;map&#x3001;set&#x7B49;&#xFF0C;&#x5BF9;&#x4E8E;&#x4E00;&#x4E9B;&#x50CF;&#x6211;&#x4E00;&#x6837;&#x8349;&#x7387;&#x7684;&#x4EBA;&#x6765;&#x8BF4;&#xFF0C;&#x6D4B;&#x8BD5;&#x4EE3;&#x7801;&#x4E2D;&#x4F1A;&#x7ECF;&#x5E38;&#x770B;&#x5230;&#x7C7B;&#x4F3C;&#x4E0B;&#x9762;&#x7684;&#x8BED;&#x53E5;&#xFF1A;&lt;/p&gt;
 
@@ -679,7 +679,7 @@ list.add(&amp;quot;d&amp;quot;);
 &lt;p&gt;&#x3000;&#x3000;&#x4E24;&#x79CD;&#x65B9;&#x5F0F;&#x90FD;&#x53EF;&#x4EE5;&#xFF0C;&#x9009;&#x62E9;&#x6743;&#x5728;&#x4F60;&#x624B;&#x4E0A;&#xFF0C;&#x5F88;&#x660E;&#x663E;&#xFF0C;&#x8FD9;&#x79CD;&#x8F83;&#x4E4B;&#x524D;&#x9762;&#x7684;&#x65B9;&#x5F0F;&#x66F4;&#x7075;&#x6D3B;&#x4F18;&#x96C5;&#x4E00;&#x4E9B;&#xFF0C;&#x4F60;&#x8BF4;&#x5462;&#xFF1F;
 &#x9664;&#x53BB;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;&#x65B9;&#x4FBF;&#x5E72;&#x51C0;&#x7684;&#x65B9;&#x5F0F;&#x6765;&#x521B;&#x5EFA;&#x5E76;&#x586B;&#x5145;&#x96C6;&#x5408;&#x7C7B;&#xFF0C;&#x6211;&#x4EEC;&#x4E5F;&#x63D0;&#x4F9B;&#x4E86;&#x5F88;&#x591A;&#x989D;&#x5916;&#x7684;&#x5DE5;&#x5177;&#x65B9;&#x6CD5;&#xFF0C;&#x6BD4;&#x5982;&#x8FC7;&#x6EE4;&#xFF0C;&#x5BF9;set&#x53D6;&#x4EA4;&#x96C6;&#x548C;&#x5E76;&#x96C6;&#xFF0C;&#x6392;&#x5E8F;&#x7B49;&#x7B49;&#x4E00;&#x4E9B;&#x66F4;&#x4F18;&#x96C5;&#x7684;&#x65B9;&#x6CD5;&#xFF0C;&#x6211;&#x5C06;&#x4F1A;&#x5728;&#x7B2C;&#x4E8C;&#x90E8;&#x5206;&#x4E2D;&#x8BB2;&#x89E3;&#x5B83;&#x4EEC;&#x3002;&lt;/p&gt;
 
-&lt;h4 id="toc_2"&gt;&#x9759;&#x6001;&#x5BFC;&#x5165;&#x548C;Eclipse&#x6A21;&#x677F;&lt;/h4&gt;
+&lt;h3 id="toc_2"&gt;&#x9759;&#x6001;&#x5BFC;&#x5165;&#x548C;Eclipse&#x6A21;&#x677F;&lt;/h3&gt;
 
 &lt;p&gt;&#x3000;&#x3000;&#x5728;&#x8FD9;&#x4E4B;&#x524D;&#xFF0C;&#x6211;&#x60F3;&#x5148;&#x544A;&#x8BC9;&#x4F60;&#x6211;&#x5728;&#x5199;&#x4EE3;&#x7801;&#x65F6;&#xFF0C;&#x662F;&#x5982;&#x679C;&#x501F;&#x7528;Eclipse&#x7684;Code&#x6A21;&#x677F;&#x529F;&#x80FD;&#x66F4;&#x9AD8;&#x6548;&#x7684;&#x4F7F;&#x7528;&#x96C6;&#x5408;&#x7C7B;&#x7684;&#x3002;&#xFF08;&#x6211;&#x5047;&#x8BBE;&#x4F60;&#x4E86;&#x89E3;&#x5728;IDEA&#x6216;&#x8005;&#x5176;&#x4ED6;IDE&#x4E2D;&#x4E5F;&#x5B58;&#x5728;&#x7C7B;&#x4F3C;&#x7684;&#x529F;&#x80FD;&#xFF0C;&#x4F60;&#x53EF;&#x4EE5;&#x6839;&#x636E;&#x8FD9;&#x90E8;&#x5206;&#x53D9;&#x8FF0;&#x505A;&#x51FA;&#x76F8;&#x5E94;&#x7684;&#x6269;&#x5C55;&#x6216;&#x53D8;&#x901A;&#xFF09;    &lt;/p&gt;
 
@@ -698,7 +698,7 @@ list.add(&amp;quot;d&amp;quot;);
 
 &lt;p&gt;&#x4EE5;&#x4E0A;&#x5C31;&#x662F;&#x521B;&#x5EFA;&#x5FEB;&#x6377;&#x8865;&#x5168;&#x7684;&#x5168;&#x90E8;&#x6B65;&#x9AA4;&#x4E86;&#xFF0C;&#x73B0;&#x5728;&#x53BB;&#x4E3A;&#x4F60;&#x5E38;&#x7528;&#x5230;&#x7684;&#x6240;&#x6709;&#x65B9;&#x6CD5;&#x6DFB;&#x52A0;&#x6A21;&#x677F;&#x5427;&#xFF01;&lt;/p&gt;
 
-&lt;h4 id="toc_3"&gt;Guava&#x8D70;&#x9A6C;&#x89C2;&#x82B1;&lt;/h4&gt;
+&lt;h3 id="toc_3"&gt;Guava&#x8D70;&#x9A6C;&#x89C2;&#x82B1;&lt;/h3&gt;
 
 &lt;p&gt;&#x3000;&#x3000;&#x6700;&#x540E;&#xFF0C;&#x4F46;&#x5E76;&#x975E;&#x4E0D;&#x91CD;&#x8981;&#xFF0C;&#x6211;&#x5C06;&#x5411;&#x4F60;&#x5C55;&#x793A;&#x4E00;&#x4E0B;&#x5982;&#x679C;&#x4F7F;&#x7528;Guava&#x6765;&#x5904;&#x7406;&#x672C;&#x6587;&#x5F00;&#x5934;&#x7559;&#x4E0B;&#x6765;&#x7684;&#x4E24;&#x4E2A;&#x95EE;&#x9898;&#xFF1A;&lt;/p&gt;
 
@@ -734,8 +734,8 @@ int[] array2 = Ints.toArray(list);
 </description>
     </item>
     <item>
-      <title>Log4j vs Logback &#x6027;&#x80FD;&#x6D4B;&#x8BD5;&#x53CA;&#x539F;&#x7406;&#x5206;&#x6790;</title>
-      <link>http://sample.com/coding/log4j-vs-logback-%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E5%8F%8A%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90</link>
+      <title>log4j vs logback</title>
+      <link>http://sample.com/coding/log4j-vs-logback</link>
       <pubDate>2013-01-16</pubDate>
       <description>&lt;p&gt;&lt;img src="/assets/media/img/work-logsystem-perf/title.jpg"/&gt;&lt;/p&gt;
 
@@ -828,8 +828,15 @@ Dispatcher&#x6240;&#x8981;&#x505A;&#x7684;&#x5DE5;&#x4F5C;&#x662F;&#xFF1A;  &lt;
 </description>
     </item>
     <item>
-      <title>Mac&#x4E0B;&#x4FEE;&#x6539;hosts&#x6587;&#x4EF6;&#x91CD;&#x542F;&#x540E;&#x88AB;&#x8FD8;&#x539F;&#x7684;&#x95EE;&#x9898;&#x89E3;&#x51B3;</title>
-      <link>http://sample.com/studying/mac%E4%B8%8B%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6%E9%87%8D%E5%90%AF%E5%90%8E%E8%A2%AB%E8%BF%98%E5%8E%9F%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3</link>
+      <title>leave from quanzi team</title>
+      <link>http://sample.com/working/leave-from-quanzi-team</link>
+      <pubDate>2012-10-29</pubDate>
+      <description>&lt;p&gt;&lt;img src="/assets/media/img/work-quanzi/team.jpg"/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>hosts file rollback when reboot on mac</title>
+      <link>http://sample.com/studying/hosts-file-rollback-when-reboot-on-mac</link>
       <pubDate>2012-10-24</pubDate>
       <description>&lt;p&gt;&lt;img src="/assets/media/img/work-hosts-cisco/title.jpg"&gt;&lt;/p&gt;
 
@@ -847,8 +854,8 @@ Dispatcher&#x6240;&#x8981;&#x505A;&#x7684;&#x5DE5;&#x4F5C;&#x662F;&#xFF1A;  &lt;
 </description>
     </item>
     <item>
-      <title>&#x4E24;&#x5934;&#x6BDB;&#x9A74;&#x6E38;&#x4E3D;&#x6C5F;</title>
-      <link>http://sample.com/living/%E4%B8%A4%E5%A4%B4%E6%AF%9B%E9%A9%B4%E6%B8%B8%E4%B8%BD%E6%B1%9F</link>
+      <title>lijiang travel</title>
+      <link>http://sample.com/living/lijiang-travel</link>
       <pubDate>2012-09-15</pubDate>
       <description>&lt;p&gt;&lt;img src="/assets/media/img/life-lijiang/title.jpg"/&gt;&lt;/p&gt;
 
@@ -915,8 +922,8 @@ Dispatcher&#x6240;&#x8981;&#x505A;&#x7684;&#x5DE5;&#x4F5C;&#x662F;&#xFF1A;  &lt;
 </description>
     </item>
     <item>
-      <title>Mac&#x4E0A;&#x7684;&#x4E00;&#x4E9B;&#x5C0F;&#x8BB0;&#x5F55;&#xFF0C;&#x6301;&#x7EED;&#x66F4;&#x65B0;...</title>
-      <link>http://sample.com/studying/mac%E4%B8%8A%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E8%AE%B0%E5%BD%95-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0</link>
+      <title>tips for mac</title>
+      <link>http://sample.com/studying/tips-for-mac</link>
       <pubDate>2012-08-22</pubDate>
       <description>&lt;p&gt;&lt;img src="/assets/media/img/tips-mac/title.jpg"/&gt;&lt;/p&gt;
 
@@ -1032,567 +1039,8 @@ open .
 </description>
     </item>
     <item>
-      <title>&#x535A;&#x5BA2;&#x8FC1;&#x79FB;&#x5230;ruhoh&#x4E86;</title>
-      <link>http://sample.com/living/%E5%8D%9A%E5%AE%A2%E8%BF%81%E7%A7%BB%E5%88%B0ruhoh%E4%BA%86</link>
-      <pubDate>2012-08-20</pubDate>
-      <description>&lt;p&gt;&lt;img src="/assets/media/img/blog-to-octopress/title.jpg"/&gt;&lt;/p&gt;
-
-&lt;h3 id="toc_0"&gt;ruhoh&lt;/h3&gt;
-
-&lt;p&gt;&#x8FD9;&#x91CC;&lt;del&gt;&#x4E5F;&#x8BB8;&lt;/del&gt;&#x4F1A;&#x6210;&#x4E3A;&#x6211;&#x7B2C;&#x4E00;&#x7BC7;ruhoh&#x7684;&#x535A;&#x5BA2;&#xFF0C;&#x5148;&#x7F57;&#x5217;&#x4E00;&#x4E0B;&#x5E38;&#x7528;&#x7684;&#x547D;&#x4EE4;&#x5427;&#x3002;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;rackup -p 9292  # &#x542F;&#x52A8; web &#x670D;&#x52A1;&#x5728; 9292 &#x7AEF;&#x53E3;
-ruhoh page about.md  #&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x9875;&#x9762;&#xFF0C;&#x652F;&#x6301;&#x5B50;&#x76EE;&#x5F55; 
-ruhoh post &amp;quot;The Greatest Post Ever&amp;quot; #&#x901A;&#x8FC7;&#x6807;&#x9898;&#x521B;&#x5EFA;&#x6587;&#x7AE0;&#xFF0C;&#x5C06;&#x4F1A;&#x751F;&#x6210; the-greatest-post-ever.md
-ruhoh draft #&#x5FEB;&#x901F;&#x5EFA;&#x7ACB;&#x4E00;&#x4E2A;&#x8349;&#x7A3F;&#xFF0C;&#x751F;&#x6210;untitled-draft-1.md 
-ruhoh titleize #&#x5FEB;&#x901F;&#x4E3A;&#x8349;&#x7A3F;&#x6587;&#x4EF6;&#x547D;&#x540D;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x540E;&#x53F0;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ uptime
-16:23:34 up 126 days,  1:03,  1 user,  load average: `5.09, 2.12, 1.82`
-
-top - 14:05:15 up 341 days, 20:57,  3 users,  load average: 0.02, 0.10, 0.07
-Tasks: 146 total,   1 running, 145 sleeping,   0 stopped,   0 zombie
-Cpu0  :  0.0%us,  0.0%sy,  0.0%ni, 99.0%id,  1.0%wa,  0.0%hi,  0.0%si,  0.0%st
-Cpu1  :  0.0%us,  0.0%sy,  0.0%ni,100.0%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
-Cpu2  :  0.0%us,  0.0%sy,  0.0%ni,100.0%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
-Cpu3  :  0.0%us,  0.0%sy,  0.0%ni, 99.7%id,  0.3%wa,  0.0%hi,  0.0%si,  0.0%st
-Cpu4  :  0.0%us,  0.0%sy,  0.0%ni,100.0%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
-Mem:   7864320k total,  3764076k used,  4100244k free,    34132k buffers
-Swap:  1052248k total,       84k used,  1052164k free,  1002412k cached
-
-PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND
-1 root      15   0 10368  684  584 S  0.0  0.0   0:00.95 init
-2 root      RT  -5     0    0    0 S  0.0  0.0   3:27.58 migration/0
-3 root      34  19     0    0    0 S  0.0  0.0   0:00.50 ksoftirqd/0
-4 root      RT  -5     0    0    0 S  0.0  0.0   0:00.00 watchdog/0
-5 root      10  -5     0    0    0 S  0.0  0.0   0:00.64 events/0
-6 root      10  -5     0    0    0 S  0.0  0.0   0:00.82 khelper
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x65AD;&#x65AD;&#x7EED;&#x7EED;&#x7528;&#x4E86; ruhoh &#x5DF2;&#x4E0D;&#x6B62;&#x4E00;&#x4E2A;&#x6708;&#x4E86;&#xFF0C;&#x7528;&#x7684;&#x90FD;&#x662F;&#x4E9B;&#x788E;&#x7247;&#x65F6;&#x95F4;&#xFF0C;&#x6240;&#x4EE5;&#x8FDB;&#x5C55;&#x5E76;&#x6CA1;&#x6709;&#x591A;&#x5C11;&#xFF0C;&#x73B0;&#x5728;&#x57FA;&#x672C;&#x5B8C;&#x6210;&#x4F5C;&#x4E3A;&#x535A;&#x5BA2;&#x7684;&#x529F;&#x80FD;&#xFF0C;&#x4E5F;&#x6269;&#x5C55;&#x4E86; &lt;code&gt;note&lt;/code&gt; &#x548C; &lt;code&gt;diary&lt;/code&gt; &#x4E24;&#x4E2A;&#x65B0;&#x547D;&#x4EE4;&#xFF0C;&#x8FD8;&#x975E;&#x5E38;&#x521D;&#x6B65;&#xFF0C;&#x8981;&#x5B8C;&#x5584;&#x60F3;&#x5FC5;&#x5F97;&#x82B1;&#x4E0D;&#x5C11;&#x65F6;&#x95F4;&#x5427;&#xFF0C;&#x4F46;&#x662F;&#x6211;&#x89C9;&#x5F97;&#x7528;&#x9759;&#x6001;&#x7F51;&#x7AD9;&#x751F;&#x6210;&#x7CFB;&#x7EDF;&#x6765;&#x505A;&#x4E2A;&#x4EBA;&#x7684;&#x6587;&#x7AE0;&#x8F93;&#x51FA;&#x5E73;&#x53F0;&#x662F;&#x975E;&#x5E38;&#x503C;&#x5F97;&#x505A;&#x7684;&#x5C1D;&#x8BD5;&#x3002;&#x5F3A;&#x5927;&#x7684;&#x7248;&#x672C;&#x63A7;&#x5236;&#xFF1B;&#x6570;&#x636E;&#x5B89;&#x5168;&#xFF0C;&#x7EAF;&#x6587;&#x4EF6;&#xFF0C;&#x4F60;&#x53EF;&#x4EE5;&#x5907;&#x4EFD;&#x5230;&#x5404;&#x4E2A;&#x4E91;&#x5B58;&#x50A8;&#x5E73;&#x53F0;&#xFF0C;&#x5404;&#x4E2A;git&#x4ED3;&#x5E93;&#xFF1B;&#x65E0;&#x7F51;&#x7EDC;&#x7684;&#x65F6;&#x5019;&#x53EF;&#x4EE5;&#x79BB;&#x7EBF;&#x7F16;&#x8F91;&#x548C;&#x9884;&#x89C8;&#xFF1B;markdown &#x7684;&#x6613;&#x8BFB;&#x6027;&#xFF1B;&#x8FD8;&#x6709;&#x5341;&#x8DB3;&#x7684;&#x53EF;&#x64CD;&#x7EB5;&#x611F;&#xFF1B;&#x5F53;&#x7136;&#x8981;&#x4EAB;&#x53D7;&#x8FD9;&#x4E9B;&#x597D;&#x5904;&#x7684;&#x524D;&#x63D0;&#x5C31;&#x662F;&#x5F97;&#x6709;&#x4E00;&#x4E2A;&#x6298;&#x817E;&#x5F97;&#x8D77;&#x7684;&#x5FC3;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;ruhoh &#x6548;&#x7387;&#x95EE;&#x9898;&#x6682;&#x4E14;&#x4E0D;&#x63D0;&#xFF0C;&#x73B0;&#x5728;&#x5185;&#x5BB9;&#x4E0D;&#x591A;&#x4E5F;&#x611F;&#x89C9;&#x4E0D;&#x51FA;&#x6765;&#x3002;&#x90E8;&#x7F72;&#x5230;&#x865A;&#x62DF;&#x4E3B;&#x673A;&#x53EF;&#x80FD;&#x4F1A;&#x662F;&#x6BD4;&#x8F83;&#x9EBB;&#x70E6;&#x7684;&#x95EE;&#x9898;&#xFF0C;&#x4E0D;&#x8FC7;&#x6211;&#x73B0;&#x5728;&#x5728; webfaction &#x4E0A;&#x7528;&#x7740;&#x8FD8;&#x662F;&#x5F88;&#x8212;&#x670D;&#x7684;&#x3002;&#x53E6;&#x5916; plusjade &#x8FD8;&#x63D0;&#x4F9B;&#x514D;&#x8D39;&#x7684;&#x4E3B;&#x673A;&#x4F5C;&#x4E3A;&#x666E;&#x901A;&#x7684;&#x535A;&#x5BA2;&#x7528;&#x7EDD;&#x5BF9;&#x7EF0;&#x7EF0;&#x6709;&#x4F59;&#xFF0C;&#x5F53;&#x7136;&#x4E0D;&#x652F;&#x6301;&#x63D2;&#x4EF6;&#x3002;&#x53E6;&#x5916;&#x90E8;&#x7F72;&#x5230;&#x5176;&#x4ED6;&#x652F;&#x6301; ruby &#x4E91;&#x670D;&#x52A1;&#x5E73;&#x53F0;&#x4E0A;&#x5E94;&#x8BE5;&#x4E0D;&#x4F1A;&#x6709;&#x4EC0;&#x4E48;&#x95EE;&#x9898;&#xFF0C;&#x5982; Heroku&#x3002;&#x865A;&#x62DF;&#x4E3B;&#x673A;&#x7684;&#x8BDD;&#xFF0C;&#x6BCF;&#x6B21;&#x66F4;&#x65B0;&#x90FD;&#x8981;&#x91CD;&#x65B0;&#x7F16;&#x8BD1;&#x518D;&#x4E0A;&#x4F20;&#x6570;&#x636E;&#xFF0C;&#x60F3;&#x60F3;&#x5C31;&#x5BB3;&#x6015;&#x3002;&lt;/p&gt;
-
-&lt;p style="float:left;"&gt;ruhoh &#x7684;&#x6269;&#x5C55;&#x8BBE;&#x8BA1;&#x4E5F;&#x4E0D;&#x5B8C;&#x7F8E;&#xFF0C;&#x6216;&#x8005;&#x6211;&#x662F;&#x4E0D;&#x80FD;&#x660E;&#x767D;&#xFF0C;&#x5206;&#x4E3A; widgets&#xFF0C;themes &#x548C; plugins&#xFF0C;widgets &#x5B9A;&#x4E49;&#x4E00;&#x4E9B;&#x53EF;&#x590D;&#x7528;&#x7684;&#x9875;&#x9762;&#x4EE3;&#x7801;&#x5757;&#xFF0C;plugins &#x5219;&#x662F;&#x7CFB;&#x7EDF;&#x6269;&#x5C55;&#xFF0C;&#x901A;&#x8FC7;ruby&#x811A;&#x672C;&#x5B9E;&#x73B0;&#xFF0C;&#x6709;&#x70B9;&#x50CF;&#x52A8;&#x6001;&#x7F51;&#x7AD9;&#x7684;&#x540E;&#x53F0;&#x903B;&#x8F91;&#x90E8;&#x5206;&#x3002;&#x800C;&#x50CF;&#x8BC4;&#x8BBA;&#x6A21;&#x5757;&#x3001;google prettify &#x8FD9;&#x4E9B;&#x8F7D;&#x5165;js&#x5C31;&#x53EF;&#x4EE5;&#x89E3;&#x51B3;&#x7684;&#x529F;&#x80FD;&#xFF0C;&#x7528; widgets &#x548C; themes &#x5B9E;&#x73B0;&#x5C31;&#x5F88;&#x5B8C;&#x7F8E;&#xFF0C;&#x751F;&#x6210; rss&#x3001;sitemap &#x5219;&#x53EF;&#x4EE5;&#x7528;plugins &#x5355;&#x72EC;&#x5B9E;&#x73B0;&#x3002;&#x4F46;&#x662F;&#x5B9E;&#x9645;&#x7528;&#x8D77;&#x6765;&#x53D1;&#x89C9;&#x8FD9;&#x4E09;&#x8005;&#x4E4B;&#x95F4;&#x7684;&#x8026;&#x5408;&#x592A;&#x5927;&#x4E86;&#xFF0C;&#x6BD4;&#x5982;&#x672C;&#x535A;&#x7684; toc &#x548C; fancybox &#x529F;&#x80FD;&#x3002;&#x5C31;&#x5FC5;&#x987B;&#x7528; plugins &#x7684;&#x81EA;&#x5B9A;&#x4E49;&#x8F6C;&#x6362;&#x5668;&#xFF0C;&#x6765;&#x6539;&#x52A8; redcarpet &#x751F;&#x6210;&#x7684;&#x76EE;&#x6807;&#x4EE3;&#x7801;&#x3002;&#x7136;&#x540E;&#x53C8;&#x5F97;&#x628A;&#x90A3;&#x4E9B;&#x7279;&#x5B9A;&#x7684; js &#x6587;&#x4EF6;&#x3001;html &#x4EE3;&#x7801;&#x5757;&#x653E;&#x5230; widgets &#x91CC;&#x9762;&#xFF0C;widgets &#x548C; plugins &#x7D27;&#x7D27;&#x7684;&#x8054;&#x7CFB;&#x5728;&#x4E00;&#x8D77;&#xFF0C;&#x8FD9;&#x6837;&#x8981;&#x5B9E;&#x73B0;&#x4E00;&#x4E2A;&#x529F;&#x80FD;&#x5FC5;&#x987B;&#x5F97;&#x540C;&#x65F6;&#x4F7F;&#x7528; plugins &#x548C; widgets &#xFF0C;&#x8FD9;&#x6837;&#x8FD8;&#x4E0D;&#x5982;&#x628A;&#x524D;&#x7AEF;&#x4EE3;&#x7801;&#x76F4;&#x63A5;&#x653E;&#x5230; themes &#x91CC;&#x6765;&#x7684;&#x6E05;&#x6670;&#x3002;&#x5F53;&#x7136;&#x5566;&#xFF0C;&#x50CF; toc &#x5B8C;&#x5168;&#x524D;&#x7AEF;&#x5B9E;&#x73B0;&#x4E5F;&#x662F;&#x53EF;&#x4EE5;&#x7684;&#xFF0C;&#x89C1;&#xFF1A;[Generating a Table of Contents in Octopress]&#x3002;&lt;img src="http://freemind.pluskid.org/att/2012/06/octopress-logo.png" style="float: right;margin-left: 15px;"&gt;&lt;/p&gt;
-
-&lt;h3 id="toc_1"&gt;&#x8BC4;&#x8BBA;&lt;/h3&gt;
-
-&lt;p&gt;&#x9759;&#x6001;&#x535A;&#x5BA2;&#x7684;&#x8BC4;&#x8BBA;&#x7CFB;&#x7EDF;&#x53EA;&#x80FD;&#x901A;&#x8FC7;&#x7B2C;&#x4E09;&#x65B9;&#x8BC4;&#x8BBA;&#x7CFB;&#x7EDF;&#x6765;&#x5B9E;&#x73B0;&#xFF0C;ruhoh &#x662F;&#x7528; widgets &#x6765;&#x5D4C;&#x5165;&#x7B2C;&#x4E09;&#x65B9;&#x8BC4;&#x8BBA;&#x3002;&#x5167;&#x7F6E;&#x652F;&#x6301;disqus&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x6211;&#x7684;&#x76EE;&#x7684;&#x662F;&#x5BE6;&#x73FE;&#xFF0C;ruhoh &#x548C;  wordpress &#x7684;&#x76F8;&#x540C;&#x7BC7;&#x6587;&#x7AE0;&#x5171;&#x7528;&#x4E00;&#x500B;&#x8A55;&#x8AD6;&#xFF0C;disqus &#x63D0;&#x4F9B;&#x4E86;&#x9019;&#x7A2E;&#x53EF;&#x80FD;&#x6027; &lt;a href="http://help.disqus.com/customer/portal/articles/662547-why-are-the-same-comments-showing-up-on-multiple-pages-"&gt;Why are the same comments showing up on multiple pages?&lt;/a&gt;&#x3002;wordpress &#x7684; disqus &#x63D2;&#x4EF6;&#x4F7F;&#x7528;&#x4E86; &#x6587;&#x7AE0;&#x7684; post&lt;em&gt;id &#x548C; guid&#x4F5C;&#x7232; disqus\&lt;/em&gt;identifier &#xFF0C;&#x6A21;&#x5F0F;&#x5982;&#x4E0B;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;post_id + &amp;#39; &amp;#39; + guid
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x6240;&#x4EE5;&#x5728; &lt;a href="https://gist.github.com/3415268"&gt;wp&lt;em&gt;to&lt;/em&gt;ruhoh&lt;/a&gt; &#x91CC;&#xFF0C;&#x6211;&#x5C31;&#x9019;&#x5169;&#x500B;&#x5C6C;&#x6027;&#x4E5F;&#x4FDD;&#x7559;&#x4E0B;&#x4F86;&#x3002;&#x4F46;&#x662F; ruhoh &#x7684; widget &#x4E0D;&#x80FD;&#x8A2A;&#x554F; page &#x7684;&#x6578;&#x64DA;&#xFF08;&#x542D;&#x7239;&#x5440;&#xFF09;&#xFF0C;&#x898B; &lt;a href="https://github.com/ruhoh/ruhoh.rb/issues/52"&gt;issue52&lt;/a&gt;&#x3002;&#x6240;&#x4EE5;&#x53EA;&#x80FD;&#x628A;&#x4EE3;&#x78BC;&#x653E;&#x5230; theme &#x7684; layout &#x91CC;&#x3002;&#x5982;&#x4E0B;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;div id=&amp;quot;disqus_thread&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
-  &amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt;
-    /*** CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE ***/
-    var disqus_title = &amp;#39;{{page.title}}&amp;#39;;
-    var disqus_identifier =&amp;#39;{{page.postid}} {{page.guid}}&amp;#39;;
-    var disqus_shortname = &amp;#39;doousblog&amp;#39;; // required: replace example with your forum shortname
-
-    /*** DON&amp;#39;T EDIT BELOW THIS LINE ***/
-    (function() {
-      var dsq = document.createElement(&amp;#39;script&amp;#39;); dsq.type = &amp;#39;text/javascript&amp;#39;; dsq.async = true;
-      dsq.src = &amp;#39;http://&amp;#39; + disqus_shortname + &amp;#39;.disqus.com/embed.js&amp;#39;;
-      (document.getElementsByTagName(&amp;#39;head&amp;#39;)[0] || document.getElementsByTagName(&amp;#39;body&amp;#39;)[0]).appendChild(dsq);
-    })();
-&amp;lt;/script&amp;gt;
-&amp;lt;noscript&amp;gt;Please enable JavaScript to view the &amp;lt;a href=&amp;quot;http://disqus.com/?ref_noscript&amp;quot;&amp;gt;comments powered by Disqus.&amp;lt;/a&amp;gt;&amp;lt;/noscript&amp;gt;
-&amp;lt;a href=&amp;quot;http://disqus.com&amp;quot; class=&amp;quot;dsq-brlink&amp;quot;&amp;gt;comments
-    powered by &amp;lt;span class=&amp;quot;logo-disqus&amp;quot;&amp;gt;Disqus&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x53E6;&#x5916;&#xFF0C;&#x5BF9;&#x4E8E; ruhoh &#x7684; post &#xFF0C;&#x5982;&#x679C;&#x4E0D;&#x60F3;&#x4EE5;&#x540E;&#x6362;&#x4E2A;&#x6807;&#x9898;&#xFF0C;&#x6216;&#x8005;&#x6362;&#x4E2A;&#x57DF;&#x540D;&#xFF0C;&#x90FD;&#x8981;&#x91CD;&#x65B0;&#x6574;&#x5408;&#x8BC4;&#x8BBA;&#xFF0C;&#x6700;&#x597D;&#x6BCF;&#x7BC7;&#x6587;&#x7AE0;&#x63D0;&#x4F9B;&#x4E00;&#x4E2A; unique id &#x4F5C;&#x4E3A; disque_indentifier &#x4F7F;&#x7528;&#x3002;post &#x5DF2;&#x7ECF;&#x6709; id &#x5C5E;&#x6027;&#x4E86;&#xFF0C;&#x7528;&#x7684;&#x662F;&#x76F8;&#x5BF9;&#x7684;&#x6587;&#x4EF6;&#x8DEF;&#x5F84;&#x3002;&lt;/p&gt;
-
-&lt;h3 id="toc_2"&gt;&#x4E3B;&#x9898;&lt;/h3&gt;
-
-&lt;p&gt;&#x5173;&#x4E8E;&#x4E3B;&#x9898;&#xFF0C;&#x6298;&#x9A30;&#x4E86;&#x5E7E;&#x4E0B;&#xFF0C;&#x611F;&#x89BA;&#x76EE;&#x524D;&#x6211;&#x5F04;&#x7684;&#x9019;&#x500B;&#x4E3B;&#x984C;&#xFF0C;&#x4E26;&#x4E0D;&#x80FD;&#x767C;&#x63EE;bootstrap&#x4F5C;&#x7232;&#x811A;&#x624B;&#x67B6;&#x7684;&#x80FD;&#x529B;&#xFF0C;&#x7528;&#x5B83;&#x7684;&#x6805;&#x683C;&#x7CFB;&#x7EDF;&#x603B;&#x662F;&#x4E0D;&#x80FD;&#x628A;&#x8FB9;&#x680F;&#x8BBE;&#x8BA1;&#x5730;&#x8BA9;&#x4EBA;&#x6EE1;&#x610F;&#x3002;&#x4E0D;&#x904E;&#x54CD;&#x5E94;&#x5F0F;&#x5E03;&#x5C40;&#xFF08;responsive&#xFF09;&#x9019;&#x500B;&#x7279;&#x6027;&#x5BE6;&#x5728;&#x592A;&#x5F37;&#x4E86;&#xFF0C;&#x57FA;&#x672C;&#x53EF;&#x4EE5;&#x4FDD;&#x8B49;&#x5728;&#x4E0D;&#x540C;&#x5206;&#x8FA8;&#x7387;&#x7684;&#x8A2D;&#x5099;&#x4E0A;&#x90FD;&#x53EF;&#x4EE5;&#x4FDD;&#x6301;&#x6BD4;&#x8F03;&#x597D;&#x7684;&#x95B1;&#x8B80;&#x9AD4;&#x9A57;&#xFF0C;&#x4E0D;&#x8FC7;&#x6211;&#x5206;&#x522B;&#x5B9E;&#x73B0;&#x4E86;&#x4E24;&#x4E2A;&#x5BFC;&#x822A;&#x680F;&#x5BF9;&#x5E94;&#x79FB;&#x52A8;&#x8BBE;&#x5907;&#x548C;pc&#xFF0C;&#x4ECE;&#x8BED;&#x4E49;&#x4E0A;&#x8BB2;&#x8FD9;&#x4E2A;&#x505A;&#x6CD5;&#x975E;&#x5E38;&#x7CDF;&#x7CD5;&#x3002;&#x4E0D;&#x904E;&#x55AE;&#x55AE;&#x7528; bootstrap &#x7684;&#x90A3;&#x4E9B;&#x5C0F;&#x5DE5;&#x5177;&#x4E5F;&#x975E;&#x5E38;&#x503C;&#x5F97;&#xFF0C;bootstrap &#x7684;&#x8A2D;&#x8A08;&#x771F;&#x7684;&#x5F88;&#x6F02;&#x4EAE;&#xFF0C;&#x50CF;&#x6211;&#x9019;&#x7A2E;&#x6C92;&#x6709;&#x524D;&#x7AEF;&#x7D93;&#x9A57;&#x7684;&#x78BC;&#x8FB2;&#xFF0C;&#x4E5F;&#x53EF;&#x4EE5;&#x7528;&#x7684;&#x5F88;&#x8212;&#x670D;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x7279;&#x522B;&#x9057;&#x61BE;&#x7684;&#x5C31;&#x662F;&#x4E3B;&#x984C;&#x5DE6;&#x908A;&#x90A3;&#x500B;&#x56FA;&#x5B9A;&#x7684;&#x5C0E;&#x822A;&#x6B04;&#x4E0D;&#x80FD;&#x5229;&#x7528;&#x5230;bootstrap&#x7684;&#x6805;&#x683C;&#x7CFB;&#x7EDF;&#xFF0C;&#x53EA;&#x80FD;&#x7528;&#x539F;&#x4F86;&#x90A3;&#x7A2E;&#x65B9;&#x6CD5;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x4E3B;&#x9898;&#x7684;&#x8BBE;&#x8BA1;&#x5077;&#x7740;&#x4E0B;&#x9762;&#x7684;&#x8FD9;&#x4E9B;&#x7F51;&#x7AD9;&#xFF0C;&#x8BF4;&#x597D;&#x542C;&#x5C31;&#x662F;&#x53C2;&#x8003;&#x4E86;-_-&#xFF0C;&#x80AF;&#x5B9A;&#x4E0D;&#x6B62;&#x8FD9;&#x4E9B;&#x7684;&#x53EA;&#x662F;&#x6211;&#x786E;&#x5B9E;&#x60F3;&#x4E0D;&#x8D77;&#x6765;&#x4E86;&#x3002;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.sitepoint.com/pure-css3-paper-curl/"&gt;http://www.sitepoint.com/pure-css3-paper-curl/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://yihui.name/cn/"&gt;http://yihui.name/cn/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://freemind.pluskid.org"&gt;http://freemind.pluskid.org&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&#x76F8;&#x6BD4; wordpress &#x90A3;&#x672A;&#x5B8C;&#x6210;&#x7684;&#x4E3B;&#x9898;&#xFF0C;&#x4E3B;&#x989C;&#x8272;&#x6362;&#x6210;&#x84DD;&#x8272;&#xFF0C;&#x53BB;&#x6389;&#x4E86;&#x5706;&#x89D2;&#xFF0C;&#x80CC;&#x666F;&#x591A;&#x4E86;&#x4E9B;&#x9634;&#x5F71;&#x3002;&#x611F;&#x89C9;&#x8FD8;&#x4E0D;&#x9519;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x53E6;&#x5916;&#x8FD8;&#x7528;&#x4E86;&#x4E0B;&#x9762;&#x8FD9;&#x4E9B;&#x5DE5;&#x5177;&#xFF0C;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://dublue.com/plugins/toc/"&gt;http://dublue.com/plugins/toc/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.appelsiini.net/projects/lazyload"&gt;http://www.appelsiini.net/projects/lazyload&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://fancyapps.com/fancybox/"&gt;http://fancyapps.com/fancybox/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://ajaxload.info/"&gt;http://ajaxload.info/&lt;/a&gt; &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&#x4E5F;&#x6CA1;&#x529E;&#x6CD5;&#x4E00;&#x4E00;&#x5217;&#x4E3E;&#x4E86;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x8FD9;&#x4E2A; ruhoh &#x4E3B;&#x9898;&#x53EF;&#x4EE5;&#x5728;&#x8FD9;&#x91CC;&#x627E;&#x5230;&#xFF1A; &lt;a href="https://github.com/douo/douo.ruhoh.com/tree/master/themes/moon"&gt;Moon&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="toc_3"&gt;mustache&lt;/h3&gt;
-
-&lt;p&gt;&#x4E00;&#x4E2A;Logic Less&#xFF08;&#x4E0D;&#x77E5;&#x9053;&#x600E;&#x4E48;&#x7FFB;&#x8BD1;&#xFF0C;&#x76EE;&#x7684;&#x5927;&#x6982;&#x662F;&#x628A;&#x903B;&#x8F91;&#x8FD8;&#x7ED9;&#x4EE3;&#x7801;&#xFF0C;&#x8BA9;&#x6A21;&#x677F;&#x4FDD;&#x6301;&#x7B80;
-&#x6D01;&#x3002;&#x89C1;&lt;a href="http://stackoverflow.com/questions/3896730/whats-the-advantage-of-logic-less-template-such-as-mustache"&gt;stackoverflow&lt;/a&gt;&#xFF09;&#x7684;&#x6A21;&#x677F;&#x8BED;&#x8A00;&#xFF0C;&#x6240;&#x4EE5;&#x540C;&#x6837;&#x4EE5;&#x8BED;&#x8A00;&#x65E0;&#x5173;&#x4E3A;&#x76EE;&#x6807;&#x7684; ruhoh
-&#x91C7;&#x7528;&#x4E86;&#x5B83;&#x4F5C;&#x4E3A;&#x6A21;&#x677F;&#x8BED;&#x8A00;&#x3002;&#x53C2;&#x8003;&#x5B83;&#x7684; &lt;a href="http://mustache.github.com/#demo"&gt;demo&lt;/a&gt; &#x53EF;&#x4EE5;&#x5927;&#x81F4;&#x4E86;&#x89E3;&#x5B83;&#x7684;&#x7279;&#x6027;&#xFF0C;&#x4E5F;&#x53EF;&#x4EE5;&#x53C2;
-&#x8003;&#x4E00;&#x4E0B;&lt;a href="/notes/coding/mustache"&gt;&#x6211;&#x7684;&#x7B14;&#x8BB0;&lt;/a&gt;&#x3002;&lt;/p&gt;
-
-&lt;h3 id="toc_4"&gt;Markdown&lt;/h3&gt;
-
-&lt;p&gt;&#x7528;&#x4E86;&#x4E00;&#x6BB5;&#x6642;&#x9593;&#x7684; Markdown &#xFF0C;&#x767C;&#x73FE; Markdown &#x4E3B;&#x8981;&#x7684;&#x7F3A;&#x9677;&#x5C31;&#x662F;&#x592A;&#x7C21;&#x55AE;&#x4E86;&#xFF0C;&#x512A;&#x9EDE;&#x4E5F;&#x662F;&#x592A;&#x7C21;&#x55AE;&#x4E86;&#xFF0C;&#x771F;&#x662F;&#x77DB;&#x76FE;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x6298;&#x817E;&#x4E00;&#x4E2A;&#x4E3B;&#x9898;&#x57FA;&#x672C;&#x4E0A;&#x4E0D;&#x80FD;&#x56DE;&#x907F;&#x5BF9;  markdown &#x7684;&#x8F6C;&#x6362;&#x5668;&#x505A;&#x4E00;&#x4E9B;&#x6539;&#x52A8;&#x3002;&#x5E78;&#x597D; redcarpet &#x6269;&#x5C55;&#x8D77;&#x6765;&#x5341;&#x5206;&#x65B9;&#x4FBF;&#x3002;&#x4E0D;&#x8FC7;&#x8FD9;&#x6837;&#x5C31;&#x727A;&#x7272;&#x9ED8;&#x8BA4;&#x7528;&#x5E95;&#x5C42;&#x8BED;&#x8A00;&#x5B9E;&#x73B0;&#x7684;&#x8F6C;&#x6362;&#x5668;&#x7684;&#x6548;&#x7387;&#x3002;&#x53E6;&#x5916;&#x4E07;&#x4E0D;&#x5F97;&#x5DF2;&#x7684;&#x65F6;&#x5019;&#x51B3;&#x4E0D;&#x5BF9; Markdown &#x7684;&#x8BED;&#x6CD5;&#x8FDB;&#x884C;&#x6269;&#x5C55;&#xFF0C;&#x4F18;&#x5148;&#x7528;&#x4E00;&#x4E9B;&#x73B0;&#x6210;&#x7684;&#x6269;&#x5C55;&#x7248;&#x672C;&#xFF0C;&#x5E78;&#x597D;&#x73B0;&#x5728;&#x8FD8;&#x4E0D;&#x9700;&#x8981;&#x5230;&#x8FD9;&#x4E00;&#x6B65;&#x3002;&#x4E4B;&#x524D;&#x8003;&#x8651;&#x8FC7;&#x6362;&#x4E00;&#x4E9B;&#x66F4;&#x5F3A;&#x5927;&#x7684;&#x6807;&#x8BB0;&#x8BED;&#x8A00;&#xFF0C;&#x4E0D;&#x8FC7;&#x73B0;&#x5728;&#x770B;&#x8D77;&#x6765;&#x8FD8;&#x6CA1;&#x8FD9;&#x4E2A;&#x5FC5;&#x8981;&#x653E;&#x68C4; Markdown &#xFF0C;Markdown &#x5F88;&#x7C21;&#x6F54;&#x5F88;&#x6F02;&#x4EAE;&#xFF0C;&#x800C;&#x4E14;&#x90A3;&#x4E9B;&#x7B80;&#x5316;&#x4E5F;&#x662F;&#x6709;&#x5B83;&#x7684;&#x9053;&#x7406;&#x7684;&#xFF0C;&#x89C9;&#x5F97;&#x4E0D;&#x723D;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x8FD8;&#x662F;&#x5148;&#x575A;&#x6301;&#x4E00;&#x4E0B;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x8FD9;&#x91CC;&#x6709;&#x5176;&#x4ED6;&#x540C;&#x5B66;&#x5C0D;Markdown&#x7684;&#x6279;&#x8A55;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt; &lt;a href="http://blog.liancheng.info//why-i-hate-markdown"&gt;Why I hate Markdown (and prefer reST)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href="http://freemind.pluskid.org/technology/the-unbearable-madness-of-static-blog-generators"&gt;The Unbearable Madness of Static Blog Generators&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&#x4E0D;&#x8FC7; Markdown &#x7684;&#x8F6C;&#x4E49;&#x8BA9;&#x4EBA;&#x6293;&#x72C2;&lt;/p&gt;
-
-&lt;p&gt;pandoc &#x589E;&#x5F3A;&#x7684; Markdown &#x8BED;&#x6CD5; &lt;a href="http://johnmacfarlane.net/pandoc/demo/example9/pandocs-markdown.html"&gt;http://johnmacfarlane.net/pandoc/demo/example9/pandocs-markdown.html&lt;/a&gt; &lt;/p&gt;
-
-&lt;h3 id="toc_5"&gt;RSS &amp;amp; Sitemap&lt;/h3&gt;
-
-&lt;p&gt;RSS &#x548C; Sitemap &#x57FA;&#x672C;&#x4E0A;&#x662F;&#x6BCF;&#x4E2A;&#x535A;&#x5BA2;&#x90FD;&#x5FC5;&#x5907;&#x7684;&#x4E86;&#x3002;&#x65B0;&#x7248;&#x7684;ruhoh &#x5DF2;&#x7ECF;&#x5185;&#x7F6E; rss &#x751F;&#x6210;&#x63D2;&#x4EF6;&#xFF0C;&#x4F46;&#x662F;&#x8FD9;&#x4E2A;&#x63D2;&#x4EF6;&#x6709;&#x4E0D;&#x5C11;&#x95EE;&#x9898;&#xFF0C;&#x6211;&#x53C2;&#x8003;&#x4E86;wordpress &#x7684; rss &#x6539;&#x8FDB;&#x4E86;&#x4E00;&#x4E0B;&#xFF0C;&#x89C1; &lt;a href="https://gist.github.com/3736010"&gt;rss.rb&lt;/a&gt;&#xFF0C;rss&#x7684;&#x6807;&#x51C6;&#x6CA1;&#x6709;&#x8BE6;&#x7EC6;&#x4E86;&#x89E3;&#xFF0C;&#x5E0C;&#x671B;&#x5B9E;&#x73B0;&#x4E0D;&#x8981;&#x4E0D;&#x4F26;&#x4E0D;&#x7C7B;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;Sitemap &#x751F;&#x6210;&#x6211;&#x7528;&#x7684;&#x662F;&lt;a href="https://github.com/crhan"&gt;crchan&lt;/a&gt;&#x7684;&lt;a href="https://gist.github.com/3705998"&gt;Ruhoh Sitemap Generator&lt;/a&gt;&#xFF0C;&#x6839;&#x636E;wordpress&#x7684;Sitemap&#x505A;&#x4E86;&#x4E00;&#x4E9B;&#x505A;&#x4E86;&#x4E9B;&#x6539;&#x52A8;&#xFF1A;&lt;a href="https://gist.github.com/3736089"&gt;&#x6539;&#x52A8;&#x7248;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="toc_6"&gt;&#x642C;&#x5BB6;&lt;/h3&gt;
-
-&lt;p&gt;&#x6700;&#x540E;&#x8BF4;&#x8BF4;&#x642C;&#x5BB6;&#xFF0C;&#x4E8B;&#x5B9E;&#x8BC1;&#x660E;&#xFF0C;&#x60F3;&#x8981;&#x65E0;&#x75DB;&#x5730;&#x5C06; wordpress &#x7684;&#x6587;&#x7AE0;&#x8F6C;&#x6362;&#x5230; ruhoh &#x4E0A;&#x662F;&#x4EF6;&#x5341;&#x5206;&#x75DB;&#x82E6;&#x7684;&#x4E8B;&#x3002;&#x6298;&#x817E; ruhoh &#x6709;&#x4E0D;&#x5C11;&#x65F6;&#x95F4;&#x5C31;&#x662F;&#x5728;&#x6298;&#x817E;&#x8FD9;&#x4E2A;&#x8F6C;&#x6362;&#x811A;&#x672C;&#x3002;&#x4E0D;&#x8FC7;&#x73B0;&#x5728;&#x8FD9;&#x4E2A;&#x811A;&#x672C;&#x57FA;&#x672C;&#x4E0A;&#x53EF;&#x4EE5;&#x5B8C;&#x6210; 90% &#x7684;&#x8F6C;&#x6362;&#x5DE5;&#x4F5C;&#xFF0C;&#x5305;&#x62EC;&#x5C06;&#x6587;&#x7AE0;&#x8F6C;&#x6362;&#x4E3A; markdown &#x683C;&#x5F0F;&#xFF0C;&#x611F;&#x8C22; pandoc &#x3002;&#x4E0D;&#x8FC7;&#x8FD8;&#x662F;&#x505A;&#x4E86;&#x4E0D;&#x5C11; hack&#x3002;&#x6700;&#x6298;&#x817E;&#x4EBA;&#x7684;&#x5C31;&#x662F; codecolorer &#x8FD9;&#x8D27;&#xFF0C;&#x77ED;&#x6807;&#x7B7E;&#xFF0C;&#x957F;&#x6807;&#x7B7E;&#xFF0C;&#x5404;&#x79CD;&#x6DF7;&#x7528;&#xFF0C;&#x592A;&#x53EF;&#x6015;&#x4E86;&#xFF0C;&#x5DEE;&#x70B9;&#x60F3;&#x91CD;&#x65B0;&#x5B9E;&#x73B0;&#x5B83;&#x7684;&#x5F15;&#x64CE;&#xFF0C;&#x6700;&#x540E;&#x5F53;&#x7136;&#x8FD8;&#x662F;&#x653E;&#x5F03;&#xFF0C;&#x7528;&#x4EBA;&#x5DE5;&#x4FEE;&#x6539;&#x4E00;&#x4E9B;&#x4F8B;&#x5916;&#xFF0C;&#x50CF;&#x662F;&#x8FD9;&#x7BC7;&#x6587;&#x7AE0;&#xFF1A;&lt;a href="/2010/08/03/codecolorer-doc-cn"&gt;CodeColorer&#x4E2D;&#x6587;&#x5E2E;&#x52A9;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&#x811A;&#x672C;&#x7531;Jekyll &#x7684;wordpressdotcom &#x4FEE;&#x6539;&#x800C;&#x6765;&#xFF0C;&#x6839;&#x636E;&#x6211;&#x7684;&#x535A;&#x5BA2;&#x505A;&#x4E86;&#x5F88;&#x591A;&#x9488;&#x5BF9;&#x6027;&#x7684;hack&#xFF0C;&#x53EF;&#x80FD;&#x6CA1;&#x6709;&#x4EC0;&#x4E48;&#x9002;&#x7528;&#x6027;&#x3002;&#x811A;&#x672C;&#x53EF;&#x4EE5;&#x5728;&#x8FD9;&#x91CC;&#x627E;&#x5230;&#xFF1A; &lt;a href="https://gist.github.com/3415268"&gt;wp&lt;em&gt;to&lt;/em&gt;ruhoh&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="toc_7"&gt;&#x90E8;&#x7F72;&lt;/h3&gt;
-
-&lt;p&gt;webfaction &#x771F;&#x5FC3;&#x4E0D;&#x9519;&#x3002;&#x7ED9; git &#x52A0;&#x4E2A;&#x94A9;&#x5B50;&#xFF0C;&#x7528; post-receive &#x89E3;&#x51B3;&#x5168;&#x90E8;&#x95EE;&#x9898;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class="bash"&gt;#!/bin/bash
-
-HOME=/home/xxx
-LOG=$HOME/ruhoh.log
-BUILD_DIR=$HOME/tmp/
-SITE_DIR=$BUILD_DIR/compiled/
-DEPLOY_DIR=$HOME/deploy/
-source $HOME/.rvm/scripts/rvm
-date &amp;gt;&amp;gt;  $LOG 
-unset GIT_DIR
-cd $BUILD_DIR
-PATH=$HOME/douo-ruhoh/bin:$PATH  #use custom ruhoh to compile
-#echo $PATH &amp;gt;&amp;gt;  $LOG
-git pull  &amp;gt;&amp;gt;  $LOG
-which ruhoh &amp;gt;&amp;gt; $LOG
-ruhoh compile &amp;gt;&amp;gt; $LOG
-rsync -a --delete-after $SITE_DIR $DEPLOY_DIR &amp;gt;&amp;gt;  $LOG
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id="toc_8"&gt;&#x5176;&#x4ED6;&lt;/h3&gt;
-
-&lt;h4 id="toc_9"&gt;Mathjax&lt;/h4&gt;
-
-&lt;p&gt;Mathjax&#x7684;&#x4F7F;&#x7528;&#x975E;&#x5E38;&#x65B9;&#x4FBF;&#xFF0C;&#x76F4;&#x63A5;&#x5728;&#x9801;&#x9762;&#x5D4C;&#x5165;&#x8173;&#x672C;&#x5C31;&#x884C;&#xFF0C;&#x7136;&#x5F8C;&#x901A;&#x904E;&#x4E00;&#x500B; widgets &#x4F86;&#x8F09;&#x5165; mathjax &#x7684;&#x8173;&#x672C;&#x3002;&#x5C31;&#x53EF;&#x4EE5;&#x5C55;&#x793A;&#x516C;&#x5F0F;&#x4E86;&#x3002;&#x5173;&#x952E;&#x662F;&#x5982;&#x4F55;&#x5B9A;&#x4E49;&#x63D2;&#x5165;&#x516C;&#x5F0F;&#x7684;&#x8BED;&#x6CD5;&#xFF0C;&#x521A;&#x597D; plusjade &#x6269;&#x5C55;&#x4E00;&#x4E0B;&#x8F6C;&#x6362;&#x5668;&#x63D2;&#x4EF6;&#x5B9E;&#x73B0;&#x4E86;&#x8FD9;&#x4E2A;&#x8A9E;&#x6CD5;&#xFF1A;&lt;a href="https://gist.github.com/2699636"&gt;mathjax.rb&lt;/a&gt;&#x3002;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class="mathjax"&gt;e^{i\pi} + 1 = 0
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x6211;&#x8003;&#x8651;&#x662F;&#x5426;&#x8981;&#x4E3A;&#x9875;&#x9762;&#x52A0;&#x5165;&#x4E00;&#x4E2A;Mathjax&#x5F00;&#x5173;&#xFF0C;&#x56E0;&#x4E3A;&#x5927;&#x90E8;&#x5206;&#x535A;&#x6587;&#x90FD;&#x65E0;&#x9700;&#x7528;&#x5230;Mathjax&#x3002;
-&#x53E6;&#x5916;&#xFF0C;Mathjax &#x597D;&#x50CF;&#x4F1A;&#x4E0D;&#x5B9A;&#x65F6;&#x7684;&#x51FA;&#x73B0;&#x4E00;&#x4E9B;&#x5E03;&#x5C40;&#x9519;&#x4E71;&#x7684;&#x95EE;&#x9898;&#x3002;&lt;/p&gt;
-
-&lt;h4 id="toc_10"&gt;&#x81EA;&#x52A8;&#x5237;&#x65B0;&lt;/h4&gt;
-
-&lt;p&gt;&#x770B;&#x4E86; pluskid &#x7684;&lt;a href="http://freemind.pluskid.org/technology/the-unbearable-madness-of-static-blog-generators/"&gt;&#x6587;&#x7AE0;&lt;/a&gt;&#xFF0C;&#x6211;&#x4E5F;&#x8DDF;&#x7740;&#x5B9E;&#x73B0;&#x4E86;&#x4FDD;&#x5B58;&#x7684;&#x65F6;&#x5019;&#x81EA;&#x52A8;&#x5237;&#x65B0;&#x9875;&#x9762;&#x3002;&#x9700;&#x8981;&#x5B89;&#x88C5;&#x51E0;&#x4E2A;&#x4E1C;&#x897F;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/guard/guard"&gt;guard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/johnbintz/rack-livereload"&gt;rack-livereload&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/guard/guard-livereload"&gt;guard-livereload&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href="https://github.com/guard/guard"&gt;guard&lt;/a&gt;&#x662F;&#x4E00;&#x4E2A;&#x76D1;&#x542C;&#x6587;&#x4EF6;&#x7CFB;&#x7EDF;&#x53D8;&#x52A8;&#x7684;&#x5DE5;&#x5177;&#xFF0C;&lt;a href="https://github.com/johnbintz/rack-livereload"&gt;rack-livereload&lt;/a&gt; &#x5B9E;&#x73B0;&#x4E86;&#x81EA;&#x52A8;&#x5237;&#x65B0;&#x3002;&#x5B89;&#x88C5;&#x548C;&#x4F7F;&#x7528;&#x770B;&#x4E00;&#x4E0B;&#x5404;&#x81EA;&#x7684; readme &#x8FD8;&#x662F;&#x5F88;&#x5BB9;&#x6613;&#x660E;&#x767D;&#x7684;&#xFF0C;&#x4F46;&#x5177;&#x4F53;&#x600E;&#x4E48;&#x5DE5;&#x4F5C;&#x6211;&#x4E5F;&#x6CA1;&#x5F04;&#x6E05;&#x695A;&#xFF0C;&#x53CD;&#x6B63;&#x4E0D;&#x7528;&#x6539;&#x52A8;ruhoh&#x7684;&#x4E00;&#x4E2A;&#x4EE3;&#x7801;&#xFF0C;&#x5F88;&#x65B9;&#x4FBF;&#x3002;&#x4E0D;&#x8FC7;&#x6211;&#x5728; windows &#x4E0B;&#x5B89;&#x88C5; &lt;a href="https://github.com/guard/guard-livereload"&gt;guard-livereload&lt;/a&gt; &#x51FA;&#x4E86;&#x95EE;&#x9898;&#xFF0C;&#x539F;&#x56E0;&#x662F;EventMachine 0.12.10 &#x4E0D;&#x80FD;&#x5728;&#x8DD1;&#x7740; ruy 1.9.2+ &#x7684;windows&#x4E0A;&#x5DE5;&#x4F5C;&#x3002;&#x7528; pre-release &#x7684;&#x7248;&#x672C;&#x5C31;&#x53EF;&#x4EE5;&#x89E3;&#x51B3;&#x95EE;&#x9898;&#xFF0C;&#x8BA8;&#x8BBA;&#x5728;&lt;a href="http://stackoverflow.com/questions/6927907/ruby-problem-installing-eventmachine-under-windows-7#"&gt;stackoverflow&lt;/a&gt; &#x4E0A;&#x3002;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;gem install eventmachine --pre
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x4ECA;&#x5929;&#x53D1;&#x73B0; guard &#x8FD9;&#x8D27;&#x5728; win7 cygwin &#x4E0B;&#x8FDB;&#x7A0B;&#x5360;&#x7528;CPU 100%&#xFF0C;&#x4E0D;&#x77E5;&#x9053;&#x662F;&#x4EC0;&#x4E48;&#x60C5;&#x51B5;&#x3002;&lt;/p&gt;
-
-&lt;h4 id="toc_11"&gt;TODO&lt;/h4&gt;
-
-&lt;p&gt;&#x63A5;&#x4E0B;&#x6765;&#x5B8C;&#x5584;&#x7B14;&#x8BB0;&#x529F;&#x80FD;&#xFF0C;&#x6253;&#x9020;&#x51FA;&#x4E00;&#x4E2A;&#x77E5;&#x8BC6;&#x7BA1;&#x7406;&#x7CFB;&#x7EDF;&#xFF08;&#x7C7B;wiki&#xFF09;&#xFF0C;&#x8FD8;&#x6709;&#x65E5;&#x8BB0;&#xFF0C;&#x56E0;&#x4E3A;&#x8981;&#x4F5C;&#x4E3A;&#x65E5;&#x8BB0;&#x4F7F;&#x7528;&#xFF0C;&#x8FD8;&#x9700;&#x8981;&#x63D0;&#x4F9B;&#x7C7B;&#x4F3C; evernote &#x7684;&#x52A0;&#x5BC6;&#x65B9;&#x6848;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x597D;&#x591A;&#x5440;~ &#x597D;&#x56F0;&#x3002; &lt;/p&gt;
-
-&lt;h3 id="toc_12"&gt;ruhoh&lt;/h3&gt;
-
-&lt;p&gt;&#x8FD9;&#x91CC;&lt;del&gt;&#x4E5F;&#x8BB8;&lt;/del&gt;&#x4F1A;&#x6210;&#x4E3A;&#x6211;&#x7B2C;&#x4E00;&#x7BC7;ruhoh&#x7684;&#x535A;&#x5BA2;&#xFF0C;&#x5148;&#x7F57;&#x5217;&#x4E00;&#x4E0B;&#x5E38;&#x7528;&#x7684;&#x547D;&#x4EE4;&#x5427;&#x3002;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;rackup -p 9292  # &#x542F;&#x52A8; web &#x670D;&#x52A1;&#x5728; 9292 &#x7AEF;&#x53E3;
-ruhoh page about.md  #&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x9875;&#x9762;&#xFF0C;&#x652F;&#x6301;&#x5B50;&#x76EE;&#x5F55; 
-ruhoh post &amp;quot;The Greatest Post Ever&amp;quot; #&#x901A;&#x8FC7;&#x6807;&#x9898;&#x521B;&#x5EFA;&#x6587;&#x7AE0;&#xFF0C;&#x5C06;&#x4F1A;&#x751F;&#x6210; the-greatest-post-ever.md
-ruhoh draft #&#x5FEB;&#x901F;&#x5EFA;&#x7ACB;&#x4E00;&#x4E2A;&#x8349;&#x7A3F;&#xFF0C;&#x751F;&#x6210;untitled-draft-1.md 
-ruhoh titleize #&#x5FEB;&#x901F;&#x4E3A;&#x8349;&#x7A3F;&#x6587;&#x4EF6;&#x547D;&#x540D;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x540E;&#x53F0;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;http://localhost:9292/dash
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x65AD;&#x65AD;&#x7EED;&#x7EED;&#x7528;&#x4E86; ruhoh &#x5DF2;&#x4E0D;&#x6B62;&#x4E00;&#x4E2A;&#x6708;&#x4E86;&#xFF0C;&#x7528;&#x7684;&#x90FD;&#x662F;&#x4E9B;&#x788E;&#x7247;&#x65F6;&#x95F4;&#xFF0C;&#x6240;&#x4EE5;&#x8FDB;&#x5C55;&#x5E76;&#x6CA1;&#x6709;&#x591A;&#x5C11;&#xFF0C;&#x73B0;&#x5728;&#x57FA;&#x672C;&#x5B8C;&#x6210;&#x4F5C;&#x4E3A;&#x535A;&#x5BA2;&#x7684;&#x529F;&#x80FD;&#xFF0C;&#x4E5F;&#x6269;&#x5C55;&#x4E86; &lt;code&gt;note&lt;/code&gt; &#x548C; &lt;code&gt;diary&lt;/code&gt; &#x4E24;&#x4E2A;&#x65B0;&#x547D;&#x4EE4;&#xFF0C;&#x8FD8;&#x975E;&#x5E38;&#x521D;&#x6B65;&#xFF0C;&#x8981;&#x5B8C;&#x5584;&#x60F3;&#x5FC5;&#x5F97;&#x82B1;&#x4E0D;&#x5C11;&#x65F6;&#x95F4;&#x5427;&#xFF0C;&#x4F46;&#x662F;&#x6211;&#x89C9;&#x5F97;&#x7528;&#x9759;&#x6001;&#x7F51;&#x7AD9;&#x751F;&#x6210;&#x7CFB;&#x7EDF;&#x6765;&#x505A;&#x4E2A;&#x4EBA;&#x7684;&#x6587;&#x7AE0;&#x8F93;&#x51FA;&#x5E73;&#x53F0;&#x662F;&#x975E;&#x5E38;&#x503C;&#x5F97;&#x505A;&#x7684;&#x5C1D;&#x8BD5;&#x3002;&#x5F3A;&#x5927;&#x7684;&#x7248;&#x672C;&#x63A7;&#x5236;&#xFF1B;&#x6570;&#x636E;&#x5B89;&#x5168;&#xFF0C;&#x7EAF;&#x6587;&#x4EF6;&#xFF0C;&#x4F60;&#x53EF;&#x4EE5;&#x5907;&#x4EFD;&#x5230;&#x5404;&#x4E2A;&#x4E91;&#x5B58;&#x50A8;&#x5E73;&#x53F0;&#xFF0C;&#x5404;&#x4E2A;git&#x4ED3;&#x5E93;&#xFF1B;&#x65E0;&#x7F51;&#x7EDC;&#x7684;&#x65F6;&#x5019;&#x53EF;&#x4EE5;&#x79BB;&#x7EBF;&#x7F16;&#x8F91;&#x548C;&#x9884;&#x89C8;&#xFF1B;markdown &#x7684;&#x6613;&#x8BFB;&#x6027;&#xFF1B;&#x8FD8;&#x6709;&#x5341;&#x8DB3;&#x7684;&#x53EF;&#x64CD;&#x7EB5;&#x611F;&#xFF1B;&#x5F53;&#x7136;&#x8981;&#x4EAB;&#x53D7;&#x8FD9;&#x4E9B;&#x597D;&#x5904;&#x7684;&#x524D;&#x63D0;&#x5C31;&#x662F;&#x5F97;&#x6709;&#x4E00;&#x4E2A;&#x6298;&#x817E;&#x5F97;&#x8D77;&#x7684;&#x5FC3;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;ruhoh &#x6548;&#x7387;&#x95EE;&#x9898;&#x6682;&#x4E14;&#x4E0D;&#x63D0;&#xFF0C;&#x73B0;&#x5728;&#x5185;&#x5BB9;&#x4E0D;&#x591A;&#x4E5F;&#x611F;&#x89C9;&#x4E0D;&#x51FA;&#x6765;&#x3002;&#x90E8;&#x7F72;&#x5230;&#x865A;&#x62DF;&#x4E3B;&#x673A;&#x53EF;&#x80FD;&#x4F1A;&#x662F;&#x6BD4;&#x8F83;&#x9EBB;&#x70E6;&#x7684;&#x95EE;&#x9898;&#xFF0C;&#x4E0D;&#x8FC7;&#x6211;&#x73B0;&#x5728;&#x5728; webfaction &#x4E0A;&#x7528;&#x7740;&#x8FD8;&#x662F;&#x5F88;&#x8212;&#x670D;&#x7684;&#x3002;&#x53E6;&#x5916; plusjade &#x8FD8;&#x63D0;&#x4F9B;&#x514D;&#x8D39;&#x7684;&#x4E3B;&#x673A;&#x4F5C;&#x4E3A;&#x666E;&#x901A;&#x7684;&#x535A;&#x5BA2;&#x7528;&#x7EDD;&#x5BF9;&#x7EF0;&#x7EF0;&#x6709;&#x4F59;&#xFF0C;&#x5F53;&#x7136;&#x4E0D;&#x652F;&#x6301;&#x63D2;&#x4EF6;&#x3002;&#x53E6;&#x5916;&#x90E8;&#x7F72;&#x5230;&#x5176;&#x4ED6;&#x652F;&#x6301; ruby &#x4E91;&#x670D;&#x52A1;&#x5E73;&#x53F0;&#x4E0A;&#x5E94;&#x8BE5;&#x4E0D;&#x4F1A;&#x6709;&#x4EC0;&#x4E48;&#x95EE;&#x9898;&#xFF0C;&#x5982; Heroku&#x3002;&#x865A;&#x62DF;&#x4E3B;&#x673A;&#x7684;&#x8BDD;&#xFF0C;&#x6BCF;&#x6B21;&#x66F4;&#x65B0;&#x90FD;&#x8981;&#x91CD;&#x65B0;&#x7F16;&#x8BD1;&#x518D;&#x4E0A;&#x4F20;&#x6570;&#x636E;&#xFF0C;&#x60F3;&#x60F3;&#x5C31;&#x5BB3;&#x6015;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;ruhoh &#x7684;&#x6269;&#x5C55;&#x8BBE;&#x8BA1;&#x4E5F;&#x4E0D;&#x5B8C;&#x7F8E;&#xFF0C;&#x6216;&#x8005;&#x6211;&#x662F;&#x4E0D;&#x80FD;&#x660E;&#x767D;&#xFF0C;&#x5206;&#x4E3A; widgets&#xFF0C;themes &#x548C; plugins&#xFF0C;widgets &#x5B9A;&#x4E49;&#x4E00;&#x4E9B;&#x53EF;&#x590D;&#x7528;&#x7684;&#x9875;&#x9762;&#x4EE3;&#x7801;&#x5757;&#xFF0C;plugins &#x5219;&#x662F;&#x7CFB;&#x7EDF;&#x6269;&#x5C55;&#xFF0C;&#x901A;&#x8FC7;ruby&#x811A;&#x672C;&#x5B9E;&#x73B0;&#xFF0C;&#x6709;&#x70B9;&#x50CF;&#x52A8;&#x6001;&#x7F51;&#x7AD9;&#x7684;&#x540E;&#x53F0;&#x903B;&#x8F91;&#x90E8;&#x5206;&#x3002;&#x800C;&#x50CF;&#x8BC4;&#x8BBA;&#x6A21;&#x5757;&#x3001;google prettify &#x8FD9;&#x4E9B;&#x8F7D;&#x5165;js&#x5C31;&#x53EF;&#x4EE5;&#x89E3;&#x51B3;&#x7684;&#x529F;&#x80FD;&#xFF0C;&#x7528; widgets &#x548C; themes &#x5B9E;&#x73B0;&#x5C31;&#x5F88;&#x5B8C;&#x7F8E;&#xFF0C;&#x751F;&#x6210; rss&#x3001;sitemap &#x5219;&#x53EF;&#x4EE5;&#x7528;plugins &#x5355;&#x72EC;&#x5B9E;&#x73B0;&#x3002;&#x4F46;&#x662F;&#x5B9E;&#x9645;&#x7528;&#x8D77;&#x6765;&#x53D1;&#x89C9;&#x8FD9;&#x4E09;&#x8005;&#x4E4B;&#x95F4;&#x7684;&#x8026;&#x5408;&#x592A;&#x5927;&#x4E86;&#xFF0C;&#x6BD4;&#x5982;&#x672C;&#x535A;&#x7684; toc &#x548C; fancybox &#x529F;&#x80FD;&#x3002;&#x5C31;&#x5FC5;&#x987B;&#x7528; plugins &#x7684;&#x81EA;&#x5B9A;&#x4E49;&#x8F6C;&#x6362;&#x5668;&#xFF0C;&#x6765;&#x6539;&#x52A8; redcarpet &#x751F;&#x6210;&#x7684;&#x76EE;&#x6807;&#x4EE3;&#x7801;&#x3002;&#x7136;&#x540E;&#x53C8;&#x5F97;&#x628A;&#x90A3;&#x4E9B;&#x7279;&#x5B9A;&#x7684; js &#x6587;&#x4EF6;&#x3001;html &#x4EE3;&#x7801;&#x5757;&#x653E;&#x5230; widgets &#x91CC;&#x9762;&#xFF0C;widgets &#x548C; plugins &#x7D27;&#x7D27;&#x7684;&#x8054;&#x7CFB;&#x5728;&#x4E00;&#x8D77;&#xFF0C;&#x8FD9;&#x6837;&#x8981;&#x5B9E;&#x73B0;&#x4E00;&#x4E2A;&#x529F;&#x80FD;&#x5FC5;&#x987B;&#x5F97;&#x540C;&#x65F6;&#x4F7F;&#x7528; plugins &#x548C; widgets &#xFF0C;&#x8FD9;&#x6837;&#x8FD8;&#x4E0D;&#x5982;&#x628A;&#x524D;&#x7AEF;&#x4EE3;&#x7801;&#x76F4;&#x63A5;&#x653E;&#x5230; themes &#x91CC;&#x6765;&#x7684;&#x6E05;&#x6670;&#x3002;&#x5F53;&#x7136;&#x5566;&#xFF0C;&#x50CF; toc &#x5B8C;&#x5168;&#x524D;&#x7AEF;&#x5B9E;&#x73B0;&#x4E5F;&#x662F;&#x53EF;&#x4EE5;&#x7684;&#xFF0C;&#x89C1;&#xFF1A;&lt;a href="http://brizzled.clapper.org/blog/2012/02/04/generating-a-table-of-contents-in-octopress/"&gt;Generating a Table of Contents in Octopress&lt;/a&gt;&#x3002;&lt;/p&gt;
-
-&lt;h3 id="toc_13"&gt;&#x8BC4;&#x8BBA;&lt;/h3&gt;
-
-&lt;p&gt;&#x9759;&#x6001;&#x535A;&#x5BA2;&#x7684;&#x8BC4;&#x8BBA;&#x7CFB;&#x7EDF;&#x53EA;&#x80FD;&#x901A;&#x8FC7;&#x7B2C;&#x4E09;&#x65B9;&#x8BC4;&#x8BBA;&#x7CFB;&#x7EDF;&#x6765;&#x5B9E;&#x73B0;&#xFF0C;ruhoh &#x662F;&#x7528; widgets &#x6765;&#x5D4C;&#x5165;&#x7B2C;&#x4E09;&#x65B9;&#x8BC4;&#x8BBA;&#x3002;&#x5167;&#x7F6E;&#x652F;&#x6301;disqus&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x6211;&#x7684;&#x76EE;&#x7684;&#x662F;&#x5BE6;&#x73FE;&#xFF0C;ruhoh &#x548C;  wordpress &#x7684;&#x76F8;&#x540C;&#x7BC7;&#x6587;&#x7AE0;&#x5171;&#x7528;&#x4E00;&#x500B;&#x8A55;&#x8AD6;&#xFF0C;disqus &#x63D0;&#x4F9B;&#x4E86;&#x9019;&#x7A2E;&#x53EF;&#x80FD;&#x6027; &lt;a href="http://help.disqus.com/customer/portal/articles/662547-why-are-the-same-comments-showing-up-on-multiple-pages-"&gt;Why are the same comments showing up on multiple pages?&lt;/a&gt;&#x3002;wordpress &#x7684; disqus &#x63D2;&#x4EF6;&#x4F7F;&#x7528;&#x4E86; &#x6587;&#x7AE0;&#x7684; post&lt;em&gt;id &#x548C; guid&#x4F5C;&#x7232; disqus\&lt;/em&gt;identifier &#xFF0C;&#x6A21;&#x5F0F;&#x5982;&#x4E0B;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;post_id + &amp;#39; &amp;#39; + guid
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x6240;&#x4EE5;&#x5728; &lt;a href="https://gist.github.com/3415268"&gt;wp&lt;em&gt;to&lt;/em&gt;ruhoh&lt;/a&gt; &#x91CC;&#xFF0C;&#x6211;&#x5C31;&#x9019;&#x5169;&#x500B;&#x5C6C;&#x6027;&#x4E5F;&#x4FDD;&#x7559;&#x4E0B;&#x4F86;&#x3002;&#x4F46;&#x662F; ruhoh &#x7684; widget &#x4E0D;&#x80FD;&#x8A2A;&#x554F; page &#x7684;&#x6578;&#x64DA;&#xFF08;&#x542D;&#x7239;&#x5440;&#xFF09;&#xFF0C;&#x898B; &lt;a href="https://github.com/ruhoh/ruhoh.rb/issues/52"&gt;issue52&lt;/a&gt;&#x3002;&#x6240;&#x4EE5;&#x53EA;&#x80FD;&#x628A;&#x4EE3;&#x78BC;&#x653E;&#x5230; theme &#x7684; layout &#x91CC;&#x3002;&#x5982;&#x4E0B;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;div id=&amp;quot;disqus_thread&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
-        &amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt;
-            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO
-        YOUR WEBPAGE * * */
-            var disqus_title = &amp;#39;{{page.title}}&amp;#39;;
-            var disqus_identifier =&amp;#39;{{page.postid}} {{page.guid}}&amp;#39;;
-            var disqus_shortname = &amp;#39;doousblog&amp;#39;; // required: replace example with your forum shortname
-
-            /* * * DON&amp;#39;T EDIT BELOW THIS LINE * * */
-            (function() {
-                var dsq = document.createElement(&amp;#39;script&amp;#39;); dsq.type = &amp;#39;text/javascript&amp;#39;; dsq.async = true;
-                dsq.src = &amp;#39;http://&amp;#39; + disqus_shortname + &amp;#39;.disqus.com/embed.js&amp;#39;;
-                (document.getElementsByTagName(&amp;#39;head&amp;#39;)[0] || document.getElementsByTagName(&amp;#39;body&amp;#39;)[0]).appendChild(dsq);
-            })();
-        &amp;lt;/script&amp;gt;
-        &amp;lt;noscript&amp;gt;Please enable JavaScript to view the &amp;lt;a href=&amp;quot;http://disqus.com/?ref_noscript&amp;quot;&amp;gt;comments powered by Disqus.&amp;lt;/a&amp;gt;&amp;lt;/noscript&amp;gt;
-        &amp;lt;a href=&amp;quot;http://disqus.com&amp;quot; class=&amp;quot;dsq-brlink&amp;quot;&amp;gt;comments
-            powered by &amp;lt;span class=&amp;quot;logo-disqus&amp;quot;&amp;gt;Disqus&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x53E6;&#x5916;&#xFF0C;&#x5BF9;&#x4E8E; ruhoh &#x7684; post &#xFF0C;&#x5982;&#x679C;&#x4E0D;&#x60F3;&#x4EE5;&#x540E;&#x6362;&#x4E2A;&#x6807;&#x9898;&#xFF0C;&#x6216;&#x8005;&#x6362;&#x4E2A;&#x57DF;&#x540D;&#xFF0C;&#x90FD;&#x8981;&#x91CD;&#x65B0;&#x6574;&#x5408;&#x8BC4;&#x8BBA;&#xFF0C;&#x6700;&#x597D;&#x6BCF;&#x7BC7;&#x6587;&#x7AE0;&#x63D0;&#x4F9B;&#x4E00;&#x4E2A; unique id &#x4F5C;&#x4E3A; disque_indentifier &#x4F7F;&#x7528;&#x3002;post &#x5DF2;&#x7ECF;&#x6709; id &#x5C5E;&#x6027;&#x4E86;&#xFF0C;&#x7528;&#x7684;&#x662F;&#x76F8;&#x5BF9;&#x7684;&#x6587;&#x4EF6;&#x8DEF;&#x5F84;&#x3002;&lt;/p&gt;
-
-&lt;h3 id="toc_14"&gt;&#x4E3B;&#x9898;&lt;/h3&gt;
-
-&lt;p&gt;&#x5173;&#x4E8E;&#x4E3B;&#x9898;&#xFF0C;&#x6298;&#x9A30;&#x4E86;&#x5E7E;&#x4E0B;&#xFF0C;&#x611F;&#x89BA;&#x76EE;&#x524D;&#x6211;&#x5F04;&#x7684;&#x9019;&#x500B;&#x4E3B;&#x984C;&#xFF0C;&#x4E26;&#x4E0D;&#x80FD;&#x767C;&#x63EE;bootstrap&#x4F5C;&#x7232;&#x811A;&#x624B;&#x67B6;&#x7684;&#x80FD;&#x529B;&#xFF0C;&#x7528;&#x5B83;&#x7684;&#x6805;&#x683C;&#x7CFB;&#x7EDF;&#x603B;&#x662F;&#x4E0D;&#x80FD;&#x628A;&#x8FB9;&#x680F;&#x8BBE;&#x8BA1;&#x5730;&#x8BA9;&#x4EBA;&#x6EE1;&#x610F;&#x3002;&#x4E0D;&#x904E;&#x54CD;&#x5E94;&#x5F0F;&#x5E03;&#x5C40;&#xFF08;responsive&#xFF09;&#x9019;&#x500B;&#x7279;&#x6027;&#x5BE6;&#x5728;&#x592A;&#x5F37;&#x4E86;&#xFF0C;&#x57FA;&#x672C;&#x53EF;&#x4EE5;&#x4FDD;&#x8B49;&#x5728;&#x4E0D;&#x540C;&#x5206;&#x8FA8;&#x7387;&#x7684;&#x8A2D;&#x5099;&#x4E0A;&#x90FD;&#x53EF;&#x4EE5;&#x4FDD;&#x6301;&#x6BD4;&#x8F03;&#x597D;&#x7684;&#x95B1;&#x8B80;&#x9AD4;&#x9A57;&#xFF0C;&#x4E0D;&#x8FC7;&#x6211;&#x5206;&#x522B;&#x5B9E;&#x73B0;&#x4E86;&#x4E24;&#x4E2A;&#x5BFC;&#x822A;&#x680F;&#x5BF9;&#x5E94;&#x79FB;&#x52A8;&#x8BBE;&#x5907;&#x548C;pc&#xFF0C;&#x4ECE;&#x8BED;&#x4E49;&#x4E0A;&#x8BB2;&#x8FD9;&#x4E2A;&#x505A;&#x6CD5;&#x975E;&#x5E38;&#x7CDF;&#x7CD5;&#x3002;&#x4E0D;&#x904E;&#x55AE;&#x55AE;&#x7528; bootstrap &#x7684;&#x90A3;&#x4E9B;&#x5C0F;&#x5DE5;&#x5177;&#x4E5F;&#x975E;&#x5E38;&#x503C;&#x5F97;&#xFF0C;bootstrap &#x7684;&#x8A2D;&#x8A08;&#x771F;&#x7684;&#x5F88;&#x6F02;&#x4EAE;&#xFF0C;&#x50CF;&#x6211;&#x9019;&#x7A2E;&#x6C92;&#x6709;&#x524D;&#x7AEF;&#x7D93;&#x9A57;&#x7684;&#x78BC;&#x8FB2;&#xFF0C;&#x4E5F;&#x53EF;&#x4EE5;&#x7528;&#x7684;&#x5F88;&#x8212;&#x670D;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x7279;&#x522B;&#x9057;&#x61BE;&#x7684;&#x5C31;&#x662F;&#x4E3B;&#x984C;&#x5DE6;&#x908A;&#x90A3;&#x500B;&#x56FA;&#x5B9A;&#x7684;&#x5C0E;&#x822A;&#x6B04;&#x4E0D;&#x80FD;&#x5229;&#x7528;&#x5230;bootstrap&#x7684;&#x6805;&#x683C;&#x7CFB;&#x7EDF;&#xFF0C;&#x53EA;&#x80FD;&#x7528;&#x539F;&#x4F86;&#x90A3;&#x7A2E;&#x65B9;&#x6CD5;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x4E3B;&#x9898;&#x7684;&#x8BBE;&#x8BA1;&#x5077;&#x7740;&#x4E0B;&#x9762;&#x7684;&#x8FD9;&#x4E9B;&#x7F51;&#x7AD9;&#xFF0C;&#x8BF4;&#x597D;&#x542C;&#x5C31;&#x662F;&#x53C2;&#x8003;&#x4E86;-_-&#xFF0C;&#x80AF;&#x5B9A;&#x4E0D;&#x6B62;&#x8FD9;&#x4E9B;&#x7684;&#x53EA;&#x662F;&#x6211;&#x786E;&#x5B9E;&#x60F3;&#x4E0D;&#x8D77;&#x6765;&#x4E86;&#x3002;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.sitepoint.com/pure-css3-paper-curl/"&gt;http://www.sitepoint.com/pure-css3-paper-curl/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://yihui.name/cn/"&gt;http://yihui.name/cn/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://freemind.pluskid.org"&gt;http://freemind.pluskid.org&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&#x76F8;&#x6BD4; wordpress &#x90A3;&#x672A;&#x5B8C;&#x6210;&#x7684;&#x4E3B;&#x9898;&#xFF0C;&#x4E3B;&#x989C;&#x8272;&#x6362;&#x6210;&#x84DD;&#x8272;&#xFF0C;&#x53BB;&#x6389;&#x4E86;&#x5706;&#x89D2;&#xFF0C;&#x80CC;&#x666F;&#x591A;&#x4E86;&#x4E9B;&#x9634;&#x5F71;&#x3002;&#x611F;&#x89C9;&#x8FD8;&#x4E0D;&#x9519;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x53E6;&#x5916;&#x8FD8;&#x7528;&#x4E86;&#x4E0B;&#x9762;&#x8FD9;&#x4E9B;&#x5DE5;&#x5177;&#xFF0C;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://dublue.com/plugins/toc/"&gt;http://dublue.com/plugins/toc/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.appelsiini.net/projects/lazyload"&gt;http://www.appelsiini.net/projects/lazyload&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://fancyapps.com/fancybox/"&gt;http://fancyapps.com/fancybox/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://ajaxload.info/"&gt;http://ajaxload.info/&lt;/a&gt; &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&#x4E5F;&#x6CA1;&#x529E;&#x6CD5;&#x4E00;&#x4E00;&#x5217;&#x4E3E;&#x4E86;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x8FD9;&#x4E2A; ruhoh &#x4E3B;&#x9898;&#x53EF;&#x4EE5;&#x5728;&#x8FD9;&#x91CC;&#x627E;&#x5230;&#xFF1A; &lt;a href="https://github.com/douo/douo.ruhoh.com/tree/master/themes/moon"&gt;Moon&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="toc_15"&gt;mustache&lt;/h3&gt;
-
-&lt;p&gt;&#x4E00;&#x4E2A;Logic Less&#xFF08;&#x4E0D;&#x77E5;&#x9053;&#x600E;&#x4E48;&#x7FFB;&#x8BD1;&#xFF0C;&#x76EE;&#x7684;&#x5927;&#x6982;&#x662F;&#x628A;&#x903B;&#x8F91;&#x8FD8;&#x7ED9;&#x4EE3;&#x7801;&#xFF0C;&#x8BA9;&#x6A21;&#x677F;&#x4FDD;&#x6301;&#x7B80;
-&#x6D01;&#x3002;&#x89C1;&lt;a href="http://stackoverflow.com/questions/3896730/whats-the-advantage-of-logic-less-template-such-as-mustache"&gt;stackoverflow&lt;/a&gt;&#xFF09;&#x7684;&#x6A21;&#x677F;&#x8BED;&#x8A00;&#xFF0C;&#x6240;&#x4EE5;&#x540C;&#x6837;&#x4EE5;&#x8BED;&#x8A00;&#x65E0;&#x5173;&#x4E3A;&#x76EE;&#x6807;&#x7684; ruhoh
-&#x91C7;&#x7528;&#x4E86;&#x5B83;&#x4F5C;&#x4E3A;&#x6A21;&#x677F;&#x8BED;&#x8A00;&#x3002;&#x53C2;&#x8003;&#x5B83;&#x7684; &lt;a href="http://mustache.github.com/#demo"&gt;demo&lt;/a&gt; &#x53EF;&#x4EE5;&#x5927;&#x81F4;&#x4E86;&#x89E3;&#x5B83;&#x7684;&#x7279;&#x6027;&#xFF0C;&#x4E5F;&#x53EF;&#x4EE5;&#x53C2;
-&#x8003;&#x4E00;&#x4E0B;&lt;a href="/notes/coding/mustache"&gt;&#x6211;&#x7684;&#x7B14;&#x8BB0;&lt;/a&gt;&#x3002;&lt;/p&gt;
-
-&lt;h3 id="toc_16"&gt;Markdown&lt;/h3&gt;
-
-&lt;p&gt;&#x7528;&#x4E86;&#x4E00;&#x6BB5;&#x6642;&#x9593;&#x7684; Markdown &#xFF0C;&#x767C;&#x73FE; Markdown &#x4E3B;&#x8981;&#x7684;&#x7F3A;&#x9677;&#x5C31;&#x662F;&#x592A;&#x7C21;&#x55AE;&#x4E86;&#xFF0C;&#x512A;&#x9EDE;&#x4E5F;&#x662F;&#x592A;&#x7C21;&#x55AE;&#x4E86;&#xFF0C;&#x771F;&#x662F;&#x77DB;&#x76FE;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x6298;&#x817E;&#x4E00;&#x4E2A;&#x4E3B;&#x9898;&#x57FA;&#x672C;&#x4E0A;&#x4E0D;&#x80FD;&#x56DE;&#x907F;&#x5BF9;  markdown &#x7684;&#x8F6C;&#x6362;&#x5668;&#x505A;&#x4E00;&#x4E9B;&#x6539;&#x52A8;&#x3002;&#x5E78;&#x597D; redcarpet &#x6269;&#x5C55;&#x8D77;&#x6765;&#x5341;&#x5206;&#x65B9;&#x4FBF;&#x3002;&#x4E0D;&#x8FC7;&#x8FD9;&#x6837;&#x5C31;&#x727A;&#x7272;&#x9ED8;&#x8BA4;&#x7528;&#x5E95;&#x5C42;&#x8BED;&#x8A00;&#x5B9E;&#x73B0;&#x7684;&#x8F6C;&#x6362;&#x5668;&#x7684;&#x6548;&#x7387;&#x3002;&#x53E6;&#x5916;&#x4E07;&#x4E0D;&#x5F97;&#x5DF2;&#x7684;&#x65F6;&#x5019;&#x51B3;&#x4E0D;&#x5BF9; Markdown &#x7684;&#x8BED;&#x6CD5;&#x8FDB;&#x884C;&#x6269;&#x5C55;&#xFF0C;&#x4F18;&#x5148;&#x7528;&#x4E00;&#x4E9B;&#x73B0;&#x6210;&#x7684;&#x6269;&#x5C55;&#x7248;&#x672C;&#xFF0C;&#x5E78;&#x597D;&#x73B0;&#x5728;&#x8FD8;&#x4E0D;&#x9700;&#x8981;&#x5230;&#x8FD9;&#x4E00;&#x6B65;&#x3002;&#x4E4B;&#x524D;&#x8003;&#x8651;&#x8FC7;&#x6362;&#x4E00;&#x4E9B;&#x66F4;&#x5F3A;&#x5927;&#x7684;&#x6807;&#x8BB0;&#x8BED;&#x8A00;&#xFF0C;&#x4E0D;&#x8FC7;&#x73B0;&#x5728;&#x770B;&#x8D77;&#x6765;&#x8FD8;&#x6CA1;&#x8FD9;&#x4E2A;&#x5FC5;&#x8981;&#x653E;&#x68C4; Markdown &#xFF0C;Markdown &#x5F88;&#x7C21;&#x6F54;&#x5F88;&#x6F02;&#x4EAE;&#xFF0C;&#x800C;&#x4E14;&#x90A3;&#x4E9B;&#x7B80;&#x5316;&#x4E5F;&#x662F;&#x6709;&#x5B83;&#x7684;&#x9053;&#x7406;&#x7684;&#xFF0C;&#x89C9;&#x5F97;&#x4E0D;&#x723D;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x8FD8;&#x662F;&#x5148;&#x575A;&#x6301;&#x4E00;&#x4E0B;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x8FD9;&#x91CC;&#x6709;&#x5176;&#x4ED6;&#x540C;&#x5B66;&#x5C0D;Markdown&#x7684;&#x6279;&#x8A55;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt; &lt;a href="http://blog.liancheng.info//why-i-hate-markdown"&gt;Why I hate Markdown (and prefer reST)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href="http://freemind.pluskid.org/technology/the-unbearable-madness-of-static-blog-generators"&gt;The Unbearable Madness of Static Blog Generators&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&#x4E0D;&#x8FC7; Markdown &#x7684;&#x8F6C;&#x4E49;&#x8BA9;&#x4EBA;&#x6293;&#x72C2;&lt;/p&gt;
-
-&lt;p&gt;pandoc &#x589E;&#x5F3A;&#x7684; Markdown &#x8BED;&#x6CD5; &lt;a href="http://johnmacfarlane.net/pandoc/demo/example9/pandocs-markdown.html"&gt;http://johnmacfarlane.net/pandoc/demo/example9/pandocs-markdown.html&lt;/a&gt; &lt;/p&gt;
-
-&lt;h3 id="toc_17"&gt;RSS &amp;amp; Sitemap&lt;/h3&gt;
-
-&lt;p&gt;RSS &#x548C; Sitemap &#x57FA;&#x672C;&#x4E0A;&#x662F;&#x6BCF;&#x4E2A;&#x535A;&#x5BA2;&#x90FD;&#x5FC5;&#x5907;&#x7684;&#x4E86;&#x3002;&#x65B0;&#x7248;&#x7684;ruhoh &#x5DF2;&#x7ECF;&#x5185;&#x7F6E; rss &#x751F;&#x6210;&#x63D2;&#x4EF6;&#xFF0C;&#x4F46;&#x662F;&#x8FD9;&#x4E2A;&#x63D2;&#x4EF6;&#x6709;&#x4E0D;&#x5C11;&#x95EE;&#x9898;&#xFF0C;&#x6211;&#x53C2;&#x8003;&#x4E86;wordpress &#x7684; rss &#x6539;&#x8FDB;&#x4E86;&#x4E00;&#x4E0B;&#xFF0C;&#x89C1; &lt;a href="https://gist.github.com/3736010"&gt;rss.rb&lt;/a&gt;&#xFF0C;rss&#x7684;&#x6807;&#x51C6;&#x6CA1;&#x6709;&#x8BE6;&#x7EC6;&#x4E86;&#x89E3;&#xFF0C;&#x5E0C;&#x671B;&#x5B9E;&#x73B0;&#x4E0D;&#x8981;&#x4E0D;&#x4F26;&#x4E0D;&#x7C7B;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;Sitemap &#x751F;&#x6210;&#x6211;&#x7528;&#x7684;&#x662F;&lt;a href="https://github.com/crhan"&gt;crchan&lt;/a&gt;&#x7684;&lt;a href="https://gist.github.com/3705998"&gt;Ruhoh Sitemap Generator&lt;/a&gt;&#xFF0C;&#x6839;&#x636E;wordpress&#x7684;Sitemap&#x505A;&#x4E86;&#x4E00;&#x4E9B;&#x505A;&#x4E86;&#x4E9B;&#x6539;&#x52A8;&#xFF1A;&lt;a href="https://gist.github.com/3736089"&gt;&#x6539;&#x52A8;&#x7248;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="toc_18"&gt;&#x642C;&#x5BB6;&lt;/h3&gt;
-
-&lt;p&gt;&#x6700;&#x540E;&#x8BF4;&#x8BF4;&#x642C;&#x5BB6;&#xFF0C;&#x4E8B;&#x5B9E;&#x8BC1;&#x660E;&#xFF0C;&#x60F3;&#x8981;&#x65E0;&#x75DB;&#x5730;&#x5C06; wordpress &#x7684;&#x6587;&#x7AE0;&#x8F6C;&#x6362;&#x5230; ruhoh &#x4E0A;&#x662F;&#x4EF6;&#x5341;&#x5206;&#x75DB;&#x82E6;&#x7684;&#x4E8B;&#x3002;&#x6298;&#x817E; ruhoh &#x6709;&#x4E0D;&#x5C11;&#x65F6;&#x95F4;&#x5C31;&#x662F;&#x5728;&#x6298;&#x817E;&#x8FD9;&#x4E2A;&#x8F6C;&#x6362;&#x811A;&#x672C;&#x3002;&#x4E0D;&#x8FC7;&#x73B0;&#x5728;&#x8FD9;&#x4E2A;&#x811A;&#x672C;&#x57FA;&#x672C;&#x4E0A;&#x53EF;&#x4EE5;&#x5B8C;&#x6210; 90% &#x7684;&#x8F6C;&#x6362;&#x5DE5;&#x4F5C;&#xFF0C;&#x5305;&#x62EC;&#x5C06;&#x6587;&#x7AE0;&#x8F6C;&#x6362;&#x4E3A; markdown &#x683C;&#x5F0F;&#xFF0C;&#x611F;&#x8C22; pandoc &#x3002;&#x4E0D;&#x8FC7;&#x8FD8;&#x662F;&#x505A;&#x4E86;&#x4E0D;&#x5C11; hack&#x3002;&#x6700;&#x6298;&#x817E;&#x4EBA;&#x7684;&#x5C31;&#x662F; codecolorer &#x8FD9;&#x8D27;&#xFF0C;&#x77ED;&#x6807;&#x7B7E;&#xFF0C;&#x957F;&#x6807;&#x7B7E;&#xFF0C;&#x5404;&#x79CD;&#x6DF7;&#x7528;&#xFF0C;&#x592A;&#x53EF;&#x6015;&#x4E86;&#xFF0C;&#x5DEE;&#x70B9;&#x60F3;&#x91CD;&#x65B0;&#x5B9E;&#x73B0;&#x5B83;&#x7684;&#x5F15;&#x64CE;&#xFF0C;&#x6700;&#x540E;&#x5F53;&#x7136;&#x8FD8;&#x662F;&#x653E;&#x5F03;&#xFF0C;&#x7528;&#x4EBA;&#x5DE5;&#x4FEE;&#x6539;&#x4E00;&#x4E9B;&#x4F8B;&#x5916;&#xFF0C;&#x50CF;&#x662F;&#x8FD9;&#x7BC7;&#x6587;&#x7AE0;&#xFF1A;&lt;a href="/2010/08/03/codecolorer-doc-cn"&gt;CodeColorer&#x4E2D;&#x6587;&#x5E2E;&#x52A9;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&#x811A;&#x672C;&#x7531;Jekyll &#x7684;wordpressdotcom &#x4FEE;&#x6539;&#x800C;&#x6765;&#xFF0C;&#x6839;&#x636E;&#x6211;&#x7684;&#x535A;&#x5BA2;&#x505A;&#x4E86;&#x5F88;&#x591A;&#x9488;&#x5BF9;&#x6027;&#x7684;hack&#xFF0C;&#x53EF;&#x80FD;&#x6CA1;&#x6709;&#x4EC0;&#x4E48;&#x9002;&#x7528;&#x6027;&#x3002;&#x811A;&#x672C;&#x53EF;&#x4EE5;&#x5728;&#x8FD9;&#x91CC;&#x627E;&#x5230;&#xFF1A; &lt;a href="https://gist.github.com/3415268"&gt;wp&lt;em&gt;to&lt;/em&gt;ruhoh&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="toc_19"&gt;&#x90E8;&#x7F72;&lt;/h3&gt;
-
-&lt;p&gt;webfaction &#x771F;&#x5FC3;&#x4E0D;&#x9519;&#x3002;&#x7ED9; git &#x52A0;&#x4E2A;&#x94A9;&#x5B50;&#xFF0C;&#x7528; post-receive &#x89E3;&#x51B3;&#x5168;&#x90E8;&#x95EE;&#x9898;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class="bash"&gt;#!/bin/bash
-
-HOME=/home/xxx
-LOG=$HOME/ruhoh.log
-BUILD_DIR=$HOME/tmp/
-SITE_DIR=$BUILD_DIR/compiled/
-DEPLOY_DIR=$HOME/deploy/
-source $HOME/.rvm/scripts/rvm
-date &amp;gt;&amp;gt;  $LOG 
-unset GIT_DIR
-cd $BUILD_DIR
-PATH=$HOME/douo-ruhoh/bin:$PATH  #use custom ruhoh to compile
-#echo $PATH &amp;gt;&amp;gt;  $LOG
-git pull  &amp;gt;&amp;gt;  $LOG
-which ruhoh &amp;gt;&amp;gt; $LOG
-ruhoh compile &amp;gt;&amp;gt; $LOG
-rsync -a --delete-after $SITE_DIR $DEPLOY_DIR &amp;gt;&amp;gt;  $LOG
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id="toc_20"&gt;&#x5176;&#x4ED6;&lt;/h3&gt;
-
-&lt;h4 id="toc_21"&gt;Mathjax&lt;/h4&gt;
-
-&lt;p&gt;Mathjax&#x7684;&#x4F7F;&#x7528;&#x975E;&#x5E38;&#x65B9;&#x4FBF;&#xFF0C;&#x76F4;&#x63A5;&#x5728;&#x9801;&#x9762;&#x5D4C;&#x5165;&#x8173;&#x672C;&#x5C31;&#x884C;&#xFF0C;&#x7136;&#x5F8C;&#x901A;&#x904E;&#x4E00;&#x500B; widgets &#x4F86;&#x8F09;&#x5165; mathjax &#x7684;&#x8173;&#x672C;&#x3002;&#x5C31;&#x53EF;&#x4EE5;&#x5C55;&#x793A;&#x516C;&#x5F0F;&#x4E86;&#x3002;&#x5173;&#x952E;&#x662F;&#x5982;&#x4F55;&#x5B9A;&#x4E49;&#x63D2;&#x5165;&#x516C;&#x5F0F;&#x7684;&#x8BED;&#x6CD5;&#xFF0C;&#x521A;&#x597D; plusjade &#x6269;&#x5C55;&#x4E00;&#x4E0B;&#x8F6C;&#x6362;&#x5668;&#x63D2;&#x4EF6;&#x5B9E;&#x73B0;&#x4E86;&#x8FD9;&#x4E2A;&#x8A9E;&#x6CD5;&#xFF1A;&lt;a href="https://gist.github.com/2699636"&gt;mathjax.rb&lt;/a&gt;&#x3002;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class="mathjax"&gt;e^{i\pi} + 1 = 0
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x6211;&#x8003;&#x8651;&#x662F;&#x5426;&#x8981;&#x4E3A;&#x9875;&#x9762;&#x52A0;&#x5165;&#x4E00;&#x4E2A;Mathjax&#x5F00;&#x5173;&#xFF0C;&#x56E0;&#x4E3A;&#x5927;&#x90E8;&#x5206;&#x535A;&#x6587;&#x90FD;&#x65E0;&#x9700;&#x7528;&#x5230;Mathjax&#x3002;
-&#x53E6;&#x5916;&#xFF0C;Mathjax &#x597D;&#x50CF;&#x4F1A;&#x4E0D;&#x5B9A;&#x65F6;&#x7684;&#x51FA;&#x73B0;&#x4E00;&#x4E9B;&#x5E03;&#x5C40;&#x9519;&#x4E71;&#x7684;&#x95EE;&#x9898;&#x3002;&lt;/p&gt;
-
-&lt;h4 id="toc_22"&gt;&#x81EA;&#x52A8;&#x5237;&#x65B0;&lt;/h4&gt;
-
-&lt;p&gt;&#x770B;&#x4E86; pluskid &#x7684;&lt;a href="http://freemind.pluskid.org/technology/the-unbearable-madness-of-static-blog-generators/"&gt;&#x6587;&#x7AE0;&lt;/a&gt;&#xFF0C;&#x6211;&#x4E5F;&#x8DDF;&#x7740;&#x5B9E;&#x73B0;&#x4E86;&#x4FDD;&#x5B58;&#x7684;&#x65F6;&#x5019;&#x81EA;&#x52A8;&#x5237;&#x65B0;&#x9875;&#x9762;&#x3002;&#x9700;&#x8981;&#x5B89;&#x88C5;&#x51E0;&#x4E2A;&#x4E1C;&#x897F;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/guard/guard"&gt;guard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/johnbintz/rack-livereload"&gt;rack-livereload&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/guard/guard-livereload"&gt;guard-livereload&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href="https://github.com/guard/guard"&gt;guard&lt;/a&gt;&#x662F;&#x4E00;&#x4E2A;&#x76D1;&#x542C;&#x6587;&#x4EF6;&#x7CFB;&#x7EDF;&#x53D8;&#x52A8;&#x7684;&#x5DE5;&#x5177;&#xFF0C;&lt;a href="https://github.com/johnbintz/rack-livereload"&gt;rack-livereload&lt;/a&gt; &#x5B9E;&#x73B0;&#x4E86;&#x81EA;&#x52A8;&#x5237;&#x65B0;&#x3002;&#x5B89;&#x88C5;&#x548C;&#x4F7F;&#x7528;&#x770B;&#x4E00;&#x4E0B;&#x5404;&#x81EA;&#x7684; readme &#x8FD8;&#x662F;&#x5F88;&#x5BB9;&#x6613;&#x660E;&#x767D;&#x7684;&#xFF0C;&#x4F46;&#x5177;&#x4F53;&#x600E;&#x4E48;&#x5DE5;&#x4F5C;&#x6211;&#x4E5F;&#x6CA1;&#x5F04;&#x6E05;&#x695A;&#xFF0C;&#x53CD;&#x6B63;&#x4E0D;&#x7528;&#x6539;&#x52A8;ruhoh&#x7684;&#x4E00;&#x4E2A;&#x4EE3;&#x7801;&#xFF0C;&#x5F88;&#x65B9;&#x4FBF;&#x3002;&#x4E0D;&#x8FC7;&#x6211;&#x5728; windows &#x4E0B;&#x5B89;&#x88C5; &lt;a href="https://github.com/guard/guard-livereload"&gt;guard-livereload&lt;/a&gt; &#x51FA;&#x4E86;&#x95EE;&#x9898;&#xFF0C;&#x539F;&#x56E0;&#x662F;EventMachine 0.12.10 &#x4E0D;&#x80FD;&#x5728;&#x8DD1;&#x7740; ruy 1.9.2+ &#x7684;windows&#x4E0A;&#x5DE5;&#x4F5C;&#x3002;&#x7528; pre-release &#x7684;&#x7248;&#x672C;&#x5C31;&#x53EF;&#x4EE5;&#x89E3;&#x51B3;&#x95EE;&#x9898;&#xFF0C;&#x8BA8;&#x8BBA;&#x5728;&lt;a href="http://stackoverflow.com/questions/6927907/ruby-problem-installing-eventmachine-under-windows-7#"&gt;stackoverflow&lt;/a&gt; &#x4E0A;&#x3002;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;gem install eventmachine --pre
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x4ECA;&#x5929;&#x53D1;&#x73B0; guard &#x8FD9;&#x8D27;&#x5728; win7 cygwin &#x4E0B;&#x8FDB;&#x7A0B;&#x5360;&#x7528;CPU 100%&#xFF0C;&#x4E0D;&#x77E5;&#x9053;&#x662F;&#x4EC0;&#x4E48;&#x60C5;&#x51B5;&#x3002;&lt;/p&gt;
-
-&lt;h4 id="toc_23"&gt;TODO&lt;/h4&gt;
-
-&lt;p&gt;&#x63A5;&#x4E0B;&#x6765;&#x5B8C;&#x5584;&#x7B14;&#x8BB0;&#x529F;&#x80FD;&#xFF0C;&#x6253;&#x9020;&#x51FA;&#x4E00;&#x4E2A;&#x77E5;&#x8BC6;&#x7BA1;&#x7406;&#x7CFB;&#x7EDF;&#xFF08;&#x7C7B;wiki&#xFF09;&#xFF0C;&#x8FD8;&#x6709;&#x65E5;&#x8BB0;&#xFF0C;&#x56E0;&#x4E3A;&#x8981;&#x4F5C;&#x4E3A;&#x65E5;&#x8BB0;&#x4F7F;&#x7528;&#xFF0C;&#x8FD8;&#x9700;&#x8981;&#x63D0;&#x4F9B;&#x7C7B;&#x4F3C; evernote &#x7684;&#x52A0;&#x5BC6;&#x65B9;&#x6848;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x597D;&#x591A;&#x5440;~ &#x597D;&#x56F0;&#x3002; &lt;/p&gt;
-
-&lt;h3 id="toc_24"&gt;ruhoh&lt;/h3&gt;
-
-&lt;p&gt;&#x8FD9;&#x91CC;&lt;del&gt;&#x4E5F;&#x8BB8;&lt;/del&gt;&#x4F1A;&#x6210;&#x4E3A;&#x6211;&#x7B2C;&#x4E00;&#x7BC7;ruhoh&#x7684;&#x535A;&#x5BA2;&#xFF0C;&#x5148;&#x7F57;&#x5217;&#x4E00;&#x4E0B;&#x5E38;&#x7528;&#x7684;&#x547D;&#x4EE4;&#x5427;&#x3002;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;rackup -p 9292  # &#x542F;&#x52A8; web &#x670D;&#x52A1;&#x5728; 9292 &#x7AEF;&#x53E3;
-ruhoh page about.md  #&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x9875;&#x9762;&#xFF0C;&#x652F;&#x6301;&#x5B50;&#x76EE;&#x5F55; 
-ruhoh post &amp;quot;The Greatest Post Ever&amp;quot; #&#x901A;&#x8FC7;&#x6807;&#x9898;&#x521B;&#x5EFA;&#x6587;&#x7AE0;&#xFF0C;&#x5C06;&#x4F1A;&#x751F;&#x6210; the-greatest-post-ever.md
-ruhoh draft #&#x5FEB;&#x901F;&#x5EFA;&#x7ACB;&#x4E00;&#x4E2A;&#x8349;&#x7A3F;&#xFF0C;&#x751F;&#x6210;untitled-draft-1.md 
-ruhoh titleize #&#x5FEB;&#x901F;&#x4E3A;&#x8349;&#x7A3F;&#x6587;&#x4EF6;&#x547D;&#x540D;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x540E;&#x53F0;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;http://localhost:9292/dash
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x65AD;&#x65AD;&#x7EED;&#x7EED;&#x7528;&#x4E86; ruhoh &#x5DF2;&#x4E0D;&#x6B62;&#x4E00;&#x4E2A;&#x6708;&#x4E86;&#xFF0C;&#x7528;&#x7684;&#x90FD;&#x662F;&#x4E9B;&#x788E;&#x7247;&#x65F6;&#x95F4;&#xFF0C;&#x6240;&#x4EE5;&#x8FDB;&#x5C55;&#x5E76;&#x6CA1;&#x6709;&#x591A;&#x5C11;&#xFF0C;&#x73B0;&#x5728;&#x57FA;&#x672C;&#x5B8C;&#x6210;&#x4F5C;&#x4E3A;&#x535A;&#x5BA2;&#x7684;&#x529F;&#x80FD;&#xFF0C;&#x4E5F;&#x6269;&#x5C55;&#x4E86; &lt;code&gt;note&lt;/code&gt; &#x548C; &lt;code&gt;diary&lt;/code&gt; &#x4E24;&#x4E2A;&#x65B0;&#x547D;&#x4EE4;&#xFF0C;&#x8FD8;&#x975E;&#x5E38;&#x521D;&#x6B65;&#xFF0C;&#x8981;&#x5B8C;&#x5584;&#x60F3;&#x5FC5;&#x5F97;&#x82B1;&#x4E0D;&#x5C11;&#x65F6;&#x95F4;&#x5427;&#xFF0C;&#x4F46;&#x662F;&#x6211;&#x89C9;&#x5F97;&#x7528;&#x9759;&#x6001;&#x7F51;&#x7AD9;&#x751F;&#x6210;&#x7CFB;&#x7EDF;&#x6765;&#x505A;&#x4E2A;&#x4EBA;&#x7684;&#x6587;&#x7AE0;&#x8F93;&#x51FA;&#x5E73;&#x53F0;&#x662F;&#x975E;&#x5E38;&#x503C;&#x5F97;&#x505A;&#x7684;&#x5C1D;&#x8BD5;&#x3002;&#x5F3A;&#x5927;&#x7684;&#x7248;&#x672C;&#x63A7;&#x5236;&#xFF1B;&#x6570;&#x636E;&#x5B89;&#x5168;&#xFF0C;&#x7EAF;&#x6587;&#x4EF6;&#xFF0C;&#x4F60;&#x53EF;&#x4EE5;&#x5907;&#x4EFD;&#x5230;&#x5404;&#x4E2A;&#x4E91;&#x5B58;&#x50A8;&#x5E73;&#x53F0;&#xFF0C;&#x5404;&#x4E2A;git&#x4ED3;&#x5E93;&#xFF1B;&#x65E0;&#x7F51;&#x7EDC;&#x7684;&#x65F6;&#x5019;&#x53EF;&#x4EE5;&#x79BB;&#x7EBF;&#x7F16;&#x8F91;&#x548C;&#x9884;&#x89C8;&#xFF1B;markdown &#x7684;&#x6613;&#x8BFB;&#x6027;&#xFF1B;&#x8FD8;&#x6709;&#x5341;&#x8DB3;&#x7684;&#x53EF;&#x64CD;&#x7EB5;&#x611F;&#xFF1B;&#x5F53;&#x7136;&#x8981;&#x4EAB;&#x53D7;&#x8FD9;&#x4E9B;&#x597D;&#x5904;&#x7684;&#x524D;&#x63D0;&#x5C31;&#x662F;&#x5F97;&#x6709;&#x4E00;&#x4E2A;&#x6298;&#x817E;&#x5F97;&#x8D77;&#x7684;&#x5FC3;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;ruhoh &#x6548;&#x7387;&#x95EE;&#x9898;&#x6682;&#x4E14;&#x4E0D;&#x63D0;&#xFF0C;&#x73B0;&#x5728;&#x5185;&#x5BB9;&#x4E0D;&#x591A;&#x4E5F;&#x611F;&#x89C9;&#x4E0D;&#x51FA;&#x6765;&#x3002;&#x90E8;&#x7F72;&#x5230;&#x865A;&#x62DF;&#x4E3B;&#x673A;&#x53EF;&#x80FD;&#x4F1A;&#x662F;&#x6BD4;&#x8F83;&#x9EBB;&#x70E6;&#x7684;&#x95EE;&#x9898;&#xFF0C;&#x4E0D;&#x8FC7;&#x6211;&#x73B0;&#x5728;&#x5728; webfaction &#x4E0A;&#x7528;&#x7740;&#x8FD8;&#x662F;&#x5F88;&#x8212;&#x670D;&#x7684;&#x3002;&#x53E6;&#x5916; plusjade &#x8FD8;&#x63D0;&#x4F9B;&#x514D;&#x8D39;&#x7684;&#x4E3B;&#x673A;&#x4F5C;&#x4E3A;&#x666E;&#x901A;&#x7684;&#x535A;&#x5BA2;&#x7528;&#x7EDD;&#x5BF9;&#x7EF0;&#x7EF0;&#x6709;&#x4F59;&#xFF0C;&#x5F53;&#x7136;&#x4E0D;&#x652F;&#x6301;&#x63D2;&#x4EF6;&#x3002;&#x53E6;&#x5916;&#x90E8;&#x7F72;&#x5230;&#x5176;&#x4ED6;&#x652F;&#x6301; ruby &#x4E91;&#x670D;&#x52A1;&#x5E73;&#x53F0;&#x4E0A;&#x5E94;&#x8BE5;&#x4E0D;&#x4F1A;&#x6709;&#x4EC0;&#x4E48;&#x95EE;&#x9898;&#xFF0C;&#x5982; Heroku&#x3002;&#x865A;&#x62DF;&#x4E3B;&#x673A;&#x7684;&#x8BDD;&#xFF0C;&#x6BCF;&#x6B21;&#x66F4;&#x65B0;&#x90FD;&#x8981;&#x91CD;&#x65B0;&#x7F16;&#x8BD1;&#x518D;&#x4E0A;&#x4F20;&#x6570;&#x636E;&#xFF0C;&#x60F3;&#x60F3;&#x5C31;&#x5BB3;&#x6015;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;ruhoh &#x7684;&#x6269;&#x5C55;&#x8BBE;&#x8BA1;&#x4E5F;&#x4E0D;&#x5B8C;&#x7F8E;&#xFF0C;&#x6216;&#x8005;&#x6211;&#x662F;&#x4E0D;&#x80FD;&#x660E;&#x767D;&#xFF0C;&#x5206;&#x4E3A; widgets&#xFF0C;themes &#x548C; plugins&#xFF0C;widgets &#x5B9A;&#x4E49;&#x4E00;&#x4E9B;&#x53EF;&#x590D;&#x7528;&#x7684;&#x9875;&#x9762;&#x4EE3;&#x7801;&#x5757;&#xFF0C;plugins &#x5219;&#x662F;&#x7CFB;&#x7EDF;&#x6269;&#x5C55;&#xFF0C;&#x901A;&#x8FC7;ruby&#x811A;&#x672C;&#x5B9E;&#x73B0;&#xFF0C;&#x6709;&#x70B9;&#x50CF;&#x52A8;&#x6001;&#x7F51;&#x7AD9;&#x7684;&#x540E;&#x53F0;&#x903B;&#x8F91;&#x90E8;&#x5206;&#x3002;&#x800C;&#x50CF;&#x8BC4;&#x8BBA;&#x6A21;&#x5757;&#x3001;google prettify &#x8FD9;&#x4E9B;&#x8F7D;&#x5165;js&#x5C31;&#x53EF;&#x4EE5;&#x89E3;&#x51B3;&#x7684;&#x529F;&#x80FD;&#xFF0C;&#x7528; widgets &#x548C; themes &#x5B9E;&#x73B0;&#x5C31;&#x5F88;&#x5B8C;&#x7F8E;&#xFF0C;&#x751F;&#x6210; rss&#x3001;sitemap &#x5219;&#x53EF;&#x4EE5;&#x7528;plugins &#x5355;&#x72EC;&#x5B9E;&#x73B0;&#x3002;&#x4F46;&#x662F;&#x5B9E;&#x9645;&#x7528;&#x8D77;&#x6765;&#x53D1;&#x89C9;&#x8FD9;&#x4E09;&#x8005;&#x4E4B;&#x95F4;&#x7684;&#x8026;&#x5408;&#x592A;&#x5927;&#x4E86;&#xFF0C;&#x6BD4;&#x5982;&#x672C;&#x535A;&#x7684; toc &#x548C; fancybox &#x529F;&#x80FD;&#x3002;&#x5C31;&#x5FC5;&#x987B;&#x7528; plugins &#x7684;&#x81EA;&#x5B9A;&#x4E49;&#x8F6C;&#x6362;&#x5668;&#xFF0C;&#x6765;&#x6539;&#x52A8; redcarpet &#x751F;&#x6210;&#x7684;&#x76EE;&#x6807;&#x4EE3;&#x7801;&#x3002;&#x7136;&#x540E;&#x53C8;&#x5F97;&#x628A;&#x90A3;&#x4E9B;&#x7279;&#x5B9A;&#x7684; js &#x6587;&#x4EF6;&#x3001;html &#x4EE3;&#x7801;&#x5757;&#x653E;&#x5230; widgets &#x91CC;&#x9762;&#xFF0C;widgets &#x548C; plugins &#x7D27;&#x7D27;&#x7684;&#x8054;&#x7CFB;&#x5728;&#x4E00;&#x8D77;&#xFF0C;&#x8FD9;&#x6837;&#x8981;&#x5B9E;&#x73B0;&#x4E00;&#x4E2A;&#x529F;&#x80FD;&#x5FC5;&#x987B;&#x5F97;&#x540C;&#x65F6;&#x4F7F;&#x7528; plugins &#x548C; widgets &#xFF0C;&#x8FD9;&#x6837;&#x8FD8;&#x4E0D;&#x5982;&#x628A;&#x524D;&#x7AEF;&#x4EE3;&#x7801;&#x76F4;&#x63A5;&#x653E;&#x5230; themes &#x91CC;&#x6765;&#x7684;&#x6E05;&#x6670;&#x3002;&#x5F53;&#x7136;&#x5566;&#xFF0C;&#x50CF; toc &#x5B8C;&#x5168;&#x524D;&#x7AEF;&#x5B9E;&#x73B0;&#x4E5F;&#x662F;&#x53EF;&#x4EE5;&#x7684;&#xFF0C;&#x89C1;&#xFF1A;&lt;a href="http://brizzled.clapper.org/blog/2012/02/04/generating-a-table-of-contents-in-octopress/"&gt;Generating a Table of Contents in Octopress&lt;/a&gt;&#x3002;&lt;/p&gt;
-
-&lt;h3 id="toc_25"&gt;&#x8BC4;&#x8BBA;&lt;/h3&gt;
-
-&lt;p&gt;&#x9759;&#x6001;&#x535A;&#x5BA2;&#x7684;&#x8BC4;&#x8BBA;&#x7CFB;&#x7EDF;&#x53EA;&#x80FD;&#x901A;&#x8FC7;&#x7B2C;&#x4E09;&#x65B9;&#x8BC4;&#x8BBA;&#x7CFB;&#x7EDF;&#x6765;&#x5B9E;&#x73B0;&#xFF0C;ruhoh &#x662F;&#x7528; widgets &#x6765;&#x5D4C;&#x5165;&#x7B2C;&#x4E09;&#x65B9;&#x8BC4;&#x8BBA;&#x3002;&#x5167;&#x7F6E;&#x652F;&#x6301;disqus&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x6211;&#x7684;&#x76EE;&#x7684;&#x662F;&#x5BE6;&#x73FE;&#xFF0C;ruhoh &#x548C;  wordpress &#x7684;&#x76F8;&#x540C;&#x7BC7;&#x6587;&#x7AE0;&#x5171;&#x7528;&#x4E00;&#x500B;&#x8A55;&#x8AD6;&#xFF0C;disqus &#x63D0;&#x4F9B;&#x4E86;&#x9019;&#x7A2E;&#x53EF;&#x80FD;&#x6027; &lt;a href="http://help.disqus.com/customer/portal/articles/662547-why-are-the-same-comments-showing-up-on-multiple-pages-"&gt;Why are the same comments showing up on multiple pages?&lt;/a&gt;&#x3002;wordpress &#x7684; disqus &#x63D2;&#x4EF6;&#x4F7F;&#x7528;&#x4E86; &#x6587;&#x7AE0;&#x7684; post&lt;em&gt;id &#x548C; guid&#x4F5C;&#x7232; disqus\&lt;/em&gt;identifier &#xFF0C;&#x6A21;&#x5F0F;&#x5982;&#x4E0B;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;post_id + &amp;#39; &amp;#39; + guid
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x6240;&#x4EE5;&#x5728; &lt;a href="https://gist.github.com/3415268"&gt;wp&lt;em&gt;to&lt;/em&gt;ruhoh&lt;/a&gt; &#x91CC;&#xFF0C;&#x6211;&#x5C31;&#x9019;&#x5169;&#x500B;&#x5C6C;&#x6027;&#x4E5F;&#x4FDD;&#x7559;&#x4E0B;&#x4F86;&#x3002;&#x4F46;&#x662F; ruhoh &#x7684; widget &#x4E0D;&#x80FD;&#x8A2A;&#x554F; page &#x7684;&#x6578;&#x64DA;&#xFF08;&#x542D;&#x7239;&#x5440;&#xFF09;&#xFF0C;&#x898B; &lt;a href="https://github.com/ruhoh/ruhoh.rb/issues/52"&gt;issue52&lt;/a&gt;&#x3002;&#x6240;&#x4EE5;&#x53EA;&#x80FD;&#x628A;&#x4EE3;&#x78BC;&#x653E;&#x5230; theme &#x7684; layout &#x91CC;&#x3002;&#x5982;&#x4E0B;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;div id=&amp;quot;disqus_thread&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
-        &amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt;
-            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO
-        YOUR WEBPAGE * * */
-            var disqus_title = &amp;#39;{{page.title}}&amp;#39;;
-            var disqus_identifier =&amp;#39;{{page.postid}} {{page.guid}}&amp;#39;;
-            var disqus_shortname = &amp;#39;doousblog&amp;#39;; // required: replace example with your forum shortname
-
-            /* * * DON&amp;#39;T EDIT BELOW THIS LINE * * */
-            (function() {
-                var dsq = document.createElement(&amp;#39;script&amp;#39;); dsq.type = &amp;#39;text/javascript&amp;#39;; dsq.async = true;
-                dsq.src = &amp;#39;http://&amp;#39; + disqus_shortname + &amp;#39;.disqus.com/embed.js&amp;#39;;
-                (document.getElementsByTagName(&amp;#39;head&amp;#39;)[0] || document.getElementsByTagName(&amp;#39;body&amp;#39;)[0]).appendChild(dsq);
-            })();
-        &amp;lt;/script&amp;gt;
-        &amp;lt;noscript&amp;gt;Please enable JavaScript to view the &amp;lt;a href=&amp;quot;http://disqus.com/?ref_noscript&amp;quot;&amp;gt;comments powered by Disqus.&amp;lt;/a&amp;gt;&amp;lt;/noscript&amp;gt;
-        &amp;lt;a href=&amp;quot;http://disqus.com&amp;quot; class=&amp;quot;dsq-brlink&amp;quot;&amp;gt;comments
-            powered by &amp;lt;span class=&amp;quot;logo-disqus&amp;quot;&amp;gt;Disqus&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x53E6;&#x5916;&#xFF0C;&#x5BF9;&#x4E8E; ruhoh &#x7684; post &#xFF0C;&#x5982;&#x679C;&#x4E0D;&#x60F3;&#x4EE5;&#x540E;&#x6362;&#x4E2A;&#x6807;&#x9898;&#xFF0C;&#x6216;&#x8005;&#x6362;&#x4E2A;&#x57DF;&#x540D;&#xFF0C;&#x90FD;&#x8981;&#x91CD;&#x65B0;&#x6574;&#x5408;&#x8BC4;&#x8BBA;&#xFF0C;&#x6700;&#x597D;&#x6BCF;&#x7BC7;&#x6587;&#x7AE0;&#x63D0;&#x4F9B;&#x4E00;&#x4E2A; unique id &#x4F5C;&#x4E3A; disque_indentifier &#x4F7F;&#x7528;&#x3002;post &#x5DF2;&#x7ECF;&#x6709; id &#x5C5E;&#x6027;&#x4E86;&#xFF0C;&#x7528;&#x7684;&#x662F;&#x76F8;&#x5BF9;&#x7684;&#x6587;&#x4EF6;&#x8DEF;&#x5F84;&#x3002;&lt;/p&gt;
-
-&lt;h3 id="toc_26"&gt;&#x4E3B;&#x9898;&lt;/h3&gt;
-
-&lt;p&gt;&#x5173;&#x4E8E;&#x4E3B;&#x9898;&#xFF0C;&#x6298;&#x9A30;&#x4E86;&#x5E7E;&#x4E0B;&#xFF0C;&#x611F;&#x89BA;&#x76EE;&#x524D;&#x6211;&#x5F04;&#x7684;&#x9019;&#x500B;&#x4E3B;&#x984C;&#xFF0C;&#x4E26;&#x4E0D;&#x80FD;&#x767C;&#x63EE;bootstrap&#x4F5C;&#x7232;&#x811A;&#x624B;&#x67B6;&#x7684;&#x80FD;&#x529B;&#xFF0C;&#x7528;&#x5B83;&#x7684;&#x6805;&#x683C;&#x7CFB;&#x7EDF;&#x603B;&#x662F;&#x4E0D;&#x80FD;&#x628A;&#x8FB9;&#x680F;&#x8BBE;&#x8BA1;&#x5730;&#x8BA9;&#x4EBA;&#x6EE1;&#x610F;&#x3002;&#x4E0D;&#x904E;&#x54CD;&#x5E94;&#x5F0F;&#x5E03;&#x5C40;&#xFF08;responsive&#xFF09;&#x9019;&#x500B;&#x7279;&#x6027;&#x5BE6;&#x5728;&#x592A;&#x5F37;&#x4E86;&#xFF0C;&#x57FA;&#x672C;&#x53EF;&#x4EE5;&#x4FDD;&#x8B49;&#x5728;&#x4E0D;&#x540C;&#x5206;&#x8FA8;&#x7387;&#x7684;&#x8A2D;&#x5099;&#x4E0A;&#x90FD;&#x53EF;&#x4EE5;&#x4FDD;&#x6301;&#x6BD4;&#x8F03;&#x597D;&#x7684;&#x95B1;&#x8B80;&#x9AD4;&#x9A57;&#xFF0C;&#x4E0D;&#x8FC7;&#x6211;&#x5206;&#x522B;&#x5B9E;&#x73B0;&#x4E86;&#x4E24;&#x4E2A;&#x5BFC;&#x822A;&#x680F;&#x5BF9;&#x5E94;&#x79FB;&#x52A8;&#x8BBE;&#x5907;&#x548C;pc&#xFF0C;&#x4ECE;&#x8BED;&#x4E49;&#x4E0A;&#x8BB2;&#x8FD9;&#x4E2A;&#x505A;&#x6CD5;&#x975E;&#x5E38;&#x7CDF;&#x7CD5;&#x3002;&#x4E0D;&#x904E;&#x55AE;&#x55AE;&#x7528; bootstrap &#x7684;&#x90A3;&#x4E9B;&#x5C0F;&#x5DE5;&#x5177;&#x4E5F;&#x975E;&#x5E38;&#x503C;&#x5F97;&#xFF0C;bootstrap &#x7684;&#x8A2D;&#x8A08;&#x771F;&#x7684;&#x5F88;&#x6F02;&#x4EAE;&#xFF0C;&#x50CF;&#x6211;&#x9019;&#x7A2E;&#x6C92;&#x6709;&#x524D;&#x7AEF;&#x7D93;&#x9A57;&#x7684;&#x78BC;&#x8FB2;&#xFF0C;&#x4E5F;&#x53EF;&#x4EE5;&#x7528;&#x7684;&#x5F88;&#x8212;&#x670D;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x7279;&#x522B;&#x9057;&#x61BE;&#x7684;&#x5C31;&#x662F;&#x4E3B;&#x984C;&#x5DE6;&#x908A;&#x90A3;&#x500B;&#x56FA;&#x5B9A;&#x7684;&#x5C0E;&#x822A;&#x6B04;&#x4E0D;&#x80FD;&#x5229;&#x7528;&#x5230;bootstrap&#x7684;&#x6805;&#x683C;&#x7CFB;&#x7EDF;&#xFF0C;&#x53EA;&#x80FD;&#x7528;&#x539F;&#x4F86;&#x90A3;&#x7A2E;&#x65B9;&#x6CD5;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x4E3B;&#x9898;&#x7684;&#x8BBE;&#x8BA1;&#x5077;&#x7740;&#x4E0B;&#x9762;&#x7684;&#x8FD9;&#x4E9B;&#x7F51;&#x7AD9;&#xFF0C;&#x8BF4;&#x597D;&#x542C;&#x5C31;&#x662F;&#x53C2;&#x8003;&#x4E86;-_-&#xFF0C;&#x80AF;&#x5B9A;&#x4E0D;&#x6B62;&#x8FD9;&#x4E9B;&#x7684;&#x53EA;&#x662F;&#x6211;&#x786E;&#x5B9E;&#x60F3;&#x4E0D;&#x8D77;&#x6765;&#x4E86;&#x3002;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.sitepoint.com/pure-css3-paper-curl/"&gt;http://www.sitepoint.com/pure-css3-paper-curl/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://yihui.name/cn/"&gt;http://yihui.name/cn/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://freemind.pluskid.org"&gt;http://freemind.pluskid.org&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&#x76F8;&#x6BD4; wordpress &#x90A3;&#x672A;&#x5B8C;&#x6210;&#x7684;&#x4E3B;&#x9898;&#xFF0C;&#x4E3B;&#x989C;&#x8272;&#x6362;&#x6210;&#x84DD;&#x8272;&#xFF0C;&#x53BB;&#x6389;&#x4E86;&#x5706;&#x89D2;&#xFF0C;&#x80CC;&#x666F;&#x591A;&#x4E86;&#x4E9B;&#x9634;&#x5F71;&#x3002;&#x611F;&#x89C9;&#x8FD8;&#x4E0D;&#x9519;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x53E6;&#x5916;&#x8FD8;&#x7528;&#x4E86;&#x4E0B;&#x9762;&#x8FD9;&#x4E9B;&#x5DE5;&#x5177;&#xFF0C;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://dublue.com/plugins/toc/"&gt;http://dublue.com/plugins/toc/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.appelsiini.net/projects/lazyload"&gt;http://www.appelsiini.net/projects/lazyload&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://fancyapps.com/fancybox/"&gt;http://fancyapps.com/fancybox/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://ajaxload.info/"&gt;http://ajaxload.info/&lt;/a&gt; &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&#x4E5F;&#x6CA1;&#x529E;&#x6CD5;&#x4E00;&#x4E00;&#x5217;&#x4E3E;&#x4E86;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x8FD9;&#x4E2A; ruhoh &#x4E3B;&#x9898;&#x53EF;&#x4EE5;&#x5728;&#x8FD9;&#x91CC;&#x627E;&#x5230;&#xFF1A; &lt;a href="https://github.com/douo/douo.ruhoh.com/tree/master/themes/moon"&gt;Moon&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="toc_27"&gt;mustache&lt;/h3&gt;
-
-&lt;p&gt;&#x4E00;&#x4E2A;Logic Less&#xFF08;&#x4E0D;&#x77E5;&#x9053;&#x600E;&#x4E48;&#x7FFB;&#x8BD1;&#xFF0C;&#x76EE;&#x7684;&#x5927;&#x6982;&#x662F;&#x628A;&#x903B;&#x8F91;&#x8FD8;&#x7ED9;&#x4EE3;&#x7801;&#xFF0C;&#x8BA9;&#x6A21;&#x677F;&#x4FDD;&#x6301;&#x7B80;
-&#x6D01;&#x3002;&#x89C1;&lt;a href="http://stackoverflow.com/questions/3896730/whats-the-advantage-of-logic-less-template-such-as-mustache"&gt;stackoverflow&lt;/a&gt;&#xFF09;&#x7684;&#x6A21;&#x677F;&#x8BED;&#x8A00;&#xFF0C;&#x6240;&#x4EE5;&#x540C;&#x6837;&#x4EE5;&#x8BED;&#x8A00;&#x65E0;&#x5173;&#x4E3A;&#x76EE;&#x6807;&#x7684; ruhoh
-&#x91C7;&#x7528;&#x4E86;&#x5B83;&#x4F5C;&#x4E3A;&#x6A21;&#x677F;&#x8BED;&#x8A00;&#x3002;&#x53C2;&#x8003;&#x5B83;&#x7684; &lt;a href="http://mustache.github.com/#demo"&gt;demo&lt;/a&gt; &#x53EF;&#x4EE5;&#x5927;&#x81F4;&#x4E86;&#x89E3;&#x5B83;&#x7684;&#x7279;&#x6027;&#xFF0C;&#x4E5F;&#x53EF;&#x4EE5;&#x53C2;
-&#x8003;&#x4E00;&#x4E0B;&lt;a href="/notes/coding/mustache"&gt;&#x6211;&#x7684;&#x7B14;&#x8BB0;&lt;/a&gt;&#x3002;&lt;/p&gt;
-
-&lt;h3 id="toc_28"&gt;Markdown&lt;/h3&gt;
-
-&lt;p&gt;&#x7528;&#x4E86;&#x4E00;&#x6BB5;&#x6642;&#x9593;&#x7684; Markdown &#xFF0C;&#x767C;&#x73FE; Markdown &#x4E3B;&#x8981;&#x7684;&#x7F3A;&#x9677;&#x5C31;&#x662F;&#x592A;&#x7C21;&#x55AE;&#x4E86;&#xFF0C;&#x512A;&#x9EDE;&#x4E5F;&#x662F;&#x592A;&#x7C21;&#x55AE;&#x4E86;&#xFF0C;&#x771F;&#x662F;&#x77DB;&#x76FE;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x6298;&#x817E;&#x4E00;&#x4E2A;&#x4E3B;&#x9898;&#x57FA;&#x672C;&#x4E0A;&#x4E0D;&#x80FD;&#x56DE;&#x907F;&#x5BF9;  markdown &#x7684;&#x8F6C;&#x6362;&#x5668;&#x505A;&#x4E00;&#x4E9B;&#x6539;&#x52A8;&#x3002;&#x5E78;&#x597D; redcarpet &#x6269;&#x5C55;&#x8D77;&#x6765;&#x5341;&#x5206;&#x65B9;&#x4FBF;&#x3002;&#x4E0D;&#x8FC7;&#x8FD9;&#x6837;&#x5C31;&#x727A;&#x7272;&#x9ED8;&#x8BA4;&#x7528;&#x5E95;&#x5C42;&#x8BED;&#x8A00;&#x5B9E;&#x73B0;&#x7684;&#x8F6C;&#x6362;&#x5668;&#x7684;&#x6548;&#x7387;&#x3002;&#x53E6;&#x5916;&#x4E07;&#x4E0D;&#x5F97;&#x5DF2;&#x7684;&#x65F6;&#x5019;&#x51B3;&#x4E0D;&#x5BF9; Markdown &#x7684;&#x8BED;&#x6CD5;&#x8FDB;&#x884C;&#x6269;&#x5C55;&#xFF0C;&#x4F18;&#x5148;&#x7528;&#x4E00;&#x4E9B;&#x73B0;&#x6210;&#x7684;&#x6269;&#x5C55;&#x7248;&#x672C;&#xFF0C;&#x5E78;&#x597D;&#x73B0;&#x5728;&#x8FD8;&#x4E0D;&#x9700;&#x8981;&#x5230;&#x8FD9;&#x4E00;&#x6B65;&#x3002;&#x4E4B;&#x524D;&#x8003;&#x8651;&#x8FC7;&#x6362;&#x4E00;&#x4E9B;&#x66F4;&#x5F3A;&#x5927;&#x7684;&#x6807;&#x8BB0;&#x8BED;&#x8A00;&#xFF0C;&#x4E0D;&#x8FC7;&#x73B0;&#x5728;&#x770B;&#x8D77;&#x6765;&#x8FD8;&#x6CA1;&#x8FD9;&#x4E2A;&#x5FC5;&#x8981;&#x653E;&#x68C4; Markdown &#xFF0C;Markdown &#x5F88;&#x7C21;&#x6F54;&#x5F88;&#x6F02;&#x4EAE;&#xFF0C;&#x800C;&#x4E14;&#x90A3;&#x4E9B;&#x7B80;&#x5316;&#x4E5F;&#x662F;&#x6709;&#x5B83;&#x7684;&#x9053;&#x7406;&#x7684;&#xFF0C;&#x89C9;&#x5F97;&#x4E0D;&#x723D;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x8FD8;&#x662F;&#x5148;&#x575A;&#x6301;&#x4E00;&#x4E0B;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x8FD9;&#x91CC;&#x6709;&#x5176;&#x4ED6;&#x540C;&#x5B66;&#x5C0D;Markdown&#x7684;&#x6279;&#x8A55;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt; &lt;a href="http://blog.liancheng.info//why-i-hate-markdown"&gt;Why I hate Markdown (and prefer reST)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href="http://freemind.pluskid.org/technology/the-unbearable-madness-of-static-blog-generators"&gt;The Unbearable Madness of Static Blog Generators&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&#x4E0D;&#x8FC7; Markdown &#x7684;&#x8F6C;&#x4E49;&#x8BA9;&#x4EBA;&#x6293;&#x72C2;&lt;/p&gt;
-
-&lt;p&gt;pandoc &#x589E;&#x5F3A;&#x7684; Markdown &#x8BED;&#x6CD5; &lt;a href="http://johnmacfarlane.net/pandoc/demo/example9/pandocs-markdown.html"&gt;http://johnmacfarlane.net/pandoc/demo/example9/pandocs-markdown.html&lt;/a&gt; &lt;/p&gt;
-
-&lt;h3 id="toc_29"&gt;RSS &amp;amp; Sitemap&lt;/h3&gt;
-
-&lt;p&gt;RSS &#x548C; Sitemap &#x57FA;&#x672C;&#x4E0A;&#x662F;&#x6BCF;&#x4E2A;&#x535A;&#x5BA2;&#x90FD;&#x5FC5;&#x5907;&#x7684;&#x4E86;&#x3002;&#x65B0;&#x7248;&#x7684;ruhoh &#x5DF2;&#x7ECF;&#x5185;&#x7F6E; rss &#x751F;&#x6210;&#x63D2;&#x4EF6;&#xFF0C;&#x4F46;&#x662F;&#x8FD9;&#x4E2A;&#x63D2;&#x4EF6;&#x6709;&#x4E0D;&#x5C11;&#x95EE;&#x9898;&#xFF0C;&#x6211;&#x53C2;&#x8003;&#x4E86;wordpress &#x7684; rss &#x6539;&#x8FDB;&#x4E86;&#x4E00;&#x4E0B;&#xFF0C;&#x89C1; &lt;a href="https://gist.github.com/3736010"&gt;rss.rb&lt;/a&gt;&#xFF0C;rss&#x7684;&#x6807;&#x51C6;&#x6CA1;&#x6709;&#x8BE6;&#x7EC6;&#x4E86;&#x89E3;&#xFF0C;&#x5E0C;&#x671B;&#x5B9E;&#x73B0;&#x4E0D;&#x8981;&#x4E0D;&#x4F26;&#x4E0D;&#x7C7B;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;Sitemap &#x751F;&#x6210;&#x6211;&#x7528;&#x7684;&#x662F;&lt;a href="https://github.com/crhan"&gt;crchan&lt;/a&gt;&#x7684;&lt;a href="https://gist.github.com/3705998"&gt;Ruhoh Sitemap Generator&lt;/a&gt;&#xFF0C;&#x6839;&#x636E;wordpress&#x7684;Sitemap&#x505A;&#x4E86;&#x4E00;&#x4E9B;&#x505A;&#x4E86;&#x4E9B;&#x6539;&#x52A8;&#xFF1A;&lt;a href="https://gist.github.com/3736089"&gt;&#x6539;&#x52A8;&#x7248;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="toc_30"&gt;&#x642C;&#x5BB6;&lt;/h3&gt;
-
-&lt;p&gt;&#x6700;&#x540E;&#x8BF4;&#x8BF4;&#x642C;&#x5BB6;&#xFF0C;&#x4E8B;&#x5B9E;&#x8BC1;&#x660E;&#xFF0C;&#x60F3;&#x8981;&#x65E0;&#x75DB;&#x5730;&#x5C06; wordpress &#x7684;&#x6587;&#x7AE0;&#x8F6C;&#x6362;&#x5230; ruhoh &#x4E0A;&#x662F;&#x4EF6;&#x5341;&#x5206;&#x75DB;&#x82E6;&#x7684;&#x4E8B;&#x3002;&#x6298;&#x817E; ruhoh &#x6709;&#x4E0D;&#x5C11;&#x65F6;&#x95F4;&#x5C31;&#x662F;&#x5728;&#x6298;&#x817E;&#x8FD9;&#x4E2A;&#x8F6C;&#x6362;&#x811A;&#x672C;&#x3002;&#x4E0D;&#x8FC7;&#x73B0;&#x5728;&#x8FD9;&#x4E2A;&#x811A;&#x672C;&#x57FA;&#x672C;&#x4E0A;&#x53EF;&#x4EE5;&#x5B8C;&#x6210; 90% &#x7684;&#x8F6C;&#x6362;&#x5DE5;&#x4F5C;&#xFF0C;&#x5305;&#x62EC;&#x5C06;&#x6587;&#x7AE0;&#x8F6C;&#x6362;&#x4E3A; markdown &#x683C;&#x5F0F;&#xFF0C;&#x611F;&#x8C22; pandoc &#x3002;&#x4E0D;&#x8FC7;&#x8FD8;&#x662F;&#x505A;&#x4E86;&#x4E0D;&#x5C11; hack&#x3002;&#x6700;&#x6298;&#x817E;&#x4EBA;&#x7684;&#x5C31;&#x662F; codecolorer &#x8FD9;&#x8D27;&#xFF0C;&#x77ED;&#x6807;&#x7B7E;&#xFF0C;&#x957F;&#x6807;&#x7B7E;&#xFF0C;&#x5404;&#x79CD;&#x6DF7;&#x7528;&#xFF0C;&#x592A;&#x53EF;&#x6015;&#x4E86;&#xFF0C;&#x5DEE;&#x70B9;&#x60F3;&#x91CD;&#x65B0;&#x5B9E;&#x73B0;&#x5B83;&#x7684;&#x5F15;&#x64CE;&#xFF0C;&#x6700;&#x540E;&#x5F53;&#x7136;&#x8FD8;&#x662F;&#x653E;&#x5F03;&#xFF0C;&#x7528;&#x4EBA;&#x5DE5;&#x4FEE;&#x6539;&#x4E00;&#x4E9B;&#x4F8B;&#x5916;&#xFF0C;&#x50CF;&#x662F;&#x8FD9;&#x7BC7;&#x6587;&#x7AE0;&#xFF1A;&lt;a href="/2010/08/03/codecolorer-doc-cn"&gt;CodeColorer&#x4E2D;&#x6587;&#x5E2E;&#x52A9;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&#x811A;&#x672C;&#x7531;Jekyll &#x7684;wordpressdotcom &#x4FEE;&#x6539;&#x800C;&#x6765;&#xFF0C;&#x6839;&#x636E;&#x6211;&#x7684;&#x535A;&#x5BA2;&#x505A;&#x4E86;&#x5F88;&#x591A;&#x9488;&#x5BF9;&#x6027;&#x7684;hack&#xFF0C;&#x53EF;&#x80FD;&#x6CA1;&#x6709;&#x4EC0;&#x4E48;&#x9002;&#x7528;&#x6027;&#x3002;&#x811A;&#x672C;&#x53EF;&#x4EE5;&#x5728;&#x8FD9;&#x91CC;&#x627E;&#x5230;&#xFF1A; &lt;a href="https://gist.github.com/3415268"&gt;wp&lt;em&gt;to&lt;/em&gt;ruhoh&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="toc_31"&gt;&#x90E8;&#x7F72;&lt;/h3&gt;
-
-&lt;p&gt;webfaction &#x771F;&#x5FC3;&#x4E0D;&#x9519;&#x3002;&#x7ED9; git &#x52A0;&#x4E2A;&#x94A9;&#x5B50;&#xFF0C;&#x7528; post-receive &#x89E3;&#x51B3;&#x5168;&#x90E8;&#x95EE;&#x9898;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class="bash"&gt;#!/bin/bash
-
-HOME=/home/xxx
-LOG=$HOME/ruhoh.log
-BUILD_DIR=$HOME/tmp/
-SITE_DIR=$BUILD_DIR/compiled/
-DEPLOY_DIR=$HOME/deploy/
-source $HOME/.rvm/scripts/rvm
-date &amp;gt;&amp;gt;  $LOG 
-unset GIT_DIR
-cd $BUILD_DIR
-PATH=$HOME/douo-ruhoh/bin:$PATH  #use custom ruhoh to compile
-#echo $PATH &amp;gt;&amp;gt;  $LOG
-git pull  &amp;gt;&amp;gt;  $LOG
-which ruhoh &amp;gt;&amp;gt; $LOG
-ruhoh compile &amp;gt;&amp;gt; $LOG
-rsync -a --delete-after $SITE_DIR $DEPLOY_DIR &amp;gt;&amp;gt;  $LOG
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id="toc_32"&gt;&#x5176;&#x4ED6;&lt;/h3&gt;
-
-&lt;h4 id="toc_33"&gt;Mathjax&lt;/h4&gt;
-
-&lt;p&gt;Mathjax&#x7684;&#x4F7F;&#x7528;&#x975E;&#x5E38;&#x65B9;&#x4FBF;&#xFF0C;&#x76F4;&#x63A5;&#x5728;&#x9801;&#x9762;&#x5D4C;&#x5165;&#x8173;&#x672C;&#x5C31;&#x884C;&#xFF0C;&#x7136;&#x5F8C;&#x901A;&#x904E;&#x4E00;&#x500B; widgets &#x4F86;&#x8F09;&#x5165; mathjax &#x7684;&#x8173;&#x672C;&#x3002;&#x5C31;&#x53EF;&#x4EE5;&#x5C55;&#x793A;&#x516C;&#x5F0F;&#x4E86;&#x3002;&#x5173;&#x952E;&#x662F;&#x5982;&#x4F55;&#x5B9A;&#x4E49;&#x63D2;&#x5165;&#x516C;&#x5F0F;&#x7684;&#x8BED;&#x6CD5;&#xFF0C;&#x521A;&#x597D; plusjade &#x6269;&#x5C55;&#x4E00;&#x4E0B;&#x8F6C;&#x6362;&#x5668;&#x63D2;&#x4EF6;&#x5B9E;&#x73B0;&#x4E86;&#x8FD9;&#x4E2A;&#x8A9E;&#x6CD5;&#xFF1A;&lt;a href="https://gist.github.com/2699636"&gt;mathjax.rb&lt;/a&gt;&#x3002;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class="mathjax"&gt;e^{i\pi} + 1 = 0
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x6211;&#x8003;&#x8651;&#x662F;&#x5426;&#x8981;&#x4E3A;&#x9875;&#x9762;&#x52A0;&#x5165;&#x4E00;&#x4E2A;Mathjax&#x5F00;&#x5173;&#xFF0C;&#x56E0;&#x4E3A;&#x5927;&#x90E8;&#x5206;&#x535A;&#x6587;&#x90FD;&#x65E0;&#x9700;&#x7528;&#x5230;Mathjax&#x3002;
-&#x53E6;&#x5916;&#xFF0C;Mathjax &#x597D;&#x50CF;&#x4F1A;&#x4E0D;&#x5B9A;&#x65F6;&#x7684;&#x51FA;&#x73B0;&#x4E00;&#x4E9B;&#x5E03;&#x5C40;&#x9519;&#x4E71;&#x7684;&#x95EE;&#x9898;&#x3002;&lt;/p&gt;
-
-&lt;h4 id="toc_34"&gt;&#x81EA;&#x52A8;&#x5237;&#x65B0;&lt;/h4&gt;
-
-&lt;p&gt;&#x770B;&#x4E86; pluskid &#x7684;&lt;a href="http://freemind.pluskid.org/technology/the-unbearable-madness-of-static-blog-generators/"&gt;&#x6587;&#x7AE0;&lt;/a&gt;&#xFF0C;&#x6211;&#x4E5F;&#x8DDF;&#x7740;&#x5B9E;&#x73B0;&#x4E86;&#x4FDD;&#x5B58;&#x7684;&#x65F6;&#x5019;&#x81EA;&#x52A8;&#x5237;&#x65B0;&#x9875;&#x9762;&#x3002;&#x9700;&#x8981;&#x5B89;&#x88C5;&#x51E0;&#x4E2A;&#x4E1C;&#x897F;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/guard/guard"&gt;guard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/johnbintz/rack-livereload"&gt;rack-livereload&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/guard/guard-livereload"&gt;guard-livereload&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href="https://github.com/guard/guard"&gt;guard&lt;/a&gt;&#x662F;&#x4E00;&#x4E2A;&#x76D1;&#x542C;&#x6587;&#x4EF6;&#x7CFB;&#x7EDF;&#x53D8;&#x52A8;&#x7684;&#x5DE5;&#x5177;&#xFF0C;&lt;a href="https://github.com/johnbintz/rack-livereload"&gt;rack-livereload&lt;/a&gt; &#x5B9E;&#x73B0;&#x4E86;&#x81EA;&#x52A8;&#x5237;&#x65B0;&#x3002;&#x5B89;&#x88C5;&#x548C;&#x4F7F;&#x7528;&#x770B;&#x4E00;&#x4E0B;&#x5404;&#x81EA;&#x7684; readme &#x8FD8;&#x662F;&#x5F88;&#x5BB9;&#x6613;&#x660E;&#x767D;&#x7684;&#xFF0C;&#x4F46;&#x5177;&#x4F53;&#x600E;&#x4E48;&#x5DE5;&#x4F5C;&#x6211;&#x4E5F;&#x6CA1;&#x5F04;&#x6E05;&#x695A;&#xFF0C;&#x53CD;&#x6B63;&#x4E0D;&#x7528;&#x6539;&#x52A8;ruhoh&#x7684;&#x4E00;&#x4E2A;&#x4EE3;&#x7801;&#xFF0C;&#x5F88;&#x65B9;&#x4FBF;&#x3002;&#x4E0D;&#x8FC7;&#x6211;&#x5728; windows &#x4E0B;&#x5B89;&#x88C5; &lt;a href="https://github.com/guard/guard-livereload"&gt;guard-livereload&lt;/a&gt; &#x51FA;&#x4E86;&#x95EE;&#x9898;&#xFF0C;&#x539F;&#x56E0;&#x662F;EventMachine 0.12.10 &#x4E0D;&#x80FD;&#x5728;&#x8DD1;&#x7740; ruy 1.9.2+ &#x7684;windows&#x4E0A;&#x5DE5;&#x4F5C;&#x3002;&#x7528; pre-release &#x7684;&#x7248;&#x672C;&#x5C31;&#x53EF;&#x4EE5;&#x89E3;&#x51B3;&#x95EE;&#x9898;&#xFF0C;&#x8BA8;&#x8BBA;&#x5728;&lt;a href="http://stackoverflow.com/questions/6927907/ruby-problem-installing-eventmachine-under-windows-7#"&gt;stackoverflow&lt;/a&gt; &#x4E0A;&#x3002;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;gem install eventmachine --pre
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&#x4ECA;&#x5929;&#x53D1;&#x73B0; guard &#x8FD9;&#x8D27;&#x5728; win7 cygwin &#x4E0B;&#x8FDB;&#x7A0B;&#x5360;&#x7528;CPU 100%&#xFF0C;&#x4E0D;&#x77E5;&#x9053;&#x662F;&#x4EC0;&#x4E48;&#x60C5;&#x51B5;&#x3002;&lt;/p&gt;
-
-&lt;h4 id="toc_35"&gt;TODO&lt;/h4&gt;
-
-&lt;p&gt;&#x63A5;&#x4E0B;&#x6765;&#x5B8C;&#x5584;&#x7B14;&#x8BB0;&#x529F;&#x80FD;&#xFF0C;&#x6253;&#x9020;&#x51FA;&#x4E00;&#x4E2A;&#x77E5;&#x8BC6;&#x7BA1;&#x7406;&#x7CFB;&#x7EDF;&#xFF08;&#x7C7B;wiki&#xFF09;&#xFF0C;&#x8FD8;&#x6709;&#x65E5;&#x8BB0;&#xFF0C;&#x56E0;&#x4E3A;&#x8981;&#x4F5C;&#x4E3A;&#x65E5;&#x8BB0;&#x4F7F;&#x7528;&#xFF0C;&#x8FD8;&#x9700;&#x8981;&#x63D0;&#x4F9B;&#x7C7B;&#x4F3C; evernote &#x7684;&#x52A0;&#x5BC6;&#x65B9;&#x6848;&#x3002;&lt;/p&gt;
-
-&lt;p&gt;&#x597D;&#x591A;&#x5440;~ &#x597D;&#x56F0;&#x3002; &lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>&#x300A;&#x5C11;&#x6709;&#x4EBA;&#x8D70;&#x7684;&#x8DEF;&#x300B;&#x7ECF;&#x5178;&#x8BED;&#x5F55;</title>
-      <link>http://sample.com/reading/%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%E8%B7%AF-%E7%BB%8F%E5%85%B8%E8%AF%AD%E5%BD%95</link>
+      <title>the road less traveled</title>
+      <link>http://sample.com/reading/the-road-less-traveled</link>
       <pubDate>2012-05-28</pubDate>
       <description>&lt;p&gt;&lt;img src="/assets/media/img/notes-the-road-less-traveled/title.jpg"/&gt;&lt;/p&gt;
 
@@ -1723,8 +1171,8 @@ rsync -a --delete-after $SITE_DIR $DEPLOY_DIR &amp;gt;&amp;gt;  $LOG
 </description>
     </item>
     <item>
-      <title>&#x8BE6;&#x89E3;&#x8457;&#x540D;&#x7684;awk Oneliner&#xFF0C;&#x7B2C;&#x56DB;&#x90E8;&#x5206;&#xFF1A;&#x5B9A;&#x4E49;&#x5B57;&#x7B26;&#x4E32;&#x548C;&#x6570;&#x7EC4;</title>
-      <link>http://sample.com/coding/%E8%AF%A6%E8%A7%A3%E8%91%97%E5%90%8D%E7%9A%84awk-oneliner-%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86-%E5%AE%9A%E4%B9%89%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%95%B0%E7%BB%84</link>
+      <title>awk-oneliner-4</title>
+      <link>http://sample.com/coding/awk-oneliner-4</link>
       <pubDate>2012-04-12</pubDate>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&#x672C;&#x6587;&#x8F6C;&#x81EA;&#x7F51;&#x7EDC;&#xFF0C;&#x5982;&#x6709;&#x4FB5;&#x6743;&#xFF0C;&#x8BF7;&#x8054;&#x7CFB;&#x672C;&#x4EBA;&#x5220;&#x9664;&#xFF01;
@@ -1832,8 +1280,8 @@ rsync -a --delete-after $SITE_DIR $DEPLOY_DIR &amp;gt;&amp;gt;  $LOG
 </description>
     </item>
     <item>
-      <title>&#x8BE6;&#x89E3;&#x8457;&#x540D;&#x7684;awk Oneliner&#xFF0C;&#x7B2C;&#x4E09;&#x90E8;&#x5206;&#xFF1A;&#x9009;&#x62E9;&#x6027;&#x8F93;&#x51FA;&#x7279;&#x5B9A;&#x884C;</title>
-      <link>http://sample.com/coding/%E8%AF%A6%E8%A7%A3%E8%91%97%E5%90%8D%E7%9A%84awk-oneliner-%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86-%E9%80%89%E6%8B%A9%E6%80%A7%E8%BE%93%E5%87%BA%E7%89%B9%E5%AE%9A%E8%A1%8C</link>
+      <title>awk-oneliner-3</title>
+      <link>http://sample.com/coding/awk-oneliner-3</link>
       <pubDate>2012-04-08</pubDate>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&#x672C;&#x6587;&#x8F6C;&#x81EA;&#x7F51;&#x7EDC;&#xFF0C;&#x5982;&#x6709;&#x4FB5;&#x6743;&#xFF0C;&#x8BF7;&#x8054;&#x7CFB;&#x672C;&#x4EBA;&#x5220;&#x9664;&#xFF01;
@@ -1969,8 +1417,8 @@ rsync -a --delete-after $SITE_DIR $DEPLOY_DIR &amp;gt;&amp;gt;  $LOG
 </description>
     </item>
     <item>
-      <title>&#x8BE6;&#x89E3;&#x8457;&#x540D;&#x7684;awk Oneliner&#xFF0C;&#x7B2C;&#x4E8C;&#x90E8;&#x5206;&#xFF1A;&#x6587;&#x672C;&#x66FF;&#x6362;</title>
-      <link>http://sample.com/coding/%E8%AF%A6%E8%A7%A3%E8%91%97%E5%90%8D%E7%9A%84awk-oneliner-%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86-%E6%96%87%E6%9C%AC%E6%9B%BF%E6%8D%A2</link>
+      <title>awk-oneliner-2</title>
+      <link>http://sample.com/coding/awk-oneliner-2</link>
       <pubDate>2012-04-06</pubDate>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&#x672C;&#x6587;&#x8F6C;&#x81EA;&#x7F51;&#x7EDC;&#xFF0C;&#x5982;&#x6709;&#x4FB5;&#x6743;&#xFF0C;&#x8BF7;&#x8054;&#x7CFB;&#x672C;&#x4EBA;&#x5220;&#x9664;&#xFF01;
@@ -2143,8 +1591,8 @@ rsync -a --delete-after $SITE_DIR $DEPLOY_DIR &amp;gt;&amp;gt;  $LOG
 </description>
     </item>
     <item>
-      <title>&#x8BE6;&#x89E3;&#x8457;&#x540D;&#x7684;awk Oneliner&#xFF0C;&#x7B2C;&#x4E00;&#x90E8;&#x5206;&#xFF1A;&#x7A7A;&#x884C;&#x3001;&#x884C;&#x53F7;&#x548C;&#x8BA1;&#x7B97;</title>
-      <link>http://sample.com/coding/%E8%AF%A6%E8%A7%A3%E8%91%97%E5%90%8D%E7%9A%84awk-oneliner-%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E7%A9%BA%E8%A1%8C-%E8%A1%8C%E5%8F%B7%E5%92%8C%E8%AE%A1%E7%AE%97</link>
+      <title>awk-oneliner-1</title>
+      <link>http://sample.com/coding/awk-oneliner-1</link>
       <pubDate>2012-04-05</pubDate>
       <description>&lt;p&gt;&lt;img src="/assets/media/img/awk-oneliner-study/title.jpg"/&gt;&lt;/p&gt;
 
@@ -2332,8 +1780,8 @@ rsync -a --delete-after $SITE_DIR $DEPLOY_DIR &amp;gt;&amp;gt;  $LOG
 </description>
     </item>
     <item>
-      <title>&#x6CA1;&#x6709;&#x60C5;&#x4EBA;&#x7684;&#x60C5;&#x4EBA;&#x52AB;&#x2014;&#x2014;&#x5E2E;&#x6D3E;&#x7CFB;&#x7EDF;&#x88AB;&#x653B;&#x51FB;&#x624B;&#x8BB0;</title>
-      <link>http://sample.com/coding/%E6%B2%A1%E6%9C%89%E6%83%85%E4%BA%BA%E7%9A%84%E6%83%85%E4%BA%BA%E5%8A%AB-%E5%B8%AE%E6%B4%BE%E7%B3%BB%E7%BB%9F%E8%A2%AB%E6%94%BB%E5%87%BB%E6%89%8B%E8%AE%B0</link>
+      <title>work deal with group attacked record</title>
+      <link>http://sample.com/coding/work-deal-with-group-attacked-record</link>
       <pubDate>2012-02-14</pubDate>
       <description>&lt;p&gt;&lt;img src="/assets/media/img/work-bangpai/title.jpg"/&gt;&lt;/p&gt;
 
@@ -2401,8 +1849,8 @@ rsync -a --delete-after $SITE_DIR $DEPLOY_DIR &amp;gt;&amp;gt;  $LOG
 </description>
     </item>
     <item>
-      <title>&#x535A;&#x5BA2;&#x8FC1;&#x79FB;&#x5230;octopress&#x4E86;</title>
-      <link>http://sample.com/living/%E5%8D%9A%E5%AE%A2%E8%BF%81%E7%A7%BB%E5%88%B0octopress%E4%BA%86</link>
+      <title>blog tooctopress</title>
+      <link>http://sample.com/living/blog-tooctopress</link>
       <pubDate>2012-02-12</pubDate>
       <description>&lt;p&gt;&lt;img src="/assets/media/img/blog-to-octopress/title.jpg"/&gt;&lt;/p&gt;
 
@@ -2500,8 +1948,8 @@ git push origin source
 </description>
     </item>
     <item>
-      <title>&#x56DE;&#x9996;2011&#xFF0C;&#x5C55;&#x671B;2012</title>
-      <link>http://sample.com/living/%E5%9B%9E%E9%A6%962011-%E5%B1%95%E6%9C%9B2012</link>
+      <title>review 2011,look into 2012</title>
+      <link>http://sample.com/living/review-2011-look-into-2012</link>
       <pubDate>2012-01-25</pubDate>
       <description>&lt;p&gt;&lt;img src="/assets/media/img/life-2011-2012/title.jpg"/&gt;
 &#x3000;&#x3000;&#x672C;&#x6765;&#x672C;&#x7BC7;&#x603B;&#x7ED3;&#x5E94;&#x8BE5;&#x5728;2012&#x7684;&#x5143;&#x65E6;&#x53BB;&#x5199;&#xFF0C;&#x53EF;&#x662F;&#x5F53;&#x5143;&#x65E6;&#x5230;&#x6765;&#x65F6;&#x5374;&#x4E00;&#x76F4;&#x6CA1;&#x6709;&#x52C7;&#x6C14;&#x7ED3;&#x675F;&#x8FD9;2011&#x5E74;&#xFF0C;&#x6240;&#x4EE5;&#x5C31;&#x62D6;&#x5230;&#x4E86;&#x7ED3;&#x675F;&#x5154;&#x5E74;&#x7684;&#x65F6;&#x5019;&#x624D;&#x6765;&#x603B;&#x7ED3;&#x3002;  &lt;/p&gt;
@@ -2542,8 +1990,8 @@ git push origin source
 </description>
     </item>
     <item>
-      <title>rvm &#x5B89;&#x88C5; Ruby 1.9.3&#x65F6;&#x9519;&#x8BEF;&#xFF1A; compiler cannot create executables</title>
-      <link>http://sample.com/coding/rvm-%E5%AE%89%E8%A3%85-ruby-1-9-3%E6%97%B6%E9%94%99%E8%AF%AF-compiler-cannot-create-executables</link>
+      <title>install ruby 1.9.3</title>
+      <link>http://sample.com/coding/install-ruby-1-9-3</link>
       <pubDate>2012-01-17</pubDate>
       <description>&lt;p&gt;&lt;img src="/assets/media/img/code-ruby/title.jpg"/&gt;&lt;/p&gt;
 

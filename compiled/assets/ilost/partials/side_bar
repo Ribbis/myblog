@@ -17,7 +17,7 @@
               <img alt='' src='{{urls.media}}/author.jpg' class='avatar avatar-64 photo' height='64' width='64' />
             </span>
           </a>
-          <p>爱爬山，爱暴走，爱骑车..我是&nbsp;<strong>谢吉宝</strong>&nbsp;，花名&nbsp;<strong>唐三</strong>&nbsp;，XY染色体，80年代产物，互联网从业人员，目前就职于&nbsp;<a target="_blank" href="http://rdc.taobao.com/team/jm">淘宝中间件团队</a>&nbsp;，主要从事性能优化方面的工作，关注新技术动态，关注互联网...本博客主要记录自己的工作、学习、生活...<br />
+          <p><strong>唐三</strong>&nbsp;，互联网从业人员，就职于&nbsp;<a target="_blank" href="http://rdc.taobao.com/team/jm">淘宝中间件团队</a>&nbsp;，主要从事性能优化方面的工作..本博客主要记录自己的工作、学习、生活...<br />
 <!--
            <strong>本博客主要关注以下领域：</strong>
           <ul>
@@ -47,7 +47,7 @@
         <h3 class="widgettitle">Articles</h3>
         <ul class="random">
           {{# posts.latest }}
-          <li><a href="{{url}}" title="{{title}}">{{title}}</a></li>
+          <li><a href="{{url}}" title="{{subject}}">{{subject}}</a></li>
           {{/ posts.latest }}
         </ul>
       </li>

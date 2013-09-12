@@ -1,0 +1,778 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <title>On the Road...</title>
+    <meta name="application-name" content="On the Road..."/>
+
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="theme author" href="Xu.hel,xu@xuui.net" />
+    <link rel="shortcut icon" href="/assets/media/favicon.png"/>
+
+    <!-- <link rel="stylesheet" media="screen" href="/assets/ilost/stylesheets/style.css" /> -->
+    <script>if(self!=top){top.location.href=self.location.href;}</script>
+    <link rel="alternate" type="application/rss+xml" title="On the Road... &raquo; RSS Feed" href="http://feed.feedsky.com/ecchanger" />
+    <!-- <link rel="stylesheet" href="/assets/ilost/stylesheets/shortstyle.css" media="screen" /> -->
+    <!-- <link rel="stylesheet" href="/assets/ilost/stylesheets/moon.css?t=12" media="screen" /> -->
+    <link href="/assets/ilost/stylesheets/prettify.css?0.3731052312890306" type="text/css" rel="stylesheet" media="all">
+<link href="/assets/ilost/stylesheets/style.css?0.4735257805814179" type="text/css" rel="stylesheet" media="all">
+<link href="/assets/ilost/stylesheets/shortstyle.css?0.7197177759128276" type="text/css" rel="stylesheet" media="all">
+
+    <!-- <script src="/assets/ilost/javascripts/jquery.js?0.1050707303722842"></script>
+<script src="/assets/ilost/javascripts/load.js?0.011087150677359658"></script>
+<script src="/assets/ilost/javascripts/rotation.js?0.17436422650352934"></script>
+<script src="/assets/ilost/javascripts/scripts.js?0.7625514321117844"></script>
+ -->
+    <script src="/assets/ilost/javascripts/jquery.js"></script>
+  </head>
+  <body class="blog custom-background">
+    <header>
+      <form role="search" method="get" id="searchform" action="http://google.com/search" >
+       <div>
+        <label class="screen-reader-text" for="q">搜索：</label>
+        <input type="text" value="" name="q" id="s" />
+        <input type="hidden" name="q" value="site:xcoder.im">
+        <input type="submit" id="searchsubmit" value="搜索" />
+       </div>
+      </form>
+    
+      <div class="caption">
+        <a class="logo" href="/" title="A goal is a dream with a deadline..."></a>
+        <a class="feedrss" target="_blank" href="http://feed.feedsky.com/ecchanger">Feed Rss</a>
+      </div>
+      <nav id="navs" class="menu-xu-nav-container">
+        <ul id="menu-xu-nav" class="menu">
+          <li>
+            <a href="/archive">Archive</a>
+          </li>
+                    <li>
+            <a href="/tags">Tags</a>
+          </li>
+                    <li>
+            <a href="/categories">Categories</a>
+          </li>
+                    <li>
+            <a href="/douban">Douban</a>
+          </li>
+                    
+       </ul>
+      </nav>
+    </header>
+    <script type="text/javascript" defer src="/assets/ilost/javascripts/rotation.js"></script>
+
+    <div id="container">
+      <article>
+        <div class="breadcrumb" itemprop="breadcrumb">
+            <a href="/">On The Road</a> &gt; 
+            <h2>Blog</h2>
+          </div>
+        <!-- <section id="post-2945" class="post-2945 post type-post status-publish format-standard hentry category-themes tag-ilost tag-themes tag-wordpress"> -->
+<section>
+  <div class="title">
+    <h2>Guava 教程1-使用 Google Collections,Guava,static imports 编写漂亮代码</h2>
+    <small>
+      2013-02-18 22:06/ 
+      [
+      <a href="/categories#Coding-ref" title="Coding" rel="category tag">Coding</a>
+
+      <a href="/categories#Studying-ref" title="Studying" rel="category tag">Studying</a>
+]
+      <!-- 284 views. -->
+    </small>
+  </div>
+  <div id="postshare">
+    <div id="share">
+      <div class="sns" style="float:right;">
+        <g:plusone size="medium" count="on" href="http://localhost:9292//coding/guava-1"></g:plusone>
+      </div>
+      <span class="share">将本文分享到：</span>
+  
+      <a href="http://facebook.com/share.php?u=http://localhost:9292/coding/guava-1&t=guava-1" target="_blank" rel="nofollow" id="facebook-share" title="Facebook">Facebook</a>
+  
+      <a href="http://twitter.com/share?url=http://localhost:9292/coding/guava-1&text=guava-1" target="_blank" rel="nofollow" id="twitter-share" title="Twitter">Twitter</a>
+  
+      <a href="http://delicious.com/post?url=http://localhost:9292/coding/guava-1&title=guava-1" target="_blank" rel="nofollow" id="delicious-share" title="Delicious">Delicious</a>
+  
+      <a id="fanfou-share" href="javascript:var d=document,w=window,f='http://fanfou.com/share',l=d.location,e=encodeURIComponent,p='?u='+e(l.href)+'?t='+e(d.title)+'?d='+e(w.getSelection?w.getSelection().toString():d.getSelection?d.getSelection():d.selection.createRange().text)+'?s=bl';if(!w.open(f+'r'+p,'sharer','toolbar=0,status=0,width=600,height=400')){l.href=f+'.new'+p;}void(0)"><img src="http://static.fanfou.com/img/icon.gif" alt="分享到饭否" /></a>
+  
+      <a href="http://v.t.qq.com/share/share.php?title=guava-1&url=http://localhost:9292/coding/guava-1&site=http://xcoder.im" target="_blank" rel="nofollow" id="tencent-share" title="腾讯微博">腾讯微博</a>
+  
+      <a href="http://v.t.sina.com.cn/share/share.php?url=http://localhost:9292/coding/guava-1&title=guava-1" target="_blank" rel="nofollow" id="sina-share" title="新浪微博">新浪微博</a>
+  
+      <a href="http://t.163.com/article/user/checkLogin.do?link=http://localhost:9292/coding/guava-1source='On The Road'&info=guava-1 更新 http://localhost:9292/coding/guava-1" target="_blank" rel="nofollow" id="netease-share" title="网易微博">网易微博</a>
+      <a href="http://www.kaixin001.com/repaste/share.php?rurl=http://localhost:9292/coding/guava-1&rcontent=&rtitle=guava-1;" target="_blank" rel="nofollow" id="kaixin001-share" title="开心网">开心网</a>
+  
+      <script type="text/javascript" src="http://widget.renren.com/js/rrshare.js"></script>
+      <a id="renren-share" name="xn_share" onclick="shareClick()" type="icon" href="javascript:;"></a>
+      <script type="text/javascript">
+          function shareClick() {
+              var rrShareParam = {
+                  resourceUrl : 'http://localhost:9292/coding/guava-1',   //分享的资源Url
+                  srcUrl : 'http://xcoder.im',    //分享的资源来源Url,默认为header中的Referer,如果分享失败可以调整此值为resourceUrl试试
+                  pic : '',       //分享的主题图片Url
+                  title : 'guava-1',     //分享的标题
+                  description : 'guava-1--来自谢吉宝的博客'    //分享的详细描述
+              };
+              rrShareOnclick(rrShareParam);
+      }
+      </script>
+  
+      <a href="http://www.douban.com/recommend/?url=http://localhost:9292/coding/guava-1&title=guava-1" target="_blank" rel="nofollow" id="douban-share" title="豆瓣">豆瓣</a>
+    </div>
+  </div>
+  <div class="entry">
+    <blockquote>
+<p><strong>写在前面：</strong><br>
+以前在一个项目中用到过guava，当时匆匆用，也没细研究，今天偶然在occhina看到这个系列教程的翻译，感觉不错，介绍得还比较全面，就一口气全看完了，但看到第四节，发现还没翻译，于是自己就硬着头皮看了英文，发现也能看懂大概意思，就顺手翻译了一下，也算是为开源事业做点儿贡献吧。把文章转到自己博客记录一下。<br>
+附：<br>
+<a href="https://code.google.com/p/guava-libraries/">Guava API</a><br>
+<a href="http://macrochen.iteye.com/blog/737058">Guava 用法整理</a></p>
+
+<p>本文转自网络，如有侵权，请联系本人删除！
+<a href="http://codemunchies.com/2009/10/beautiful-code-with-google-collections-guava-and-static-imports-part-1/">原文</a>
+<a href="http://www.oschina.net/translate/beautiful-code-with-google-collections-guava-and-static-imports-part-1">译文</a>  </p>
+</blockquote>
+
+<p>　　这个夏天的早些时候，我已经极力向我的所有同事推荐了 Google Collections 。 Kevin Bourrillion说他的一个同事告诉他“没有使用Google Collections前编程就像把一只手绑在背后”。<br>
+　　我灰常同意Kevin的这个同事！<br>
+　　可能文章的标题有点奇怪。我指的是“编写漂亮代码”。我猜我应该说“简洁的”Java代码，但是，它们意思可不一样(译者注：漂亮的代码看着很爽，简洁的不一定爽)。  </p>
+
+<p>　　在我准备开始卖力的吆喝这个我最最喜欢的Java类库前，我有几个额问题要问问你：<br>
+多少次你写了像下面一样的代码：</p>
+
+<pre><code>Map&lt;String, Map&lt;Long, List&lt;String&gt;&gt;&gt; map = new HashMap&lt;String, Map&lt;Long,List&lt;String&gt;&gt;&gt;();
+</code></pre>
+
+<p>或者像这样的不堪入目的代码:</p>
+
+<pre><code>int a = 5;
+int b = 10;
+int compareTo = Integer.valueOf(a).compareTo(Integer.valueOf(b));
+</code></pre>
+
+<p>或者有很多的if和else :-(<br>
+又有多少次你写了像下面这样的代码，只为了从一个文件中读一点点东西？：</p>
+
+<pre><code>File file = new File(getClass().getResource(&quot;/test.txt&quot;).getFile());
+BufferedReader reader;
+String text = &quot;&quot;;
+try {
+    reader = new BufferedReader(new FileReader(file));
+    String line = null;
+    while (true) {
+        line = reader.readLine();
+        if (line == null) {
+            break;
+        }
+        text += line.trim() + &quot;\n&quot;;
+    }
+    reader.close();
+    reader = null;
+} catch (FileNotFoundException e1) {
+    e1.printStackTrace();
+} catch (IOException e) {
+    e.printStackTrace();
+}
+</code></pre>
+
+<p>好吧，我想说… 这是什么TM玩意？我们已经有Apache Commons Collections很多年了。那为什么我们还需要另外一个collections库呢？我看过很多像这样的评论：  </p>
+
+<blockquote>
+<p>“任何有一段时间开发经验的Java程序员都会积累这些类型的实用的工具类”</p>
+</blockquote>
+
+<p>好吧，是的，这对于大多数开发者来说可能是(应该是)对的。但是，有太多理由来摆脱垃圾代码和重用漂亮的工具类！在这个博客里，我将要告诉你一些的确引起我求知欲-让我沉溺于其中的事情，那就是Google Collections。  </p>
+
+<p>正如Jared Levy 曾说过的:</p>
+
+<blockquote>
+<p>这个库简化了你的代码，使它易写、易读、易于维护。它能提高你的工作效率，让你从大量重复的底层代码中脱身。</p>
+</blockquote>
+
+<p>　　此外，我会给你们展示一下Guava里面包含的很多非常酷的功能，让你们看看如何用它来写出更漂亮的代码，一旦看到这些，你们就会和以前那种僵化的令人讨厌的写代码方式说拜拜了。  </p>
+
+<p>　　Google Guava 是 Google 为 Java 1.6 编写的核心库。它仍然不是一个很成熟的库，在未来几个月还将不断的变化。Google Collections 将在 1.0 版本发布时将成为 Guava 的一部分。Guava (和 Google Collections) 已经率先被很多 Google 开发者使用。支持该项目的开发者有 Kevin Bourrillion, Jared Levy, Crazy Bob Lee, Josh Bloch(!) (Google 的 Java 首席架构师) 和 limpbizkit (我们找不到这家伙的真实姓名). Google Collections 在 2007 年就已经有了，但 Guava 是在 2009年9月推出的。<br>
+　　作为这个系列的博客，我将向你介绍 Google Collections 并告诉你使用 Guava 和 Google Collections 能为你带来什么好处。包括代码量的减少以及新的更快的数据结构。在第二部分我们将深入探讨 Guava 和 Collections 的一些高级特性。  </p>
+
+<h3 id="toc_0">Google Collections一览</h3>
+
+<p>　　显然一篇博文不能深入地覆盖Google Collections的方方面面，所以我决定把时间放在我日常编码中使用到的基础且不失强大的特性上，首先，不要这么做：</p>
+
+<pre><code>Map&lt;String, Map&lt;Long, List&lt;String&gt;&gt;&gt; map = new HashMap&lt;String, Map&lt;Long,List&lt;String&gt;&gt;&gt;();
+</code></pre>
+
+<p>要这么做：</p>
+
+<pre><code>Map&lt;String, Map&lt;Long, List&lt;String&gt;&gt;&gt; map = Maps.newHashMap();
+</code></pre>
+
+<p>或者更甚者直接使用静态导入：</p>
+
+<pre><code>Map&lt;String, Map&lt;Long, List&lt;String&gt;&gt;&gt;map = newHashMap();
+</code></pre>
+
+<p>　　很棒，不是吗？多亏有泛型和写Collections的哥们提供给我们的这些方便工厂方法，我们不再需要写一些Java本身应该自带的东西。好吧，我知道这些会是JDK 7里的一部分，那当然很好，不过Google Collections现在就有这些功能。<br>
+　　类似于com.google.common.collect.Maps提供的这些静态工具方法，Lists和Sets也有：</p>
+
+<pre><code>Lists.newArrayList();
+Sets.newHashSet();
+</code></pre>
+
+<p>还有更多！ 自己去看看吧！[<a href="http://code.google.com/p/google-collections/">http://code.google.com/p/google-collections/</a>]</p>
+
+<h3 id="toc_1">操作lists和maps</h3>
+
+<p>当你在写单元测试时，经常会构造一些测试数据，可能是list、map、set等，对于一些像我一样草率的人来说，测试代码中会经常看到类似下面的语句：</p>
+
+<pre><code>List&lt;String&gt; list = new ArrayList&lt;String&gt;();
+list.add(&quot;a&quot;);
+list.add(&quot;b&quot;);
+list.add(&quot;c&quot;);
+list.add(&quot;d&quot;);
+</code></pre>
+
+<p>　　其实我也知道，这几行代码看起来很烂，我只是想用一些测试数据构造一个不可变的list而已，我希望能像下面这样写一行代码搞定这些。。如何办到？好吧，这很简单！  </p>
+
+<pre><code>ImmutableList&lt;String&gt; of = ImmutableList.of(&quot;a&quot;, &quot;b&quot;, &quot;c&quot;, &quot;d&quot;);
+</code></pre>
+
+<p>Map也一样</p>
+
+<pre><code>ImmutableMap&lt;String,String&gt; map = ImmutableMap.of(&quot;key1&quot;, &quot;value1&quot;, &quot;key2&quot;, &quot;value2&quot;);
+</code></pre>
+
+<p>　　我现在慢慢的越来越喜欢这种简单而又有效的写代码的方式，我还想缩短一下上面的代码，但是由于ImmutableList和ImmutableMap都有of方法，不能使用静态导入。不过有一个变通的方法就是说在我们自己的集合工具中包装这些创建工厂方法，那么对于不可变的list和map我只需要简单的这么写就好：</p>
+
+<pre><code>ImmutableMap&lt;String,String&gt; map2 = mapOf(&quot;key1&quot;, &quot;value1&quot;, &quot;key2&quot;, &quot;value2&quot;)
+</code></pre>
+
+<p>或者</p>
+
+<pre><code>ImmutableList&lt;String&gt; list2 = listOf(&quot;a&quot;, &quot;b&quot;, &quot;c&quot;, &quot;d&quot;);
+</code></pre>
+
+<p>而且如果我想构造填充一个ArrayList（或者一个HashMap），我可以这样：</p>
+
+<pre><code>ArrayList&lt;String&gt; list3 = arrayListOf(&quot;a&quot;, &quot;b&quot;, &quot;c&quot;, &quot;d&quot;);
+</code></pre>
+
+<p>　　两种方式都可以，选择权在你手上，很明显，这种较之前面的方式更灵活优雅一些，你说呢？
+除去可以使用方便干净的方式来创建并填充集合类，我们也提供了很多额外的工具方法，比如过滤，对set取交集和并集，排序等等一些更优雅的方法，我将会在第二部分中讲解它们。</p>
+
+<h3 id="toc_2">静态导入和Eclipse模板</h3>
+
+<p>　　在这之前，我想先告诉你我在写代码时，是如果借用Eclipse的Code模板功能更高效的使用集合类的。（我假设你了解在IDEA或者其他IDE中也存在类似的功能，你可以根据这部分叙述做出相应的扩展或变通）    </p>
+
+<p>　　作为一个Eclipse的用户，我非常喜欢快捷键（参照这篇介绍Eclipse快捷键的博文：MouseFeed and how you can easily learn Eclipse shortcuts）  </p>
+
+<p>　　OK，Ctrl+space是你们的好朋友！他也是代码自动补全的快捷键。（译者注：当然。在中国，由于这个快捷键和切换输入法冲突，一般都设置为了“Alt+/”作为代码补全的快捷键）  </p>
+
+<p>　　在Eclipse下你可以创建一个模板来绑定到一个自动补全的快捷关键字上，这也是魔力所在！  </p>
+
+<p>　　相对于键入Maps.newHashMap()来创建一个HashMap，或者干脆使用静态导入，就可以简单的键入newHashMap()来创建一个HashMap，我只是简单的敲入newH，按下ctrl+space，见证奇迹的时刻到了！  </p>
+
+<p>　　在Eclipse菜单栏选择Window -&gt; Preferences，进入Java -&gt; Editor -&gt; Templates，点击“New”。Name处就是你想敲入的快捷关键字，我通常命名为我的方法名，比如在这里，就是“newHashMap”，加上你喜欢的描述，比如”Import static Maps.newHashMap“，并增加下面的内容：</p>
+
+<pre><code>${:importStatic(com.google.common.collect.Maps.newHashMap)}newHashMap();${cursor}
+</code></pre>
+
+<p>以上就是创建快捷补全的全部步骤了，现在去为你常用到的所有方法添加模板吧！</p>
+
+<h3 id="toc_3">Guava走马观花</h3>
+
+<p>　　最后，但并非不重要，我将向你展示一下如果使用Guava来处理本文开头留下来的两个问题：</p>
+
+<p>1.从文件中按行读取内容：</p>
+
+<pre><code>File file = new File(getClass().getResource(&quot;/test.txt&quot;).getFile());
+List&lt;String&gt; lines = null;
+try {
+  lines = Files.readLines(file, Charsets.UTF_8);
+} catch (IOException e) {
+  e.printStackTrace();
+}
+</code></pre>
+
+<p>2.比较两个基本类型：</p>
+
+<pre><code>int compare = Ints.compare(a, b);
+</code></pre>
+
+<p>3.把一个List<Integer>转换为int数组：</p>
+
+<pre><code>List&lt;Integer&gt; list = listOf(1, 2, 3, 4);
+int[] array2 = Ints.toArray(list);
+</code></pre>
+
+<p>　　Guava为我们提供了对Core Java类库全面的扩展，我们可以使用com.google.common.primitices包下的Ints，Doubles，Floats，Shorts，Bytes以及Bools等工具类操作基本类型的数据；com.google.common.io包提供了操作streams，buffers以及files等等，而且并发包中提供了一些像Futures，Callables以及Executors等方便的工具类来减轻我们写并发代码的痛苦。除此之外，Guava提供了对Collections的增强，以及非常优雅的CharMatcher、Joiner以及Splitter类，这些类我将在下篇博文中提到。<br>
+可以从这里获得源码:</p>
+
+<pre><code>svn checkout http://guava-libraries.googlecode.com/svn/trunk/guava-libraries-read-only
+</code></pre>
+
+<p>　　下次我们会深入Guava 的高级功能，探索一下集合的用法，看看怎样通过Multimap使java的功能更加强大，如何用mapping功能来转换集合。请拭目以待。如果你们也用过Guava或者Google Collections请分享一下你们的心得。</p>
+
+  </div>
+<!-- 
+  <div id="authorbox">
+    <div class="avatar-warp">
+      <span></span>
+      <img alt='' src='/assets/media/author.jpg' class='avatar avatar-96 photo' height='96' width='96' />
+    </div>    
+    <p>作者:  <span class="author"><a href="/" title="由 唐三 发布" rel="author">ecchanger</a></span>
+    </p>
+      <p>简介: 互联网从业人员，JavaDevelper@Taobao.com。</p>
+    <div class="clear"></div>
+  </div>
+-->  
+<!-- 
+  <div class="related">
+    <h3>相关文章：</h3>
+    <ul>
+      <li><a href="#" rel="bookmark" title="guava-1">guava-1</a></li>
+    </ul>
+  </div>
+-->
+
+  <div class="post-meta">
+    标签: 
+    <a href="/tags#guava-ref" rel="tag">guava</a> | 
+    <a href="/tags#google-ref" rel="tag">google</a> | 
+    <a href="/tags#google collections-ref" rel="tag">google collections</a> | 
+    <div class="clear"></div>
+  </div>
+  
+  <nav class="post-nav">
+    <span class="previous">
+      <a href="/coding/log4j-vs-logback" rel="prev">Log4j vs Logback 性能测试及原理分析</a>
+    </span>
+    <span class="next">
+      <a href="/coding/guava-2" rel="next">Guava 教程2-深入探索 Google Guava 库</a>
+    </span>
+    <div class="clear"></div>
+  </nav>
+</section>
+  <script type="text/javascript">
+    window.___gcfg={lang:'zh-CN'};
+    (function(){
+      var po=document.createElement('script');po.type='text/javascript';
+      po.async=true;
+      po.src='https://apis.google.com/js/plusone.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);
+    })();
+  </script>
+  <script type="text/javascript">
+    var _gaq=_gaq || [];
+    _gaq.push(['_setAccount','UA-22262498-1']);
+    _gaq.push(['_setDomainName','.xuui.net']);
+    _gaq.push(['_trackPageview']);
+    (function(){
+      var ga=document.createElement('script');
+      ga.type='text/javascript';ga.async=true;
+      ga.src=('https:'==document.location.protocol ? 'https://ssl' : 'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);
+    })();
+</script>
+<div id="disqus_thread"></div>
+<script>
+    var disqus_developer = 1;
+    var disqus_shortname = 'ecchanger'; // required: replace example with your forum shortname
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+      </article>
+      <aside id="aside">
+          <ul class="clear">
+      <!--
+            <li id="ilost_sidebar_recentposts" class="widget">
+              <h3 class="widgettitle">Next Day</h3>
+              <ul class="random">
+                <li style="margin-top: 10px;"><img src="/assets/media/nextday.jpg" style="width:220px;height:auto;"/></li>
+              </ul>
+            </li>
+       -->
+      
+            <li id="ilost_sidebar_about" class="widget">
+              <h3 class="widgettitle">About</h3>
+              <div class="reavatar">
+                <a href="/" title="ecchanger@gmail.com">
+                  <span class="avatar-warp">
+                    <img alt='' src='/assets/media/author.jpg' class='avatar avatar-64 photo' height='64' width='64' />
+                  </span>
+                </a>
+                <p><strong>唐三</strong>&nbsp;，互联网从业人员，就职于&nbsp;<a target="_blank" href="http://rdc.taobao.com/team/jm">淘宝中间件团队</a>&nbsp;，主要从事性能优化方面的工作..本博客主要记录自己的工作、学习、生活...<br />
+      <!--
+                 <strong>本博客主要关注以下领域：</strong>
+                <ul>
+                  <li>☞ Java</li>
+                  <li>☞ Performance</li>
+                  <li>☞ JVM</li>
+                  <li>☞ *UNIX</li>
+                  <li>☞ Life</li>
+                </ul>
+      -->
+                </p>
+              </div>
+            </li>
+      
+            <li id="ilost_sidebar_categories" class="widget">
+              <h3 class="widgettitle">Categories</h3>
+              <ul>
+                  <li class="cat-item cat-item-1">
+                    <a href="/categories#Living-ref" title="Living">Living&nbsp;(10)</a>
+                  </li>
+                  <li class="cat-item cat-item-1">
+                    <a href="/categories#Thinking-ref" title="Thinking">Thinking&nbsp;(7)</a>
+                  </li>
+                  <li class="cat-item cat-item-1">
+                    <a href="/categories#Coding-ref" title="Coding">Coding&nbsp;(11)</a>
+                  </li>
+                  <li class="cat-item cat-item-1">
+                    <a href="/categories#Studying-ref" title="Studying">Studying&nbsp;(11)</a>
+                  </li>
+                  <li class="cat-item cat-item-1">
+                    <a href="/categories#Working-ref" title="Working">Working&nbsp;(5)</a>
+                  </li>
+                  <li class="cat-item cat-item-1">
+                    <a href="/categories#Reading-ref" title="Reading">Reading&nbsp;(5)</a>
+                  </li>
+              </ul>
+            </li>
+      
+            <li id="ilost_sidebar_recentposts" class="widget">
+              <h3 class="widgettitle">Articles</h3>
+              <ul class="random">
+                <li><a href="/working/raise-work-efficency" title="2013，提升工作效率...">2013，提升工作效率...</a></li>
+                <li><a href="/living/review-2012-look-into-2013" title="该回顾2012，展望2013了...">该回顾2012，展望2013了...</a></li>
+                <li><a href="/coding/guava-4" title="Guava 教程4-条件，多重映射和分片">Guava 教程4-条件，多重映射和分片</a></li>
+                <li><a href="/coding/guava-3" title="Guava 教程3-Java 的函数式编程，通过 Google Collections 过滤和调用">Guava 教程3-Java 的函数式编程，通过 Google Collections 过滤和调用</a></li>
+                <li><a href="/coding/guava-2" title="Guava 教程2-深入探索 Google Guava 库">Guava 教程2-深入探索 Google Guava 库</a></li>
+                <li><a href="/coding/guava-1" title="Guava 教程1-使用 Google Collections,Guava,static imports 编写漂亮代码">Guava 教程1-使用 Google Collections,Guava,static imports 编写漂亮代码</a></li>
+                <li><a href="/coding/log4j-vs-logback" title="Log4j vs Logback 性能测试及原理分析">Log4j vs Logback 性能测试及原理分析</a></li>
+                <li><a href="/working/leave-from-quanzi-team" title="转岗了...">转岗了...</a></li>
+                <li><a href="/studying/hosts-file-rollback-when-reboot-on-mac" title="Mac下修改hosts文件重启后被还原的问题解决">Mac下修改hosts文件重启后被还原的问题解决</a></li>
+                <li><a href="/living/lijiang-travel" title="两头毛驴游丽江">两头毛驴游丽江</a></li>
+              </ul>
+            </li>
+            
+            <li id="ilost_sidebar_tags" class="widget widget_categories" style="margin-bottom: 50px;">
+              <h3 class="widgettitle">Tags</h3>
+                <section class="panel panel-tags" style="margin-left: 12px;">
+                <!-- <a href='/tags#diary-ref' class='tag-link-18' title='diary' style='font-size: 12px;'>diary&nbsp;(1)</a> -->
+                <a href='/tags#diary-ref' class='tag-link-18' title='diary' style='font-size: 12px;'>diary</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#杭州-ref' class='tag-link-18' title='杭州' style='font-size: 12px;'>杭州&nbsp;(1)</a> -->
+                <a href='/tags#杭州-ref' class='tag-link-18' title='杭州' style='font-size: 12px;'>杭州</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#入职-ref' class='tag-link-18' title='入职' style='font-size: 12px;'>入职&nbsp;(1)</a> -->
+                <a href='/tags#入职-ref' class='tag-link-18' title='入职' style='font-size: 12px;'>入职</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#淘宝-ref' class='tag-link-18' title='淘宝' style='font-size: 12px;'>淘宝&nbsp;(2)</a> -->
+                <a href='/tags#淘宝-ref' class='tag-link-18' title='淘宝' style='font-size: 12px;'>淘宝</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">2</span> -->
+                <!-- <a href='/tags#shell-ref' class='tag-link-18' title='shell' style='font-size: 12px;'>shell&nbsp;(4)</a> -->
+                <a href='/tags#shell-ref' class='tag-link-18' title='shell' style='font-size: 12px;'>shell</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">4</span> -->
+                <!-- <a href='/tags#awk-ref' class='tag-link-18' title='awk' style='font-size: 12px;'>awk&nbsp;(4)</a> -->
+                <a href='/tags#awk-ref' class='tag-link-18' title='awk' style='font-size: 12px;'>awk</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">4</span> -->
+                <!-- <a href='/tags#Life-ref' class='tag-link-18' title='Life' style='font-size: 12px;'>Life&nbsp;(1)</a> -->
+                <a href='/tags#Life-ref' class='tag-link-18' title='Life' style='font-size: 12px;'>Life</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#blog-ref' class='tag-link-18' title='blog' style='font-size: 12px;'>blog&nbsp;(1)</a> -->
+                <a href='/tags#blog-ref' class='tag-link-18' title='blog' style='font-size: 12px;'>blog</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#octopress-ref' class='tag-link-18' title='octopress' style='font-size: 12px;'>octopress&nbsp;(1)</a> -->
+                <a href='/tags#octopress-ref' class='tag-link-18' title='octopress' style='font-size: 12px;'>octopress</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#wordpress-ref' class='tag-link-18' title='wordpress' style='font-size: 12px;'>wordpress&nbsp;(1)</a> -->
+                <a href='/tags#wordpress-ref' class='tag-link-18' title='wordpress' style='font-size: 12px;'>wordpress</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#ruby-ref' class='tag-link-18' title='ruby' style='font-size: 12px;'>ruby&nbsp;(1)</a> -->
+                <a href='/tags#ruby-ref' class='tag-link-18' title='ruby' style='font-size: 12px;'>ruby</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#tip-ref' class='tag-link-18' title='tip' style='font-size: 12px;'>tip&nbsp;(1)</a> -->
+                <a href='/tags#tip-ref' class='tag-link-18' title='tip' style='font-size: 12px;'>tip</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#guava-ref' class='tag-link-18' title='guava' style='font-size: 12px;'>guava&nbsp;(4)</a> -->
+                <a href='/tags#guava-ref' class='tag-link-18' title='guava' style='font-size: 12px;'>guava</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">4</span> -->
+                <!-- <a href='/tags#google-ref' class='tag-link-18' title='google' style='font-size: 12px;'>google&nbsp;(4)</a> -->
+                <a href='/tags#google-ref' class='tag-link-18' title='google' style='font-size: 12px;'>google</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">4</span> -->
+                <!-- <a href='/tags#google collections-ref' class='tag-link-18' title='google collections' style='font-size: 12px;'>google collections&nbsp;(4)</a> -->
+                <a href='/tags#google collections-ref' class='tag-link-18' title='google collections' style='font-size: 12px;'>google collections</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">4</span> -->
+                <!-- <a href='/tags#work-ref' class='tag-link-18' title='work' style='font-size: 12px;'>work&nbsp;(6)</a> -->
+                <a href='/tags#work-ref' class='tag-link-18' title='work' style='font-size: 12px;'>work</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">6</span> -->
+                <!-- <a href='/tags#jm-ref' class='tag-link-18' title='jm' style='font-size: 12px;'>jm&nbsp;(1)</a> -->
+                <a href='/tags#jm-ref' class='tag-link-18' title='jm' style='font-size: 12px;'>jm</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#sns-ref' class='tag-link-18' title='sns' style='font-size: 12px;'>sns&nbsp;(1)</a> -->
+                <a href='/tags#sns-ref' class='tag-link-18' title='sns' style='font-size: 12px;'>sns</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#visit-ref' class='tag-link-18' title='visit' style='font-size: 12px;'>visit&nbsp;(1)</a> -->
+                <a href='/tags#visit-ref' class='tag-link-18' title='visit' style='font-size: 12px;'>visit</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#旅游-ref' class='tag-link-18' title='旅游' style='font-size: 12px;'>旅游&nbsp;(1)</a> -->
+                <a href='/tags#旅游-ref' class='tag-link-18' title='旅游' style='font-size: 12px;'>旅游</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#游记-ref' class='tag-link-18' title='游记' style='font-size: 12px;'>游记&nbsp;(1)</a> -->
+                <a href='/tags#游记-ref' class='tag-link-18' title='游记' style='font-size: 12px;'>游记</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#丽江-ref' class='tag-link-18' title='丽江' style='font-size: 12px;'>丽江&nbsp;(1)</a> -->
+                <a href='/tags#丽江-ref' class='tag-link-18' title='丽江' style='font-size: 12px;'>丽江</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#小毛驴-ref' class='tag-link-18' title='小毛驴' style='font-size: 12px;'>小毛驴&nbsp;(1)</a> -->
+                <a href='/tags#小毛驴-ref' class='tag-link-18' title='小毛驴' style='font-size: 12px;'>小毛驴</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#2013-ref' class='tag-link-18' title='2013' style='font-size: 12px;'>2013&nbsp;(2)</a> -->
+                <a href='/tags#2013-ref' class='tag-link-18' title='2013' style='font-size: 12px;'>2013</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">2</span> -->
+                <!-- <a href='/tags#life-ref' class='tag-link-18' title='life' style='font-size: 12px;'>life&nbsp;(5)</a> -->
+                <a href='/tags#life-ref' class='tag-link-18' title='life' style='font-size: 12px;'>life</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">5</span> -->
+                <!-- <a href='/tags#love-ref' class='tag-link-18' title='love' style='font-size: 12px;'>love&nbsp;(2)</a> -->
+                <a href='/tags#love-ref' class='tag-link-18' title='love' style='font-size: 12px;'>love</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">2</span> -->
+                <!-- <a href='/tags#2011-ref' class='tag-link-18' title='2011' style='font-size: 12px;'>2011&nbsp;(1)</a> -->
+                <a href='/tags#2011-ref' class='tag-link-18' title='2011' style='font-size: 12px;'>2011</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#2012-ref' class='tag-link-18' title='2012' style='font-size: 12px;'>2012&nbsp;(2)</a> -->
+                <a href='/tags#2012-ref' class='tag-link-18' title='2012' style='font-size: 12px;'>2012</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">2</span> -->
+                <!-- <a href='/tags#Production-ref' class='tag-link-18' title='Production' style='font-size: 12px;'>Production&nbsp;(1)</a> -->
+                <a href='/tags#Production-ref' class='tag-link-18' title='Production' style='font-size: 12px;'>Production</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#启示录-ref' class='tag-link-18' title='启示录' style='font-size: 12px;'>启示录&nbsp;(1)</a> -->
+                <a href='/tags#启示录-ref' class='tag-link-18' title='启示录' style='font-size: 12px;'>启示录</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#心理学-ref' class='tag-link-18' title='心理学' style='font-size: 12px;'>心理学&nbsp;(1)</a> -->
+                <a href='/tags#心理学-ref' class='tag-link-18' title='心理学' style='font-size: 12px;'>心理学</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#心灵修行-ref' class='tag-link-18' title='心灵修行' style='font-size: 12px;'>心灵修行&nbsp;(1)</a> -->
+                <a href='/tags#心灵修行-ref' class='tag-link-18' title='心灵修行' style='font-size: 12px;'>心灵修行</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#心智成熟-ref' class='tag-link-18' title='心智成熟' style='font-size: 12px;'>心智成熟&nbsp;(1)</a> -->
+                <a href='/tags#心智成熟-ref' class='tag-link-18' title='心智成熟' style='font-size: 12px;'>心智成熟</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#派克-ref' class='tag-link-18' title='派克' style='font-size: 12px;'>派克&nbsp;(1)</a> -->
+                <a href='/tags#派克-ref' class='tag-link-18' title='派克' style='font-size: 12px;'>派克</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#读书笔记-ref' class='tag-link-18' title='读书笔记' style='font-size: 12px;'>读书笔记&nbsp;(1)</a> -->
+                <a href='/tags#读书笔记-ref' class='tag-link-18' title='读书笔记' style='font-size: 12px;'>读书笔记</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#log4j-ref' class='tag-link-18' title='log4j' style='font-size: 12px;'>log4j&nbsp;(1)</a> -->
+                <a href='/tags#log4j-ref' class='tag-link-18' title='log4j' style='font-size: 12px;'>log4j</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#logback-ref' class='tag-link-18' title='logback' style='font-size: 12px;'>logback&nbsp;(1)</a> -->
+                <a href='/tags#logback-ref' class='tag-link-18' title='logback' style='font-size: 12px;'>logback</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#performance-ref' class='tag-link-18' title='performance' style='font-size: 12px;'>performance&nbsp;(1)</a> -->
+                <a href='/tags#performance-ref' class='tag-link-18' title='performance' style='font-size: 12px;'>performance</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#java-ref' class='tag-link-18' title='java' style='font-size: 12px;'>java&nbsp;(1)</a> -->
+                <a href='/tags#java-ref' class='tag-link-18' title='java' style='font-size: 12px;'>java</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#ecnu-ref' class='tag-link-18' title='ecnu' style='font-size: 12px;'>ecnu&nbsp;(1)</a> -->
+                <a href='/tags#ecnu-ref' class='tag-link-18' title='ecnu' style='font-size: 12px;'>ecnu</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#2008-ref' class='tag-link-18' title='2008' style='font-size: 12px;'>2008&nbsp;(1)</a> -->
+                <a href='/tags#2008-ref' class='tag-link-18' title='2008' style='font-size: 12px;'>2008</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#review-ref' class='tag-link-18' title='review' style='font-size: 12px;'>review&nbsp;(1)</a> -->
+                <a href='/tags#review-ref' class='tag-link-18' title='review' style='font-size: 12px;'>review</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#mac-ref' class='tag-link-18' title='mac' style='font-size: 12px;'>mac&nbsp;(2)</a> -->
+                <a href='/tags#mac-ref' class='tag-link-18' title='mac' style='font-size: 12px;'>mac</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">2</span> -->
+                <!-- <a href='/tags#tips-ref' class='tag-link-18' title='tips' style='font-size: 12px;'>tips&nbsp;(1)</a> -->
+                <a href='/tags#tips-ref' class='tag-link-18' title='tips' style='font-size: 12px;'>tips</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#lion-ref' class='tag-link-18' title='lion' style='font-size: 12px;'>lion&nbsp;(2)</a> -->
+                <a href='/tags#lion-ref' class='tag-link-18' title='lion' style='font-size: 12px;'>lion</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">2</span> -->
+                <!-- <a href='/tags#OSX-ref' class='tag-link-18' title='OSX' style='font-size: 12px;'>OSX&nbsp;(1)</a> -->
+                <a href='/tags#OSX-ref' class='tag-link-18' title='OSX' style='font-size: 12px;'>OSX</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#apple-ref' class='tag-link-18' title='apple' style='font-size: 12px;'>apple&nbsp;(1)</a> -->
+                <a href='/tags#apple-ref' class='tag-link-18' title='apple' style='font-size: 12px;'>apple</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#hosts-ref' class='tag-link-18' title='hosts' style='font-size: 12px;'>hosts&nbsp;(1)</a> -->
+                <a href='/tags#hosts-ref' class='tag-link-18' title='hosts' style='font-size: 12px;'>hosts</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#hosts.ac-ref' class='tag-link-18' title='hosts.ac' style='font-size: 12px;'>hosts.ac&nbsp;(1)</a> -->
+                <a href='/tags#hosts.ac-ref' class='tag-link-18' title='hosts.ac' style='font-size: 12px;'>hosts.ac</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#Cisco AnyConnect-ref' class='tag-link-18' title='Cisco AnyConnect' style='font-size: 12px;'>Cisco AnyConnect&nbsp;(1)</a> -->
+                <a href='/tags#Cisco AnyConnect-ref' class='tag-link-18' title='Cisco AnyConnect' style='font-size: 12px;'>Cisco AnyConnect</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#English-ref' class='tag-link-18' title='English' style='font-size: 12px;'>English&nbsp;(1)</a> -->
+                <a href='/tags#English-ref' class='tag-link-18' title='English' style='font-size: 12px;'>English</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#reading-ref' class='tag-link-18' title='reading' style='font-size: 12px;'>reading&nbsp;(1)</a> -->
+                <a href='/tags#reading-ref' class='tag-link-18' title='reading' style='font-size: 12px;'>reading</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#thinging-ref' class='tag-link-18' title='thinging' style='font-size: 12px;'>thinging&nbsp;(1)</a> -->
+                <a href='/tags#thinging-ref' class='tag-link-18' title='thinging' style='font-size: 12px;'>thinging</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#Linux-ref' class='tag-link-18' title='Linux' style='font-size: 12px;'>Linux&nbsp;(1)</a> -->
+                <a href='/tags#Linux-ref' class='tag-link-18' title='Linux' style='font-size: 12px;'>Linux</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#Unix-ref' class='tag-link-18' title='Unix' style='font-size: 12px;'>Unix&nbsp;(1)</a> -->
+                <a href='/tags#Unix-ref' class='tag-link-18' title='Unix' style='font-size: 12px;'>Unix</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#OS-ref' class='tag-link-18' title='OS' style='font-size: 12px;'>OS&nbsp;(1)</a> -->
+                <a href='/tags#OS-ref' class='tag-link-18' title='OS' style='font-size: 12px;'>OS</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#帮派-ref' class='tag-link-18' title='帮派' style='font-size: 12px;'>帮派&nbsp;(1)</a> -->
+                <a href='/tags#帮派-ref' class='tag-link-18' title='帮派' style='font-size: 12px;'>帮派</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                <!-- <a href='/tags#攻击-ref' class='tag-link-18' title='攻击' style='font-size: 12px;'>攻击&nbsp;(1)</a> -->
+                <a href='/tags#攻击-ref' class='tag-link-18' title='攻击' style='font-size: 12px;'>攻击</a>
+                <!-- <span style="vertical-align: super;font-size: 0.6em;">1</span> -->
+                </section>
+            </li>
+      <!--
+            <li id="ilost_rcommentswidget-2" class="widget ilost_RCommentsWidget">
+              <h3 class="widgettitle">最近评论</h3>
+              <ul class="comment">
+                <li>
+                  <span class="avatar-warp">
+                    <img alt='' src='/assets/ilost/stylesheets/images/guest.png' class='avatar avatar-64 photo' height='64' width='64' />
+                  </span>
+                  <a href="http://xuui.net/themes/ilost-full-1-7-updata.html#comment-11479" title="On iLost Full 1.7 更新">zyzzyq.c@gmail.com</a>: 请问一下，iStudio网站大标题是宋体，这个在哪里改啊？在css的啥位置。。谢谢！
+                </li>
+              </ul>
+            </li>
+       -->
+      
+      <!--
+            <li id="meta-4" class="widget widget_meta">
+              <h3 class="widgettitle">功能</h3>
+              <ul>
+                <li><a href="http://xuui.net/wp-login.php?action=register">注册</a></li>
+                <li><a href="http://xuui.net/wp-login.php">登录</a></li>
+                <li><a href="http://xuui.net/feed" title="使用 RSS 2.0 订阅本站点内容">文章 <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+                <li><a href="http://xuui.net/comments/feed" title="使用 RSS 订阅本站点的所有文章的近期评论">评论 <abbr title="Really Simple Syndication">RSS</abbr></a>
+                </li>
+                <li><a href="http://cn.wordpress.org/" title="基于 WordPress，一个优美、先进的个人信息发布平台。">WordPress.org</a>
+                </li>
+              </ul>
+            </li>
+       -->
+          </ul>
+        </aside>
+      <div class="clear"></div>
+    </div>
+    <footer>
+      <div id="gotop">
+        <a href="javascript:;" onClick="ilosts.goTop();return false;" title="返回顶部">返回顶部</a>
+      </div>
+    <!--  
+      <aside>
+        <h3>Xu Design Archives</h3>
+        <ul>
+          <li id="ilost_catlistswidget-1" class="widget ilost_catlistsWidget">
+            <h3>License</h3>
+            <ul>
+              如非特别声明，本 Blog 的文章由 <a href="//about">唐三 </a>创作，采用<a style="white-space:pre-wrap;" target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">知识共享署名-非商业性使用-相同方式共享 3.0 Unported 许可协议</a>进行许可。
+            </ul>
+          </li>
+          <li id="ilost_catlistswidget-2" class="widget ilost_catlistsWidget">
+            <h3>Librarys</h3>
+            <ul>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+            </ul>
+          </li>
+    
+          <li id="ilost_catlistswidget-3" class="widget ilost_catlistsWidget">
+            <h3>Themes</h3>
+            <ul>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+            </ul>
+          </li>
+    
+          <li id="ilost_catlistswidget-4" class="widget ilost_catlistsWidget">
+            <h3>UI Design</h3>
+            <ul>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+            </ul>
+          </li>
+    
+          <li id="ilost_catlistswidget-5" class="widget ilost_catlistsWidget">
+            <h3>WordPress</h3>
+            <ul>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+              <li><a href="#" title="test title">这是唐三的测试页面，我要很长很长的啊，你说这么长够长么....</a></li>
+            </ul>
+          </li>
+          
+        </ul>
+        <div class="clearer"></div>
+      </aside>
+    -->
+      <div>
+        <p class="line">
+          <span class="alignright">
+            <a href="/">HOME</a>
+          </span>
+          本博部分图片来自网上，请如侵权请联系本人进行删除！&brvbar; 
+          <a href="http://creativecommons.org/licenses/by-nc-sa/3.0">Creative Commons BY-NC-SA</a> &brvbar; This is a premium theme &brvbar; Designed by <a href="http://xuui.net/">Xu.hel</a> in ChengDu.
+        </p>
+        
+        <p>
+          <span class="alignright">
+            <a target="_blank" href="http://github.com/ecchanger" title="Hosted by Github">The website is hosted by Github</a>
+          </span>Copyright &copy; 2004-2013 <a href="/" title="On the Road" rel="home">On The Road</a> &brvbar; Powered by <a href="http://ruhoh.com/">Ruhoh</a>.    
+        </p>
+      </div>
+    </footer>
+    <script type='text/javascript' src='/assets/ilost/javascripts/load.js?ver=1.5.0'></script>
+    
+    <script src='/assets/ilost/javascripts/scripts.js?ver=1.3'></script>
+    <!-- Google Prettify -->
+<script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/188.0.0/prettify.js"></script>
+<script>
+  var pres = document.getElementsByTagName("pre");
+  for (var i=0; i < pres.length; ++i) {
+    pres[i].className = "prettyprint linenums";
+  }
+  prettyPrint();
+</script>
+<!-- end Google Prettify -->
+    <!-- <script>
+  var _gaq=[['_setAccount','UA-123-12'],['_trackPageview']];
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,'script'));
+</script> -->
+
+  </body>
+</html>

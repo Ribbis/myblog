@@ -75,7 +75,8 @@ ol.linenums {
 	box-shadow: inset 40px 0 0 #373737;
 	text-shadow: none;
 	/*font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;//monospace;//,"Source Code Pro","Courier New";*/
-	font: 12px/18px Helvetica，Consolas, "Andale Mono", Courier, "Courier New", monospace;
+	/*font: 12px/18px Helvetica，Consolas, "Andale Mono", Courier, "Courier New", monospace;*/
+	font: 12px/18px 'Microsoft YaHei', Tahoma, Arial;
 	/*font-size: 12px;*/
 	font-weight: bold;
 }
